@@ -1,0 +1,232 @@
+body {
+    margin: 0; /* khoảng cách giữa nội dung và các cạnh của cửa sổ trình duyệt */
+    padding: 0; /* khoảng cách nội dung giữa những phần bao quanh nó */
+}
+
+.wrapper {
+    position: relative;
+    border: 1px solid #000; /* đường viền xung quanh toàn bộ trang */
+    height: auto;
+    width: 99.3%;
+    margin: 0 auto; /* căn giữa trang */
+}
+
+.header {
+    /* background-color: #f02020; */
+    height: 39px;
+    width: 100%;
+}
+
+/* ===== Nút head giả lập cửa sổ ===== */
+.window-controls {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    display: flex;
+    z-index: 1000;
+}
+.window-controls button {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;  
+}
+.minimize,
+.maximize,
+.close { background-color: #fff; }
+.close { color: #000; }
+.window-controls .minimize:hover,
+.window-controls .maximize:hover { background-color: #e0e0e0; }
+.window-controls .close:hover { background-color: #f02424; color: #fff; opacity: 0.8; }
+
+/* ===== Thanh menu ===== */
+.menu {
+    background-color: #949494;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* nút ở trái, menu-right ở phải */
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+.power-group { display: flex; align-items: center; gap: 10px; }
+.power-control-group { display: flex; align-items: center; gap: 3px; }
+.power-item { display: flex; align-items: center; }
+
+/* Nút nguồn */
+.power-text { color: #fff; font-size: 18px; margin-left: 1px; font-weight: bold; }
+.menu-right { color: #fff; font-size: 18px; margin-right: 3%; font-weight: bold; }
+.menu-right a { color: #fff; font-size: 18px; font-weight: bold; cursor: pointer; }
+.menu-right a + a { margin-left: 10px; }
+
+.circle-button {
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+}
+.power-off, .power-on { width: 35px; height: 35px; font-size: 20px; }
+.power-off { background-color: red; }
+.power-on  { background-color: green; }
+
+/* ===== Khu vực chính ===== */
+#main {
+    border: 1px solid #e1e1df;
+    background-color: #e1e1df;
+    height: 812px;  /* thay vì 700px, 80px = menu + footer */
+    width: 100%;
+}
+
+/* ===== CAMERA ===== */
+.video-container {
+    background-color: #e1e1df;
+    height: 99%;   /* thay vì 691px */
+    width: 75%;
+    margin-top: 4px;
+    margin-left: 4px;
+    float: left;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 5px;
+}
+
+.camera-box {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: black;
+  overflow: hidden;
+}
+
+.camera-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.camera-box video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.cam-label {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+  color: white;
+  font-size: 14px;
+  background: rgba(0,0,0,0.5);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* ===== CỘT BIỂN SỐ (feed) ===== */
+.plate-results {
+    width: 24.5%;
+    float: right;
+    height: 100%;   
+    margin-top: 2px;
+    margin-right: 2px;
+    padding: 7px;
+    overflow-y: auto;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+/* Thẻ a bọc mỗi item */
+.plate-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+/* Mỗi item (theme nền trắng như bản cũ của bạn) */
+.plate-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  padding: 7px;
+  margin: 0;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+/* Hover */
+.plate-link:hover .plate-item {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Ảnh trong item */
+.plate-item img {
+  width: 170px;
+  height: 130px;
+  border-radius: 3px;
+  margin-right: 10px;
+  object-fit: cover;
+}
+
+.plate-info {
+  flex: 1;
+  margin-top: 5px;
+  font-size: 14px;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+.plate-info div { margin-bottom: 4px; }
+.plate-info span { font-weight: bold; color: #000; }
+
+/* Thời gian (nếu dùng class riêng) */
+.plate-info .timestamp {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #666;
+}
+
+/* Overlay thời gian (nếu cần dùng ID này) */
+#timestampOverlay {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  padding: 4px 8px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 14px;
+  font-family: monospace;
+  border-radius: 3px;
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* Biển số in đậm */
+.plate-info .plate-number {
+  font-weight: bold;
+  font-size: 18px;
+  color: #000;
+}
+
+/* ===== Footer ===== */
+.footer {
+    border: 1px solid #949494;
+    background-color: #949494;
+    height: 30px;
+    width: 100%;
+}
+
+.clear { clear: both; }

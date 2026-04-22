@@ -1,0 +1,136 @@
+/* (CHG) Bố cục 2 cột chính: khối ảnh (trái) và form (phải) */
+.edit-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+}
+
+/* (CHG) Responsive: dưới 960px thì xếp 1 cột cho dễ xem */
+@media (max-width: 960px) {
+  .edit-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* (base) Khung thẻ (card) bên trái/phải */
+.pane {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(2, 6, 23, 0.06);
+}
+
+.pane-hd {
+  padding: 12px 16px;
+  border-bottom: 1px solid #eef2f7;
+  font-weight: 700;
+}
+
+.pane-bd {
+  padding: 14px;
+}
+
+/* (NEW) Xếp dọc hai ảnh: "Ảnh biển số" ở trên, "Ảnh toàn cảnh" ở dưới */
+.img-grid.vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* (base) Khung từng ảnh */
+.img-box {
+  border: 1px dashed #e5e7eb;
+  border-radius: 10px;
+  padding: 8px;
+}
+
+.img-box h4 {
+  margin: 0 0 6px 0;
+  font-size: 14px;
+  color: #374151;
+}
+
+/* (CHG) Ảnh preview — giữ tỉ lệ, thu nhỏ chiều cao để đỡ to */
+.img-box img {
+  display: block;
+  max-width: 100%;
+  height: auto;           /* giữ đúng tỉ lệ */
+  max-height: 450px;      /* chỉnh số này nếu muốn nhỏ/lớn hơn
+  object-fit: contain;    /* ảnh không bị cắt */
+  margin: 0 auto;         /* canh giữa */
+}
+
+
+/* From input */
+.form-row {
+  margin-bottom: 14px;
+}
+
+.form-row label {
+  display: block;
+  font-size: 14px;
+  color: #374151;
+  margin-bottom: 6px;
+}
+
+/* (base) Input & select */
+.ipt,
+.select {
+  width: 100%;
+  height: 44px;
+  padding: 0 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  background: #fff;
+  font-size: 15px;
+  box-sizing: border-box;
+  outline: none;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+/* (base) Hiệu ứng focus */
+.ipt:focus,
+.select:focus {
+  border-color: #9ec1ff;
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.18);
+}
+
+.btn-row {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  margin-top: 6px;
+}
+
+.btn {
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid #3b82f6;
+  background: #3b82f6;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn.sec {
+  background: #fff;
+  color: #111827;
+  border-color: #d1d5db;
+}
+
+.msg.err {
+  background: #fee2e2;
+  color: #b91c1c;
+  border: 1px solid #fecaca;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+}
+
+.muted {
+  color: #6b7280;
+  font-size: 13px;
+}
+

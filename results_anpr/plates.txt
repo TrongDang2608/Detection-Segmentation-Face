@@ -1,0 +1,1199 @@
+2025-08-29 20:43:29 — 59-C2 93474
+2025-08-29 20:43:29 — 59-2 93474
+2025-08-29 20:43:29 — 59-C2 93474
+2025-08-29 20:43:30 — 59-2 93474
+2025-08-29 21:05:28 — 50H 57495
+2025-08-29 21:05:29 — 50D-H 57495
+2025-08-29 21:05:29 — 5D0H 57495
+2025-08-29 21:05:29 — 50H 57495
+2025-08-29 21:07:17 — 517F 25451
+2025-08-29 21:07:17 — 51F 25451
+2025-08-29 21:40:44 — 49-C1 53133
+2025-08-29 21:40:46 — 49-C61 53133
+2025-08-29 21:40:46 — 49-C1 53133
+2025-08-29 21:40:48 — 49-61 53133
+2025-08-29 22:03:02 — 60N 30135
+2025-08-29 22:03:04 — 60H-N 30135
+2025-08-29 22:03:07 — 0HN 30135
+2025-08-29 22:03:08 — 0H 30135
+2025-08-29 22:18:32 — 59-C2 93474
+2025-08-29 22:18:33 — 59-CG2 93474
+2025-08-29 22:18:33 — 59-C2 93474
+2025-08-29 22:18:33 — 59-G2 93474
+2025-08-29 22:22:54 — 59-C2 93474
+2025-08-29 22:22:54 — 59-2 93474
+2025-08-29 22:22:55 — 59-C2 93474
+2025-08-29 22:22:56 — 59-2 93474
+2025-08-29 22:23:05 — 50-AA 85452
+2025-08-29 22:23:12 — 50-AA 85452
+2025-08-29 22:23:27 — 95-E1 49578
+2025-08-29 22:23:29 — 95-E1 495778
+2025-08-29 22:23:29 — 95-E1 49578
+2025-08-29 22:23:51 — 50 5795
+2025-08-29 22:23:51 — 50 57495
+2025-08-29 22:23:51 — 50 5795
+2025-08-29 22:23:52 — 50H 57495
+2025-08-29 22:25:08 — 49-C1 53133
+2025-08-29 22:25:44 — 59-7A 11330
+2025-08-29 22:25:45 — 59-7VA 11330
+2025-08-29 22:25:45 — 59-7A 11330
+2025-08-29 22:25:47 — 59--7A 11330
+2025-08-30 00:10:07 — 59-C2 93474
+2025-08-30 00:10:08 — 59-2 93474
+2025-08-30 00:10:10 — 59-62 93474
+2025-08-30 00:10:10 — 59-G2 93474
+2025-08-30 00:14:40 — 59-7A 11330
+2025-08-30 00:15:05 — 51F 25451
+2025-08-30 00:16:26 — 51F 25451
+2025-08-30 00:28:30 — 49-C1 53133
+2025-08-30 00:32:11 — 30610H3
+2025-08-30 00:32:12 — 60H 30135
+2025-08-30 00:32:14 — 60H 30135
+2025-08-30 00:44:02 — 65-9P7 9679
+2025-08-30 00:44:02 — 65-P7 9679
+2025-08-30 00:44:36 — 65-R1 7326
+2025-08-30 00:44:36 — 65-RP1 7326
+2025-08-30 00:44:37 — 65-R1 7326
+2025-09-04 22:54:53	62-U1 06325
+2025-09-04 22:54:55	62-U1 06325
+2025-09-04 23:49:19	65-RP2 2520
+2025-09-04 23:49:21	65-R2 2520
+2025-09-04 23:49:23	65-B2 2520
+2025-09-04 23:49:25	65-BR2 2520
+2025-09-04 23:49:27	65-RP2 2520
+2025-09-04 23:49:29	65-R2 2520
+2025-09-04 23:53:34	5B
+2025-09-04 23:53:36	65-B1 22893
+2025-09-04 23:53:38	65-B1 22893
+2025-09-04 23:53:40	65-B1 22893
+2025-09-06 14:44:01	65-PR2 2520	results_anpr/vehicles/veh_20250906_144401_093.jpg	results_anpr/plates/plate_20250906_144401_093.png
+2025-09-06 14:54:04	62-U1 06325	results_anpr/vehicles/veh_20250906_145404_153.jpg	results_anpr/plates/plate_20250906_145404_153.png
+2025-09-06 15:06:24	65-X4 4424
+2025-09-06 15:06:36	655P1 17326
+2025-09-06 15:06:37	65-R1 7326
+2025-09-06 15:26:55	65-R1 7326	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_152654_988.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_152654_988.png
+2025-09-06 15:27:07	65-P7 9679	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_152706_654.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_152706_654.png
+2025-09-06 15:27:25	95-P2Z 079	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_152725_707.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_152725_707.png
+2025-09-06 15:27:28	95-P2 0790	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_152728_816.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_152728_816.png
+2025-09-06 17:45:02	65-R2 2520	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_174502_079.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_174502_079.png
+2025-09-06 17:45:06	55-2 520	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_174505_757.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_174505_757.png
+2025-09-06 17:45:18	65-BR2 2520	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_174517_714.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_174517_714.png
+2025-09-06 17:46:19	5-R2 20	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_174619_023.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_174619_023.png
+2025-09-06 17:46:20	65-R2 2520	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_174620_832.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_174620_832.png
+2025-09-06 18:17:48	S5-R2 23520	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_181748_231.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_181748_231.png
+2025-09-06 18:17:50	65-RP2 2520	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_181750_069.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_181750_069.png
+2025-09-06 18:58:18	R-P6 6755	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_185817_832.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_185817_832.png
+2025-09-06 18:58:19	68-PP6 6755	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_185819_663.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_185819_663.png
+2025-09-06 19:06:41	65-P7 9679	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_190640_524.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_190640_524.png
+2025-09-06 19:35:54	83-C1 03243	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_193554_138.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_193554_138.png
+2025-09-06 21:44:14	62-U 0632	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_214414_568.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_214414_568.png
+2025-09-06 21:44:22	62-U1 06325	C:/xampp/htdocs/BTVN/results_anpr/vehicles/veh_20250906_214421_862.jpg	C:/xampp/htdocs/BTVN/results_anpr/plates/plate_20250906_214421_862.png
+2025-09-06 22:03:02	62-U1 06325	results_anpr/vehicles/veh_20250906_220301_628.jpg	results_anpr/crops/plate_20250906_220301_628.png
+2025-09-06 22:03:03	62-U1 06325	results_anpr/vehicles/veh_20250906_220303_269.jpg	results_anpr/crops/plate_20250906_220303_269.png
+2025-09-06 23:06:40	64-F8 1149	results_anpr/vehicles/veh_20250906_230639_999.jpg	results_anpr/crops/plate_20250906_230639_999.png
+2025-09-06 23:06:41	64-F8 1149	results_anpr/vehicles/veh_20250906_230641_832.jpg	results_anpr/crops/plate_20250906_230641_832.png
+2025-09-06 23:06:43	64-F8 1149	results_anpr/vehicles/veh_20250906_230643_654.jpg	results_anpr/crops/plate_20250906_230643_654.png
+2025-09-06 23:06:45	64-F8 1149	results_anpr/vehicles/veh_20250906_230645_262.jpg	results_anpr/crops/plate_20250906_230645_262.png
+2025-09-06 23:06:50	64-F8 1149	results_anpr/vehicles/veh_20250906_230650_892.jpg	results_anpr/crops/plate_20250906_230650_892.png
+2025-09-06 23:06:52	64-F8 1149	results_anpr/vehicles/veh_20250906_230652_486.jpg	results_anpr/crops/plate_20250906_230652_486.png
+2025-09-06 23:06:54	64-F8 1149	results_anpr/vehicles/veh_20250906_230654_316.jpg	results_anpr/crops/plate_20250906_230654_316.png
+2025-09-06 23:08:10	95-P2 0790	results_anpr/vehicles/veh_20250906_230810_373.jpg	results_anpr/crops/plate_20250906_230810_373.png
+2025-09-06 23:11:20	49-C1 53133	results_anpr/vehicles/veh_20250906_231120_362.jpg	results_anpr/crops/plate_20250906_231120_362.png
+2025-09-06 23:11:22	49-C1 53133	results_anpr/vehicles/veh_20250906_231122_188.jpg	results_anpr/crops/plate_20250906_231122_188.png
+2025-09-06 23:11:24	49-C1 53133	results_anpr/vehicles/veh_20250906_231124_025.jpg	results_anpr/crops/plate_20250906_231124_025.png
+2025-09-07 00:28:49	65-P1 8611	results_anpr/vehicles/veh_20250907_002849_115.jpg	results_anpr/crops/plate_20250907_002849_115.png
+2025-09-07 00:41:20	6F-A4L 007877	results_anpr/vehicles/veh_20250907_004120_050.jpg	results_anpr/crops/plate_20250907_004120_050.png
+2025-09-07 00:41:22	67-AL 00787	results_anpr/vehicles/veh_20250907_004121_901.jpg	results_anpr/crops/plate_20250907_004121_901.png
+2025-09-07 13:27:50	7-U1U1 24	results_anpr/vehicles/veh_20250907_132750_022.jpg	results_anpr/crops/plate_20250907_132750_022.png
+2025-09-07 13:27:54	62-U1 06325	results_anpr/vehicles/veh_20250907_132754_846.jpg	results_anpr/crops/plate_20250907_132754_846.png
+2025-09-07 14:13:56	65-9 36	results_anpr/vehicles/veh_20250907_141355_711.jpg	results_anpr/crops/plate_20250907_141355_711.png
+2025-09-07 14:13:57	65-P1 8611	results_anpr/vehicles/veh_20250907_141357_526.jpg	results_anpr/crops/plate_20250907_141357_526.png
+2025-09-07 14:42:51	60-U1 4632	results_anpr/vehicles/veh_20250907_144251_345.jpg	results_anpr/crops/plate_20250907_144251_345.png
+2025-09-07 15:12:02	167-H9 6619	results_anpr/vehicles/veh_20250907_151201_858.jpg	results_anpr/crops/plate_20250907_151201_858.png
+2025-09-07 15:12:03	67-H9 6618	results_anpr/vehicles/veh_20250907_151203_424.jpg	results_anpr/crops/plate_20250907_151203_424.png
+2025-09-07 15:17:54	LNK2 4474	results_anpr/vehicles/veh_20250907_151753_830.jpg	results_anpr/crops/plate_20250907_151753_830.png
+2025-09-07 15:17:56	65-NK2 4474	results_anpr/vehicles/veh_20250907_151755_692.jpg	results_anpr/crops/plate_20250907_151755_692.png
+2025-09-07 15:17:57	65-NK2 4474	results_anpr/vehicles/veh_20250907_151757_287.jpg	results_anpr/crops/plate_20250907_151757_287.png
+2025-09-07 16:38:04	60-UD1 4632	results_anpr/vehicles/veh_20250907_163803_758.jpg	results_anpr/crops/plate_20250907_163803_758.png
+2025-09-07 17:22:41	65-N2 4474	results_anpr/vehicles/veh_20250907_172241_232.jpg	results_anpr/crops/plate_20250907_172241_232.png
+2025-09-07 17:24:26	65-N2 4474	results_anpr/vehicles/veh_20250907_172426_075.jpg	results_anpr/crops/plate_20250907_172426_075.png
+2025-09-07 17:24:35	67-H9 6618	results_anpr/vehicles/veh_20250907_172434_856.jpg	results_anpr/crops/plate_20250907_172434_856.png
+2025-09-07 17:48:32	62-UDV17 06325	results_anpr/vehicles/veh_20250907_174832_400.jpg	results_anpr/crops/plate_20250907_174832_400.png
+2025-09-07 18:04:54	59-2 93474	results_anpr/vehicles/veh_20250907_180454_175.jpg	results_anpr/crops/plate_20250907_180454_175.png
+2025-09-07 18:12:36	64-U1 3872	results_anpr/vehicles/veh_20250907_181236_542.jpg	results_anpr/crops/plate_20250907_181236_542.png
+2025-09-07 18:12:45	64-H4 4807	results_anpr/vehicles/veh_20250907_181245_310.jpg	results_anpr/crops/plate_20250907_181245_310.png
+2025-09-07 18:12:55	65-NK2 4474	results_anpr/vehicles/veh_20250907_181255_039.jpg	results_anpr/crops/plate_20250907_181255_039.png
+2025-09-07 18:12:56	65-N2 4474	results_anpr/vehicles/veh_20250907_181256_848.jpg	results_anpr/crops/plate_20250907_181256_848.png
+2025-09-07 18:13:08	83-S5 8378	results_anpr/vehicles/veh_20250907_181307_756.jpg	results_anpr/crops/plate_20250907_181307_756.png
+2025-09-07 18:13:21	-HL 223	results_anpr/vehicles/veh_20250907_181320_891.jpg	results_anpr/crops/plate_20250907_181320_891.png
+2025-09-07 18:13:22	62-D1 22862	results_anpr/vehicles/veh_20250907_181322_721.jpg	results_anpr/crops/plate_20250907_181322_721.png
+2025-09-07 18:13:27	30G0-40304	results_anpr/vehicles/veh_20250907_181326_988.jpg	results_anpr/crops/plate_20250907_181326_988.png
+2025-09-07 18:13:28	30G6-40304	results_anpr/vehicles/veh_20250907_181328_754.jpg	results_anpr/crops/plate_20250907_181328_754.png
+2025-09-07 18:13:44	54-F1 8502	results_anpr/vehicles/veh_20250907_181343_925.jpg	results_anpr/crops/plate_20250907_181343_925.png
+2025-09-07 18:13:46	154-F1 8502	results_anpr/vehicles/veh_20250907_181345_770.jpg	results_anpr/crops/plate_20250907_181345_770.png
+2025-09-07 18:18:42	62-U1 06325	results_anpr/vehicles/veh_20250907_181841_958.jpg	results_anpr/crops/plate_20250907_181841_958.png
+2025-09-07 18:18:43	62-U1 06325	results_anpr/vehicles/veh_20250907_181843_770.jpg	results_anpr/crops/plate_20250907_181843_770.png
+2025-09-07 18:35:32	65-B1 22893	results_anpr/vehicles/veh_20250907_183532_658.jpg	results_anpr/crops/plate_20250907_183532_658.png
+2025-09-07 18:59:01	62-111 02	results_anpr/vehicles/veh_20250907_185901_203.jpg	results_anpr/crops/plate_20250907_185901_203.png
+2025-09-07 18:59:03	62-U1 06325	results_anpr/vehicles/veh_20250907_185903_069.jpg	results_anpr/crops/plate_20250907_185903_069.png
+2025-09-07 19:18:39	-4U 47	results_anpr/vehicles/veh_20250907_191838_664.jpg	results_anpr/crops/plate_20250907_191838_664.png
+2025-09-07 19:18:48	64-U1 3872	results_anpr/vehicles/veh_20250907_191848_044.jpg	results_anpr/crops/plate_20250907_191848_044.png
+2025-09-07 19:18:56	60-U1 4632	results_anpr/vehicles/veh_20250907_191856_103.jpg	results_anpr/crops/plate_20250907_191856_103.png
+2025-09-07 19:31:54	62-U1 0632	results_anpr/vehicles/veh_20250907_193154_147.jpg	results_anpr/crops/plate_20250907_193154_147.png
+2025-09-07 19:31:56	62-U1 06325	results_anpr/vehicles/veh_20250907_193155_976.jpg	results_anpr/crops/plate_20250907_193155_976.png
+2025-09-07 19:35:02	62-UVD1 06325	results_anpr/vehicles/veh_20250907_193501_761.jpg	results_anpr/crops/plate_20250907_193501_761.png
+2025-09-07 19:35:03	62-U7 06325	results_anpr/vehicles/veh_20250907_193503_568.jpg	results_anpr/crops/plate_20250907_193503_568.png
+2025-09-07 19:35:05	62-U1 06325	results_anpr/vehicles/veh_20250907_193505_398.jpg	results_anpr/crops/plate_20250907_193505_398.png
+2025-09-07 19:44:02	6719- 6361	results_anpr/vehicles/veh_20250907_194401_492.jpg	results_anpr/crops/plate_20250907_194401_492.png
+2025-09-07 19:44:03	67-H9 6618	results_anpr/vehicles/veh_20250907_194403_322.jpg	results_anpr/crops/plate_20250907_194403_322.png
+2025-09-07 19:55:34	95-B1 00287	results_anpr/vehicles/veh_20250907_195533_842.jpg	results_anpr/crops/plate_20250907_195533_842.png
+2025-09-07 19:56:47	65-N2 4474	results_anpr/vehicles/veh_20250907_195646_942.jpg	results_anpr/crops/plate_20250907_195646_942.png
+2025-09-07 19:57:10	54-51 38502	results_anpr/vehicles/veh_20250907_195709_356.jpg	results_anpr/crops/plate_20250907_195709_356.png
+2025-09-07 19:57:11	54-F1 8502	results_anpr/vehicles/veh_20250907_195711_197.jpg	results_anpr/crops/plate_20250907_195711_197.png
+2025-09-08 00:32:41	33N-2 44474	results_anpr/vehicles/veh_20250908_003240_903.jpg	results_anpr/crops/plate_20250908_003240_903.png
+2025-09-08 00:32:42	65-N2 4474	results_anpr/vehicles/veh_20250908_003242_718.jpg	results_anpr/crops/plate_20250908_003242_718.png
+2025-09-08 00:54:35	49-C1 53133	results_anpr/vehicles/veh_20250908_005435_059.jpg	results_anpr/crops/plate_20250908_005435_059.png
+2025-09-08 01:33:14	71-B3 2803	results_anpr/vehicles/veh_20250908_013313_879.jpg	results_anpr/crops/plate_20250908_013313_879.png
+2025-09-08 01:33:16	7-8 28036	results_anpr/vehicles/veh_20250908_013315_757.jpg	results_anpr/crops/plate_20250908_013315_757.png
+2025-09-08 01:33:17	UNKNOWN	results_anpr/vehicles/veh_20250908_013317_589.jpg	results_anpr/crops/plate_20250908_013317_589.jpg
+2025-09-08 01:33:25	66-C1 57813	results_anpr/vehicles/veh_20250908_013325_431.jpg	results_anpr/crops/plate_20250908_013325_431.png
+2025-09-08 01:33:27	5- 7035	results_anpr/vehicles/veh_20250908_013327_262.jpg	results_anpr/crops/plate_20250908_013327_262.png
+2025-09-08 01:33:29	UNKNOWN	results_anpr/vehicles/veh_20250908_013329_122.jpg	results_anpr/crops/plate_20250908_013329_122.jpg
+2025-09-08 01:33:44	62-U1 06325	results_anpr/vehicles/veh_20250908_013343_688.jpg	results_anpr/crops/plate_20250908_013343_688.png
+2025-09-08 01:41:24	83-C1 03243	results_anpr/vehicles/veh_20250908_014123_804.jpg	results_anpr/crops/plate_20250908_014123_804.png
+2025-09-08 01:41:56	154-1 8502	results_anpr/vehicles/veh_20250908_014155_182.jpg	results_anpr/crops/plate_20250908_014155_182.png
+2025-09-08 01:41:56	154-F1 8502	results_anpr/vehicles/veh_20250908_014156_923.jpg	results_anpr/crops/plate_20250908_014156_923.png
+2025-09-08 01:42:17	71-B3 2803	results_anpr/vehicles/veh_20250908_014216_982.jpg	results_anpr/crops/plate_20250908_014216_982.png
+2025-09-08 01:42:19	7-8 28036	results_anpr/vehicles/veh_20250908_014218_835.jpg	results_anpr/crops/plate_20250908_014218_835.png
+2025-09-08 01:42:20	UNKNOWN	results_anpr/vehicles/veh_20250908_014220_695.jpg	results_anpr/crops/plate_20250908_014220_695.jpg
+2025-09-08 01:42:43	59-V3 82374	results_anpr/vehicles/veh_20250908_014243_445.jpg	results_anpr/crops/plate_20250908_014243_445.png
+2025-09-08 01:42:45	59-V3 82374	results_anpr/vehicles/veh_20250908_014245_288.jpg	results_anpr/crops/plate_20250908_014245_288.png
+2025-09-08 01:42:47	602-17 2286	results_anpr/vehicles/veh_20250908_014247_130.jpg	results_anpr/crops/plate_20250908_014247_130.png
+2025-09-08 01:42:49	62-D1 228602	results_anpr/vehicles/veh_20250908_014248_960.jpg	results_anpr/crops/plate_20250908_014248_960.png
+2025-09-08 12:44:09	71-B3 2803	results_anpr/vehicles/veh_20250908_124409_223.jpg	results_anpr/crops/plate_20250908_124409_223.png
+2025-09-08 12:44:11	77-B 28036	results_anpr/vehicles/veh_20250908_124411_059.jpg	results_anpr/crops/plate_20250908_124411_059.png
+2025-09-08 12:44:13	UNKNOWN	results_anpr/vehicles/veh_20250908_124412_930.jpg	results_anpr/crops/plate_20250908_124412_930.jpg
+2025-09-08 12:44:20	66-C1 57813	results_anpr/vehicles/veh_20250908_124420_765.jpg	results_anpr/crops/plate_20250908_124420_765.png
+2025-09-08 12:44:23	UNKNOWN	results_anpr/vehicles/veh_20250908_124422_708.jpg	results_anpr/crops/plate_20250908_124422_708.jpg
+2025-09-08 12:44:24	UNKNOWN	results_anpr/vehicles/veh_20250908_124424_663.jpg	results_anpr/crops/plate_20250908_124424_663.jpg
+2025-09-08 13:02:40	59-V3 82374	results_anpr/vehicles/veh_20250908_130240_519.jpg	results_anpr/crops/plate_20250908_130240_519.png
+2025-09-08 13:02:42	59-V3 82374	results_anpr/vehicles/veh_20250908_130242_350.jpg	results_anpr/crops/plate_20250908_130242_350.png
+2025-09-08 13:02:44	602-17 2286	results_anpr/vehicles/veh_20250908_130244_194.jpg	results_anpr/crops/plate_20250908_130244_194.png
+2025-09-08 13:02:46	62-D1 22862	results_anpr/vehicles/veh_20250908_130246_033.jpg	results_anpr/crops/plate_20250908_130246_033.png
+2025-09-08 13:43:05	65-X4 7589	results_anpr/vehicles/veh_20250908_134304_678.jpg	results_anpr/crops/plate_20250908_134304_678.png
+2025-09-08 13:43:06	65-KX4 7589	results_anpr/vehicles/veh_20250908_134306_535.jpg	results_anpr/crops/plate_20250908_134306_535.png
+2025-09-08 13:43:44	71-B3 2803	results_anpr/vehicles/veh_20250908_134343_802.jpg	results_anpr/crops/plate_20250908_134343_802.png
+2025-09-08 13:43:46	7-8 28036	results_anpr/vehicles/veh_20250908_134345_660.jpg	results_anpr/crops/plate_20250908_134345_660.png
+2025-09-08 13:45:21	6656-L1 065273	results_anpr/vehicles/veh_20250908_134520_631.jpg	results_anpr/crops/plate_20250908_134520_631.png
+2025-09-08 13:45:22	66-L1 05273	results_anpr/vehicles/veh_20250908_134522_439.jpg	results_anpr/crops/plate_20250908_134522_439.png
+2025-09-08 13:55:28	51A-00530	results_anpr/vehicles/veh_20250908_135527_622.jpg	results_anpr/crops/plate_20250908_135527_622.png
+2025-09-08 13:55:29	51A-00530	results_anpr/vehicles/veh_20250908_135529_338.jpg	results_anpr/crops/plate_20250908_135529_338.png
+2025-09-08 13:55:45	59-V3 82374	results_anpr/vehicles/veh_20250908_135545_082.jpg	results_anpr/crops/plate_20250908_135545_082.png
+2025-09-08 13:55:47	59-V3 82374	results_anpr/vehicles/veh_20250908_135546_908.jpg	results_anpr/crops/plate_20250908_135546_908.png
+2025-09-08 14:08:37	59-V3 82374	results_anpr/vehicles/veh_20250908_140836_725.jpg	results_anpr/crops/plate_20250908_140836_725.png
+2025-09-08 14:08:38	59-V3 82374	results_anpr/vehicles/veh_20250908_140838_558.jpg	results_anpr/crops/plate_20250908_140838_558.png
+2025-09-08 14:08:41	602-17 2286	results_anpr/vehicles/veh_20250908_140840_387.jpg	results_anpr/crops/plate_20250908_140840_387.png
+2025-09-08 14:08:42	62-D1 22862	results_anpr/vehicles/veh_20250908_140842_225.jpg	results_anpr/crops/plate_20250908_140842_225.png
+2025-09-08 14:08:44	67-L1 31748	results_anpr/vehicles/veh_20250908_140844_050.jpg	results_anpr/crops/plate_20250908_140844_050.png
+2025-09-08 14:08:44	67-L1 31748	results_anpr/vehicles/add_20250908_092407_eb0bbb.jpg	results_anpr/crops/add_20250908_092407_e0d026.png
+2025-09-08 14:08:44	67-L1 31748	results_anpr/vehicles/add_20250908_092521_b3d2dc.jpg	results_anpr/crops/add_20250908_092521_1e55f5.png
+2025-09-08 14:25:23	59-V3 82374	results_anpr/vehicles/veh_20250908_142523_073.jpg	results_anpr/crops/plate_20250908_142523_073.png
+2025-09-08 14:25:23	59-V3 82374	results_anpr/vehicles/add_20250908_092524_8c92d0.jpg	results_anpr/crops/add_20250908_092524_fcf840.png
+2025-09-08 14:25:25	59-V3 82374	results_anpr/vehicles/veh_20250908_142524_935.jpg	results_anpr/crops/plate_20250908_142524_935.png
+2025-09-08 14:25:25	59-V3 82374	results_anpr/vehicles/add_20250908_092525_1c9450.jpg	results_anpr/crops/add_20250908_092525_c37d67.png
+2025-09-08 14:25:27	602-17 2286	results_anpr/vehicles/veh_20250908_142526_770.jpg	results_anpr/crops/plate_20250908_142526_770.png
+2025-09-08 14:25:27	602-17 2286	results_anpr/vehicles/add_20250908_092528_07ff05.jpg	results_anpr/crops/add_20250908_092528_0c9d13.png
+2025-09-08 14:25:28	62-D1 228602	results_anpr/vehicles/veh_20250908_142528_613.jpg	results_anpr/crops/plate_20250908_142528_613.png
+2025-09-08 14:25:28	62-D1 228602	results_anpr/vehicles/add_20250908_092529_38f708.jpg	results_anpr/crops/add_20250908_092529_990ae2.png
+2025-09-08 14:25:30	67-L1 31748	results_anpr/vehicles/veh_20250908_142530_453.jpg	results_anpr/crops/plate_20250908_142530_453.png
+2025-09-08 14:25:30	67-L1 31748	results_anpr/vehicles/add_20250908_092531_a0e107.jpg	results_anpr/crops/add_20250908_092531_89cefb.png
+2025-09-08 14:25:32	71- 231	results_anpr/vehicles/veh_20250908_142532_319.jpg	results_anpr/crops/plate_20250908_142532_319.png
+2025-09-08 14:25:32	71- 231	results_anpr/vehicles/add_20250908_092533_08136e.jpg	results_anpr/crops/add_20250908_092533_e2a354.png
+2025-09-08 14:25:34	711-4 2317-07	results_anpr/vehicles/veh_20250908_142534_201.jpg	results_anpr/crops/plate_20250908_142534_201.png
+2025-09-08 14:25:34	711-4 2317-07	results_anpr/vehicles/add_20250908_092535_ee3b98.jpg	results_anpr/crops/add_20250908_092535_60ea9f.png
+2025-09-08 14:25:36	66- 586	results_anpr/vehicles/veh_20250908_142536_054.jpg	results_anpr/crops/plate_20250908_142536_054.png
+2025-09-08 14:25:36	66- 586	results_anpr/vehicles/add_20250908_092537_a99835.jpg	results_anpr/crops/add_20250908_092537_f2a2d4.png
+2025-09-08 14:25:40	UNKNOWN	results_anpr/vehicles/veh_20250908_142539_489.jpg	results_anpr/crops/plate_20250908_142539_489.jpg
+2025-09-08 14:25:40	UNKNOWN	results_anpr/vehicles/add_20250908_092540_fdb3db.jpg	
+2025-09-08 14:25:41	59-N2 65615	results_anpr/vehicles/veh_20250908_142541_322.jpg	results_anpr/crops/plate_20250908_142541_322.png
+2025-09-08 14:25:41	59-N2 65615	results_anpr/vehicles/add_20250908_092542_6ba409.jpg	results_anpr/crops/add_20250908_092542_7bb3aa.png
+2025-09-08 14:25:43	62 21	results_anpr/vehicles/veh_20250908_142543_719.jpg	results_anpr/crops/plate_20250908_142543_719.png
+2025-09-08 14:25:43	62 21	results_anpr/vehicles/add_20250908_092544_09f1a7.jpg	results_anpr/crops/add_20250908_092544_7d2ca3.png
+2025-09-08 14:25:46	62-U1 21163	results_anpr/vehicles/veh_20250908_142545_569.jpg	results_anpr/crops/plate_20250908_142545_569.png
+2025-09-08 14:25:46	62-U1 21163	results_anpr/vehicles/add_20250908_092546_97a114.jpg	results_anpr/crops/add_20250908_092546_29f00a.png
+2025-09-08 14:25:47	66-N 580	results_anpr/vehicles/veh_20250908_142547_432.jpg	results_anpr/crops/plate_20250908_142547_432.png
+2025-09-08 14:25:47	66-N 580	results_anpr/vehicles/add_20250908_092548_48abd1.jpg	results_anpr/crops/add_20250908_092548_965a8e.png
+2025-09-08 14:25:49	66-N1 58005	results_anpr/vehicles/veh_20250908_142549_278.jpg	results_anpr/crops/plate_20250908_142549_278.png
+2025-09-08 14:25:49	66-N1 58005	results_anpr/vehicles/add_20250908_092550_42f300.jpg	results_anpr/crops/add_20250908_092550_b06fd9.png
+2025-09-08 14:25:51	61- 15D	results_anpr/vehicles/veh_20250908_142551_166.jpg	results_anpr/crops/plate_20250908_142551_166.png
+2025-09-08 14:25:51	61- 15D	results_anpr/vehicles/add_20250908_092551_f3d3e5.jpg	results_anpr/crops/add_20250908_092551_0c983e.png
+2025-09-08 14:25:53	9P	results_anpr/vehicles/veh_20250908_142553_083.jpg	results_anpr/crops/plate_20250908_142553_083.png
+2025-09-08 14:25:53	9P	results_anpr/vehicles/add_20250908_092553_0af0e2.jpg	results_anpr/crops/add_20250908_092553_6ecb1a.png
+2025-09-08 14:25:55	59-7X3 80208	results_anpr/vehicles/veh_20250908_142554_899.jpg	results_anpr/crops/plate_20250908_142554_899.png
+2025-09-08 14:25:55	59-7X3 80208	results_anpr/vehicles/add_20250908_092555_61bc7a.jpg	results_anpr/crops/add_20250908_092555_e05007.png
+2025-09-08 14:25:57	54-V 341	results_anpr/vehicles/veh_20250908_142556_740.jpg	results_anpr/crops/plate_20250908_142556_740.png
+2025-09-08 14:25:57	54-V 341	results_anpr/vehicles/add_20250908_092557_ccfe6f.jpg	results_anpr/crops/add_20250908_092557_9eebe6.png
+2025-09-08 14:25:58	54-4 3414	results_anpr/vehicles/veh_20250908_142558_609.jpg	results_anpr/crops/plate_20250908_142558_609.png
+2025-09-08 14:25:58	54-4 3414	results_anpr/vehicles/add_20250908_092559_ecb72e.jpg	results_anpr/crops/add_20250908_092559_9b78ba.png
+2025-09-08 14:26:00	54-4 3414	results_anpr/vehicles/veh_20250908_142600_492.jpg	results_anpr/crops/plate_20250908_142600_492.png
+2025-09-08 14:26:00	54-4 3414	results_anpr/vehicles/add_20250908_092601_3b68f8.jpg	results_anpr/crops/add_20250908_092601_7b2c09.png
+2025-09-08 14:26:00	54-4 3414	results_anpr/vehicles/add_20250908_093441_1e63f0.jpg	results_anpr/crops/add_20250908_093441_8c6fac.png
+2025-09-08 14:34:43	59-V3 82374	results_anpr/vehicles/veh_20250908_143443_404.jpg	results_anpr/crops/plate_20250908_143443_404.png
+2025-09-08 14:34:43	59-V3 82374	results_anpr/vehicles/add_20250908_093443_102a9e.jpg	results_anpr/crops/add_20250908_093443_24d52f.png
+2025-09-08 14:34:45	620D 2282	results_anpr/vehicles/veh_20250908_143445_216.jpg	results_anpr/crops/plate_20250908_143445_216.png
+2025-09-08 14:34:45	620D 2282	results_anpr/vehicles/add_20250908_093446_165f59.jpg	results_anpr/crops/add_20250908_093446_d8ac61.png
+2025-09-08 14:34:47	62--D1 22862	results_anpr/vehicles/veh_20250908_143447_063.jpg	results_anpr/crops/plate_20250908_143447_063.png
+2025-09-08 14:34:47	62--D1 22862	results_anpr/vehicles/add_20250908_093447_82ce28.jpg	results_anpr/crops/add_20250908_093447_d5ac36.png
+2025-09-08 14:34:49	71-N 231	results_anpr/vehicles/veh_20250908_143448_892.jpg	results_anpr/crops/plate_20250908_143448_892.png
+2025-09-08 14:34:49	71-N 231	results_anpr/vehicles/add_20250908_093449_8f2e10.jpg	results_anpr/crops/add_20250908_093449_b6d059.png
+2025-09-08 14:34:51	G6-1 50869	results_anpr/vehicles/veh_20250908_143450_745.jpg	results_anpr/crops/plate_20250908_143450_745.png
+2025-09-08 14:34:51	G6-1 50869	results_anpr/vehicles/add_20250908_093451_2eb47d.jpg	results_anpr/crops/add_20250908_093451_97e5b3.png
+2025-09-08 14:34:53	59-N 6561	results_anpr/vehicles/veh_20250908_143452_866.jpg	results_anpr/crops/plate_20250908_143452_866.png
+2025-09-08 14:34:53	59-N 6561	results_anpr/vehicles/add_20250908_093453_8a7c99.jpg	results_anpr/crops/add_20250908_093453_04e58c.png
+2025-09-08 14:34:55	62Z-U1 211	results_anpr/vehicles/veh_20250908_143455_056.jpg	results_anpr/crops/plate_20250908_143455_056.png
+2025-09-08 14:34:55	62Z-U1 211	results_anpr/vehicles/add_20250908_093455_2bf7af.jpg	results_anpr/crops/add_20250908_093455_fa2854.png
+2025-09-08 14:34:57	66 580	results_anpr/vehicles/veh_20250908_143456_882.jpg	results_anpr/crops/plate_20250908_143456_882.png
+2025-09-08 14:34:57	66 580	results_anpr/vehicles/add_20250908_093457_1411a6.jpg	results_anpr/crops/add_20250908_093457_e1e306.png
+2025-09-08 14:34:59	61-X1 1501	results_anpr/vehicles/veh_20250908_143458_939.jpg	results_anpr/crops/plate_20250908_143458_939.png
+2025-09-08 14:34:59	61-X1 1501	results_anpr/vehicles/add_20250908_093459_133799.jpg	results_anpr/crops/add_20250908_093459_beec5e.png
+2025-09-08 14:35:01	59-7X3 80208	results_anpr/vehicles/veh_20250908_143500_660.jpg	results_anpr/crops/plate_20250908_143500_660.png
+2025-09-08 14:35:01	59-7X3 80208	results_anpr/vehicles/add_20250908_093501_01197f.jpg	results_anpr/crops/add_20250908_093501_c4222e.png
+2025-09-08 14:35:02	54-4 3414	results_anpr/vehicles/veh_20250908_143502_473.jpg	results_anpr/crops/plate_20250908_143502_473.png
+2025-09-08 14:35:02	54-4 3414	results_anpr/vehicles/add_20250908_093503_9582c8.jpg	results_anpr/crops/add_20250908_093503_6cf378.png
+2025-09-08 14:35:04	54-4 3414	results_anpr/vehicles/veh_20250908_143504_299.jpg	results_anpr/crops/plate_20250908_143504_299.png
+2025-09-08 14:35:04	54-4 3414	results_anpr/vehicles/add_20250908_093504_979dd4.jpg	results_anpr/crops/add_20250908_093504_200f28.png
+2025-09-08 14:35:39	59-V3 82374	results_anpr/vehicles/veh_20250908_143538_962.jpg	results_anpr/crops/plate_20250908_143538_962.png
+2025-09-08 14:35:39	59-V3 82374	results_anpr/vehicles/add_20250908_093539_e2e72e.jpg	results_anpr/crops/add_20250908_093539_b3ca88.png
+2025-09-08 14:35:41	620D 2282	results_anpr/vehicles/veh_20250908_143540_768.jpg	results_anpr/crops/plate_20250908_143540_768.png
+2025-09-08 14:35:41	620D 2282	results_anpr/vehicles/add_20250908_093541_ee937c.jpg	results_anpr/crops/add_20250908_093541_775622.png
+2025-09-08 14:35:42	2-D1 28062	results_anpr/vehicles/veh_20250908_143542_630.jpg	results_anpr/crops/plate_20250908_143542_630.png
+2025-09-08 14:35:42	2-D1 28062	results_anpr/vehicles/add_20250908_093543_b09bea.jpg	results_anpr/crops/add_20250908_093543_57b564.png
+2025-09-08 14:35:44	7117-4 231-07	results_anpr/vehicles/veh_20250908_143544_454.jpg	results_anpr/crops/plate_20250908_143544_454.png
+2025-09-08 14:35:44	7117-4 231-07	results_anpr/vehicles/add_20250908_093545_f464f8.jpg	results_anpr/crops/add_20250908_093545_f1ac51.png
+2025-09-08 14:35:46	G5-1 508B69	results_anpr/vehicles/veh_20250908_143546_297.jpg	results_anpr/crops/plate_20250908_143546_297.png
+2025-09-08 14:35:46	G5-1 508B69	results_anpr/vehicles/add_20250908_093547_0b590f.jpg	results_anpr/crops/add_20250908_093547_6104ef.png
+2025-09-08 14:35:48	59-N 6561	results_anpr/vehicles/veh_20250908_143548_254.jpg	results_anpr/crops/plate_20250908_143548_254.png
+2025-09-08 14:35:48	59-N 6561	results_anpr/vehicles/add_20250908_093548_8f2c04.jpg	results_anpr/crops/add_20250908_093548_4a0ee5.png
+2025-09-08 14:35:50	62-U1 2116	results_anpr/vehicles/veh_20250908_143550_099.jpg	results_anpr/crops/plate_20250908_143550_099.png
+2025-09-08 14:35:50	62-U1 2116	results_anpr/vehicles/add_20250908_093551_014c00.jpg	results_anpr/crops/add_20250908_093551_e5f8ec.png
+2025-09-08 14:35:52	66 580	results_anpr/vehicles/veh_20250908_143551_926.jpg	results_anpr/crops/plate_20250908_143551_926.png
+2025-09-08 14:35:52	66 580	results_anpr/vehicles/add_20250908_093552_93ec8b.jpg	results_anpr/crops/add_20250908_093552_a3086a.png
+2025-09-08 14:35:54	61-X1 1501	results_anpr/vehicles/veh_20250908_143554_021.jpg	results_anpr/crops/plate_20250908_143554_021.png
+2025-09-08 14:35:54	61-X1 1501	results_anpr/vehicles/add_20250908_093554_e07f73.jpg	results_anpr/crops/add_20250908_093554_73b579.png
+2025-09-08 14:35:54	61-X1 1501	results_anpr/vehicles/add_20250908_093604_a475cb.jpg	results_anpr/crops/add_20250908_093604_38a303.png
+2025-09-08 14:36:06	59-V3 82374	results_anpr/vehicles/veh_20250908_143605_702.jpg	results_anpr/crops/plate_20250908_143605_702.png
+2025-09-08 14:36:06	59-V3 82374	results_anpr/vehicles/add_20250908_093606_1e6fe0.jpg	results_anpr/crops/add_20250908_093606_bc8c50.png
+2025-09-08 14:36:07	59-V3 82374	results_anpr/vehicles/veh_20250908_143607_547.jpg	results_anpr/crops/plate_20250908_143607_547.png
+2025-09-08 14:36:07	59-V3 82374	results_anpr/vehicles/add_20250908_093608_62b1e0.jpg	results_anpr/crops/add_20250908_093608_fa0c89.png
+2025-09-08 14:36:09	62-D1 22862	results_anpr/vehicles/veh_20250908_143609_383.jpg	results_anpr/crops/plate_20250908_143609_383.png
+2025-09-08 14:36:09	62-D1 22862	results_anpr/vehicles/add_20250908_093610_d28d44.jpg	results_anpr/crops/add_20250908_093610_ccadae.png
+2025-09-08 14:36:11	67-1 31748	results_anpr/vehicles/veh_20250908_143611_224.jpg	results_anpr/crops/plate_20250908_143611_224.png
+2025-09-08 14:36:11	67-1 31748	results_anpr/vehicles/add_20250908_093612_03d2b8.jpg	results_anpr/crops/add_20250908_093612_fafd07.png
+2025-09-08 14:36:13	-AA 3107	results_anpr/vehicles/veh_20250908_143613_039.jpg	results_anpr/crops/plate_20250908_143613_039.png
+2025-09-08 14:36:13	-AA 3107	results_anpr/vehicles/add_20250908_093614_376875.jpg	results_anpr/crops/add_20250908_093614_363e53.png
+2025-09-08 14:36:16	UNKNOWN	results_anpr/vehicles/veh_20250908_143616_072.jpg	results_anpr/crops/plate_20250908_143616_072.jpg
+2025-09-08 14:36:16	UNKNOWN	results_anpr/vehicles/add_20250908_093617_2252d5.jpg	
+2025-09-08 14:36:18	59-N2 65615	results_anpr/vehicles/veh_20250908_143617_714.jpg	results_anpr/crops/plate_20250908_143617_714.png
+2025-09-08 14:36:18	59-N2 65615	results_anpr/vehicles/add_20250908_093618_fefdff.jpg	results_anpr/crops/add_20250908_093618_1b5f87.png
+2025-09-08 14:36:19	62-U 211	results_anpr/vehicles/veh_20250908_143619_520.jpg	results_anpr/crops/plate_20250908_143619_520.png
+2025-09-08 14:36:19	62-U 211	results_anpr/vehicles/add_20250908_093620_6b3e86.jpg	results_anpr/crops/add_20250908_093620_eccef4.png
+2025-09-08 14:36:21	13	results_anpr/vehicles/veh_20250908_143621_330.jpg	results_anpr/crops/plate_20250908_143621_330.png
+2025-09-08 14:36:21	13	results_anpr/vehicles/add_20250908_093622_2e235e.jpg	results_anpr/crops/add_20250908_093622_89188d.png
+2025-09-08 14:36:23	66-N1 58005	results_anpr/vehicles/veh_20250908_143623_151.jpg	results_anpr/crops/plate_20250908_143623_151.png
+2025-09-08 14:36:23	66-N1 58005	results_anpr/vehicles/add_20250908_093624_0434a6.jpg	results_anpr/crops/add_20250908_093624_addca4.png
+2025-09-08 14:36:24	61-XK1 1501	results_anpr/vehicles/veh_20250908_143624_815.jpg	results_anpr/crops/plate_20250908_143624_815.png
+2025-09-08 14:36:24	61-XK1 1501	results_anpr/vehicles/add_20250908_093625_951501.jpg	results_anpr/crops/add_20250908_093625_9e7c4c.png
+2025-09-08 14:36:26	59-X73 80208	results_anpr/vehicles/veh_20250908_143626_677.jpg	results_anpr/crops/plate_20250908_143626_677.png
+2025-09-08 14:36:26	59-X73 80208	results_anpr/vehicles/add_20250908_093627_04a84c.jpg	results_anpr/crops/add_20250908_093627_4d769f.png
+2025-09-08 14:36:29	54-4 3414	results_anpr/vehicles/veh_20250908_143628_503.jpg	results_anpr/crops/plate_20250908_143628_503.png
+2025-09-08 14:36:29	54-4 3414	results_anpr/vehicles/add_20250908_093629_5f036d.jpg	results_anpr/crops/add_20250908_093629_ee8422.png
+2025-09-08 14:36:30	54-4 3414	results_anpr/vehicles/veh_20250908_143630_355.jpg	results_anpr/crops/plate_20250908_143630_355.png
+2025-09-08 14:36:30	54-4 3414	results_anpr/vehicles/add_20250908_093631_c175a5.jpg	results_anpr/crops/add_20250908_093631_f7781c.png
+2025-09-08 14:36:30	54-4 3414	results_anpr/vehicles/add_20250908_093654_371f21.jpg	results_anpr/crops/add_20250908_093654_ec0f93.png
+2025-09-08 14:36:59	717-B93 28036	results_anpr/vehicles/veh_20250908_143659_129.jpg	results_anpr/crops/plate_20250908_143659_129.png
+2025-09-08 14:36:59	717-B93 28036	results_anpr/vehicles/add_20250908_093659_5b7e30.jpg	results_anpr/crops/add_20250908_093659_0607a9.png
+2025-09-08 14:37:00	7-8 28036	results_anpr/vehicles/veh_20250908_143700_962.jpg	results_anpr/crops/plate_20250908_143700_962.png
+2025-09-08 14:37:00	7-8 28036	results_anpr/vehicles/add_20250908_093701_f2920a.jpg	results_anpr/crops/add_20250908_093701_d73f83.png
+2025-09-08 14:37:10	UNKNOWN	results_anpr/vehicles/veh_20250908_143709_628.jpg	results_anpr/crops/plate_20250908_143709_628.jpg
+2025-09-08 14:37:10	UNKNOWN	results_anpr/vehicles/add_20250908_093710_2b0320.jpg	
+2025-09-08 14:37:11	66C-17 57713	results_anpr/vehicles/veh_20250908_143711_479.jpg	results_anpr/crops/plate_20250908_143711_479.png
+2025-09-08 14:37:11	66C-17 57713	results_anpr/vehicles/add_20250908_093712_b1ae94.jpg	results_anpr/crops/add_20250908_093712_ed6c0a.png
+2025-09-08 14:37:13	UNKNOWN	results_anpr/vehicles/veh_20250908_143713_326.jpg	results_anpr/crops/plate_20250908_143713_326.jpg
+2025-09-08 14:37:13	UNKNOWN	results_anpr/vehicles/add_20250908_093713_cc083f.jpg	
+2025-09-08 14:37:16	UNKNOWN	results_anpr/vehicles/veh_20250908_143715_528.jpg	results_anpr/crops/plate_20250908_143715_528.jpg
+2025-09-08 14:37:16	UNKNOWN	results_anpr/vehicles/add_20250908_093717_0d1834.jpg	
+2025-09-08 14:37:32	3381 20893	results_anpr/vehicles/veh_20250908_143732_074.jpg	results_anpr/crops/plate_20250908_143732_074.png
+2025-09-08 14:37:32	3381 20893	results_anpr/vehicles/add_20250908_093732_3e1b1d.jpg	results_anpr/crops/add_20250908_093732_dac053.png
+2025-09-08 14:37:34	UNKNOWN	results_anpr/vehicles/veh_20250908_143733_924.jpg	results_anpr/crops/plate_20250908_143733_924.jpg
+2025-09-08 14:37:34	UNKNOWN	results_anpr/vehicles/add_20250908_093734_eb0daf.jpg	
+2025-09-08 14:37:36	UNKNOWN	results_anpr/vehicles/veh_20250908_143735_845.jpg	results_anpr/crops/plate_20250908_143735_845.jpg
+2025-09-08 14:37:36	UNKNOWN	results_anpr/vehicles/add_20250908_093736_2d8674.jpg	
+2025-09-08 14:37:48	77 3337	results_anpr/vehicles/veh_20250908_143748_048.jpg	results_anpr/crops/plate_20250908_143748_048.png
+2025-09-08 14:37:48	77 3337	results_anpr/vehicles/add_20250908_093748_f3f1e4.jpg	results_anpr/crops/add_20250908_093748_8b09b9.png
+2025-09-08 14:37:49	7B93 69B2	results_anpr/vehicles/veh_20250908_143749_895.jpg	results_anpr/crops/plate_20250908_143749_895.png
+2025-09-08 14:37:49	7B93 69B2	results_anpr/vehicles/add_20250908_093749_fa93a7.jpg	results_anpr/crops/add_20250908_093749_8dc767.png
+2025-09-08 14:37:49	7B93 69B2	results_anpr/vehicles/add_20250908_094900_2860f2.jpg	results_anpr/crops/add_20250908_094900_9f703f.png
+2025-09-08 14:49:02	59-V3 82374	results_anpr/vehicles/veh_20250908_144902_394.jpg	results_anpr/crops/plate_20250908_144902_394.png
+2025-09-08 14:49:02	59-V3 82374	results_anpr/vehicles/add_20250908_094903_939d8d.jpg	results_anpr/crops/add_20250908_094903_9cb4b0.png
+2025-09-08 14:49:06	602-17 2286	results_anpr/vehicles/veh_20250908_144905_769.jpg	results_anpr/crops/plate_20250908_144905_769.png
+2025-09-08 14:49:06	602-17 2286	results_anpr/vehicles/add_20250908_094906_6478fa.jpg	results_anpr/crops/add_20250908_094906_494c79.png
+2025-09-08 14:49:09	67-1 31748	results_anpr/vehicles/veh_20250908_144909_118.jpg	results_anpr/crops/plate_20250908_144909_118.png
+2025-09-08 14:49:09	67-1 31748	results_anpr/vehicles/add_20250908_094909_78d146.jpg	results_anpr/crops/add_20250908_094909_8bd839.png
+2025-09-08 14:49:12	71-AA 23107	results_anpr/vehicles/veh_20250908_144912_449.jpg	results_anpr/crops/plate_20250908_144912_449.png
+2025-09-08 14:49:12	71-AA 23107	results_anpr/vehicles/add_20250908_094912_a7bc42.jpg	results_anpr/crops/add_20250908_094912_84c051.png
+2025-09-08 14:49:18	5	results_anpr/vehicles/veh_20250908_144917_670.jpg	results_anpr/crops/plate_20250908_144917_670.png
+2025-09-08 14:49:18	5	results_anpr/vehicles/add_20250908_094918_87262c.jpg	results_anpr/crops/add_20250908_094918_d9be92.png
+2025-09-08 14:49:22	6	results_anpr/vehicles/veh_20250908_144921_765.jpg	results_anpr/crops/plate_20250908_144921_765.png
+2025-09-08 14:49:22	6	results_anpr/vehicles/add_20250908_094922_59cd5e.jpg	results_anpr/crops/add_20250908_094922_0e4715.png
+2025-09-08 14:49:25	3	results_anpr/vehicles/veh_20250908_144925_131.jpg	results_anpr/crops/plate_20250908_144925_131.png
+2025-09-08 14:49:25	3	results_anpr/vehicles/add_20250908_094925_8477db.jpg	results_anpr/crops/add_20250908_094925_8a3640.png
+2025-09-08 14:49:29	6	results_anpr/vehicles/veh_20250908_144928_945.jpg	results_anpr/crops/plate_20250908_144928_945.png
+2025-09-08 14:49:29	6	results_anpr/vehicles/add_20250908_094929_ab4d31.jpg	results_anpr/crops/add_20250908_094929_d0f08d.png
+2025-09-08 14:49:32	59-7X3 80208	results_anpr/vehicles/veh_20250908_144932_223.jpg	results_anpr/crops/plate_20250908_144932_223.png
+2025-09-08 14:49:32	59-7X3 80208	results_anpr/vehicles/add_20250908_094932_09251c.jpg	results_anpr/crops/add_20250908_094932_7f9c6d.png
+2025-09-08 14:49:35	54-4 3414	results_anpr/vehicles/veh_20250908_144935_588.jpg	results_anpr/crops/plate_20250908_144935_588.png
+2025-09-08 14:49:35	54-4 3414	results_anpr/vehicles/add_20250908_094936_6a5541.jpg	results_anpr/crops/add_20250908_094936_6e7b2e.png
+2025-09-08 14:49:35	54-4 3414	results_anpr/vehicles/add_20250908_095009_ab5bae.jpg	results_anpr/crops/add_20250908_095009_7b4e59.png
+2025-09-08 14:50:11	59-V3 82374	results_anpr/vehicles/veh_20250908_145010_761.jpg	results_anpr/crops/plate_20250908_145010_761.png
+2025-09-08 14:50:11	59-V3 82374	results_anpr/vehicles/add_20250908_095011_8ef3d7.jpg	results_anpr/crops/add_20250908_095011_9d1bb0.png
+2025-09-08 14:50:14	602-17 2286	results_anpr/vehicles/veh_20250908_145014_134.jpg	results_anpr/crops/plate_20250908_145014_134.png
+2025-09-08 14:50:14	602-17 2286	results_anpr/vehicles/add_20250908_095015_90ef8d.jpg	results_anpr/crops/add_20250908_095015_338b6a.png
+2025-09-08 14:50:17	67-1 31748	results_anpr/vehicles/veh_20250908_145017_478.jpg	results_anpr/crops/plate_20250908_145017_478.png
+2025-09-08 14:50:17	67-1 31748	results_anpr/vehicles/add_20250908_095018_6453c7.jpg	results_anpr/crops/add_20250908_095018_2b8ef6.png
+2025-09-08 14:50:20	71-AA 23107	results_anpr/vehicles/veh_20250908_145020_826.jpg	results_anpr/crops/plate_20250908_145020_826.png
+2025-09-08 14:50:20	71-AA 23107	results_anpr/vehicles/add_20250908_095021_e06c11.jpg	results_anpr/crops/add_20250908_095021_4a752c.png
+2025-09-08 14:50:26	5	results_anpr/vehicles/veh_20250908_145026_026.jpg	results_anpr/crops/plate_20250908_145026_026.png
+2025-09-08 14:50:26	5	results_anpr/vehicles/add_20250908_095027_cc32c3.jpg	results_anpr/crops/add_20250908_095027_f6da02.png
+2025-09-08 15:03:32	62-U1 06325	results_anpr/vehicles/veh_20250908_150332_320.jpg	results_anpr/crops/plate_20250908_150332_320.png
+2025-09-08 15:03:37	54-F1 351C	results_anpr/vehicles/veh_20250908_150337_192.jpg	results_anpr/crops/plate_20250908_150337_192.png
+2025-09-08 15:03:40	154-F1 8502	results_anpr/vehicles/veh_20250908_150340_510.jpg	results_anpr/crops/plate_20250908_150340_510.png
+2025-09-08 15:03:45	54-F1 8502	results_anpr/vehicles/veh_20250908_150344_591.jpg	results_anpr/crops/plate_20250908_150344_591.png
+2025-09-08 15:03:54	65-HB1 22893	results_anpr/vehicles/veh_20250908_150354_514.jpg	results_anpr/crops/plate_20250908_150354_514.png
+2025-09-08 15:03:57	65-B1 22893	results_anpr/vehicles/veh_20250908_150357_837.jpg	results_anpr/crops/plate_20250908_150357_837.png
+2025-09-08 15:04:01	65-B1 22893	results_anpr/vehicles/veh_20250908_150401_159.jpg	results_anpr/crops/plate_20250908_150401_159.png
+2025-09-08 15:04:04	65-B61 22893	results_anpr/vehicles/veh_20250908_150404_486.jpg	results_anpr/crops/plate_20250908_150404_486.png
+2025-09-08 15:05:49	65-B81 22893	results_anpr/vehicles/veh_20250908_150549_566.jpg	results_anpr/crops/plate_20250908_150549_566.png
+2025-09-08 15:05:53	65-B1 22893	results_anpr/vehicles/veh_20250908_150553_105.jpg	results_anpr/crops/plate_20250908_150553_105.png
+2025-09-08 15:05:54	65-B1 22893	results_anpr/vehicles/veh_20250908_150554_926.jpg	results_anpr/crops/plate_20250908_150554_926.png
+2025-09-08 15:06:00	68-P6 96755	results_anpr/vehicles/veh_20250908_150559_606.jpg	results_anpr/crops/plate_20250908_150559_606.png
+2025-09-08 15:06:05	68P-6 6755	results_anpr/vehicles/veh_20250908_150605_504.jpg	results_anpr/crops/plate_20250908_150605_504.png
+2025-09-08 15:06:09	68-P6 6755	results_anpr/vehicles/veh_20250908_150609_392.jpg	results_anpr/crops/plate_20250908_150609_392.png
+2025-09-08 15:06:15	83-C1 032-43	results_anpr/vehicles/veh_20250908_150615_167.jpg	results_anpr/crops/plate_20250908_150615_167.png
+2025-09-08 15:06:26	65- 2520	results_anpr/vehicles/veh_20250908_150626_418.jpg	results_anpr/crops/plate_20250908_150626_418.png
+2025-09-08 15:06:29	65-R2 2520	results_anpr/vehicles/veh_20250908_150629_218.jpg	results_anpr/crops/plate_20250908_150629_218.png
+2025-09-08 15:06:30	65-R2 2520	results_anpr/vehicles/veh_20250908_150630_756.jpg	results_anpr/crops/plate_20250908_150630_756.png
+2025-09-08 15:06:34	68-P6 6755	results_anpr/vehicles/veh_20250908_150634_806.jpg	results_anpr/crops/plate_20250908_150634_806.png
+2025-09-08 15:06:39	65-XK4 4424	results_anpr/vehicles/veh_20250908_150639_686.jpg	results_anpr/crops/plate_20250908_150639_686.png
+2025-09-08 15:06:42	65-X4 4424	results_anpr/vehicles/veh_20250908_150642_177.jpg	results_anpr/crops/plate_20250908_150642_177.png
+2025-09-08 15:06:48	64-F 1149	results_anpr/vehicles/veh_20250908_150648_577.jpg	results_anpr/crops/plate_20250908_150648_577.png
+2025-09-08 15:06:50	64-F8 1149	results_anpr/vehicles/veh_20250908_150650_399.jpg	results_anpr/crops/plate_20250908_150650_399.png
+2025-09-08 15:06:52	64-FE8 1149	results_anpr/vehicles/veh_20250908_150652_240.jpg	results_anpr/crops/plate_20250908_150652_240.png
+2025-09-08 15:06:54	64-F8 1149	results_anpr/vehicles/veh_20250908_150654_065.jpg	results_anpr/crops/plate_20250908_150654_065.png
+2025-09-08 15:06:55	64-F8 1149	results_anpr/vehicles/veh_20250908_150655_680.jpg	results_anpr/crops/plate_20250908_150655_680.png
+2025-09-08 15:06:58	3	results_anpr/vehicles/veh_20250908_150657_661.jpg	results_anpr/crops/plate_20250908_150657_661.png
+2025-09-08 15:06:59	64-F58 1149	results_anpr/vehicles/veh_20250908_150659_505.jpg	results_anpr/crops/plate_20250908_150659_505.png
+2025-09-08 15:07:01	64-F8 1149	results_anpr/vehicles/veh_20250908_150701_365.jpg	results_anpr/crops/plate_20250908_150701_365.png
+2025-09-08 14:50:26	5	results_anpr/vehicles/add_20250908_100716_4067a8.jpg	results_anpr/crops/add_20250908_100716_c7c895.png
+2025-09-08 15:07:24	65-1 7953	results_anpr/vehicles/veh_20250908_150724_306.jpg	results_anpr/crops/plate_20250908_150724_306.png
+2025-09-08 15:07:24	65-1 7953	results_anpr/vehicles/add_20250908_100724_ead91a.jpg	results_anpr/crops/add_20250908_100724_619dc2.png
+2025-09-08 15:07:26	65-XK1 7953	results_anpr/vehicles/veh_20250908_150726_131.jpg	results_anpr/crops/plate_20250908_150726_131.png
+2025-09-08 15:07:26	65-XK1 7953	results_anpr/vehicles/add_20250908_100726_6b4fe4.jpg	results_anpr/crops/add_20250908_100726_5c752f.png
+2025-09-08 15:07:31	64-U1 3872	results_anpr/vehicles/veh_20250908_150730_757.jpg	results_anpr/crops/plate_20250908_150730_757.png
+2025-09-08 15:07:31	64-U1 3872	results_anpr/vehicles/add_20250908_100731_766b7b.jpg	results_anpr/crops/add_20250908_100731_8e5c1f.png
+2025-09-08 15:07:39	107 83	results_anpr/vehicles/veh_20250908_150738_782.jpg	results_anpr/crops/plate_20250908_150738_782.png
+2025-09-08 15:07:39	107 83	results_anpr/vehicles/add_20250908_100739_3d9642.jpg	results_anpr/crops/add_20250908_100739_6f52b2.png
+2025-09-08 15:07:41	7	results_anpr/vehicles/veh_20250908_150741_554.jpg	results_anpr/crops/plate_20250908_150741_554.png
+2025-09-08 15:07:41	7	results_anpr/vehicles/add_20250908_100742_585fe8.jpg	results_anpr/crops/add_20250908_100742_efba9b.png
+2025-09-08 15:07:43	64-H4 4807	results_anpr/vehicles/veh_20250908_150743_365.jpg	results_anpr/crops/plate_20250908_150743_365.png
+2025-09-08 15:07:43	64-H4 4807	results_anpr/vehicles/add_20250908_100743_3ad9f3.jpg	results_anpr/crops/add_20250908_100743_696904.png
+2025-09-08 15:07:50	67-H9 6618	results_anpr/vehicles/veh_20250908_150750_516.jpg	results_anpr/crops/plate_20250908_150750_516.png
+2025-09-08 15:07:50	67-H9 6618	results_anpr/vehicles/add_20250908_100751_ef3a89.jpg	results_anpr/crops/add_20250908_100751_dc5ee0.png
+2025-09-08 15:07:52	67-H9 6618	results_anpr/vehicles/veh_20250908_150752_258.jpg	results_anpr/crops/plate_20250908_150752_258.png
+2025-09-08 15:07:52	67-H9 6618	results_anpr/vehicles/add_20250908_100752_b98619.jpg	results_anpr/crops/add_20250908_100752_277fec.png
+2025-09-08 15:07:57	95-B1 00287	results_anpr/vehicles/veh_20250908_150757_824.jpg	results_anpr/crops/plate_20250908_150757_824.png
+2025-09-08 15:07:57	95-B1 00287	results_anpr/vehicles/add_20250908_100758_a91977.jpg	results_anpr/crops/add_20250908_100758_37a589.png
+2025-09-08 15:08:02	95-B1 0287	results_anpr/vehicles/veh_20250908_150801_995.jpg	results_anpr/crops/plate_20250908_150801_995.png
+2025-09-08 15:08:02	95-B1 0287	results_anpr/vehicles/add_20250908_100802_3d74c5.jpg	results_anpr/crops/add_20250908_100802_eea576.png
+2025-09-08 15:08:07	66-L1 05273	results_anpr/vehicles/veh_20250908_150806_680.jpg	results_anpr/crops/plate_20250908_150806_680.png
+2025-09-08 15:08:07	66-L1 05273	results_anpr/vehicles/add_20250908_100807_87e0b2.jpg	results_anpr/crops/add_20250908_100807_f6f28e.png
+2025-09-08 15:08:08	66-L1 05273	results_anpr/vehicles/veh_20250908_150808_485.jpg	results_anpr/crops/plate_20250908_150808_485.png
+2025-09-08 15:08:08	66-L1 05273	results_anpr/vehicles/add_20250908_100808_d35821.jpg	results_anpr/crops/add_20250908_100808_ced57b.png
+2025-09-08 15:08:14	60-UD1 4632	results_anpr/vehicles/veh_20250908_150814_243.jpg	results_anpr/crops/plate_20250908_150814_243.png
+2025-09-08 15:08:14	60-UD1 4632	results_anpr/vehicles/add_20250908_100814_ee97d0.jpg	results_anpr/crops/add_20250908_100814_72ebd5.png
+2025-09-08 15:08:21	65-N2 4474	results_anpr/vehicles/veh_20250908_150821_791.jpg	results_anpr/crops/plate_20250908_150821_791.png
+2025-09-08 15:08:21	65-N2 4474	results_anpr/vehicles/add_20250908_100821_4d713a.jpg	results_anpr/crops/add_20250908_100821_7ae5d7.png
+2025-09-08 15:08:30	30G6-40304	results_anpr/vehicles/veh_20250908_150830_067.jpg	results_anpr/crops/plate_20250908_150830_067.png
+2025-09-08 15:08:30	30G6-40304	results_anpr/vehicles/add_20250908_100830_2f2bd5.jpg	results_anpr/crops/add_20250908_100830_5e4597.png
+2025-09-08 15:08:46	59-V3 82374	results_anpr/vehicles/veh_20250908_150846_112.jpg	results_anpr/crops/plate_20250908_150846_112.png
+2025-09-08 15:08:46	59-V3 82374	results_anpr/vehicles/add_20250908_100847_79e270.jpg	results_anpr/crops/add_20250908_100847_401d3a.png
+2025-09-08 15:08:48	59-V3 82374	results_anpr/vehicles/veh_20250908_150847_960.jpg	results_anpr/crops/plate_20250908_150847_960.png
+2025-09-08 15:08:48	59-V3 82374	results_anpr/vehicles/add_20250908_100849_e92065.jpg	results_anpr/crops/add_20250908_100849_49bfaf.png
+2025-09-08 15:08:50	602-17 2286	results_anpr/vehicles/veh_20250908_150849_792.jpg	results_anpr/crops/plate_20250908_150849_792.png
+2025-09-08 15:08:50	602-17 2286	results_anpr/vehicles/add_20250908_100851_a55ab6.jpg	results_anpr/crops/add_20250908_100851_0c4e6d.png
+2025-09-08 15:08:51	62-D1 228602	results_anpr/vehicles/veh_20250908_150851_676.jpg	results_anpr/crops/plate_20250908_150851_676.png
+2025-09-08 15:08:51	62-D1 228602	results_anpr/vehicles/add_20250908_100852_48a802.jpg	results_anpr/crops/add_20250908_100852_c01d4f.png
+2025-09-08 15:08:53	67-L1 31748	results_anpr/vehicles/veh_20250908_150853_508.jpg	results_anpr/crops/plate_20250908_150853_508.png
+2025-09-08 15:08:53	67-L1 31748	results_anpr/vehicles/add_20250908_100854_f24412.jpg	results_anpr/crops/add_20250908_100854_07c705.png
+2025-09-08 15:08:55	71- 231	results_anpr/vehicles/veh_20250908_150855_348.jpg	results_anpr/crops/plate_20250908_150855_348.png
+2025-09-08 15:08:55	71- 231	results_anpr/vehicles/add_20250908_100856_382938.jpg	results_anpr/crops/add_20250908_100856_a291e1.png
+2025-09-08 15:08:57	71-AA 23107	results_anpr/vehicles/veh_20250908_150857_178.jpg	results_anpr/crops/plate_20250908_150857_178.png
+2025-09-08 15:08:57	71-AA 23107	results_anpr/vehicles/add_20250908_100858_02de12.jpg	results_anpr/crops/add_20250908_100858_f9f194.png
+2025-09-08 15:08:59	G6-1 50869	results_anpr/vehicles/veh_20250908_150859_028.jpg	results_anpr/crops/plate_20250908_150859_028.png
+2025-09-08 15:08:59	G6-1 50869	results_anpr/vehicles/add_20250908_100900_8409bf.jpg	results_anpr/crops/add_20250908_100900_4b5036.png
+2025-09-08 15:09:03	59- 65	results_anpr/vehicles/veh_20250908_150902_682.jpg	results_anpr/crops/plate_20250908_150902_682.png
+2025-09-08 15:09:03	59- 65	results_anpr/vehicles/add_20250908_100903_1341b4.jpg	results_anpr/crops/add_20250908_100903_caa57a.png
+2025-09-08 15:09:04	59-N2 65615	results_anpr/vehicles/veh_20250908_150904_395.jpg	results_anpr/crops/plate_20250908_150904_395.png
+2025-09-08 15:09:04	59-N2 65615	results_anpr/vehicles/add_20250908_100905_e78710.jpg	results_anpr/crops/add_20250908_100905_f2314a.png
+2025-09-08 15:09:06	62 21	results_anpr/vehicles/veh_20250908_150906_472.jpg	results_anpr/crops/plate_20250908_150906_472.png
+2025-09-08 15:09:06	62 21	results_anpr/vehicles/add_20250908_100907_cc790d.jpg	results_anpr/crops/add_20250908_100907_2db408.png
+2025-09-08 15:09:08	62-U1 21163	results_anpr/vehicles/veh_20250908_150908_363.jpg	results_anpr/crops/plate_20250908_150908_363.png
+2025-09-08 15:09:08	62-U1 21163	results_anpr/vehicles/add_20250908_100909_51e8a7.jpg	results_anpr/crops/add_20250908_100909_c8c80d.png
+2025-09-08 15:09:10	66-N 580	results_anpr/vehicles/veh_20250908_150910_225.jpg	results_anpr/crops/plate_20250908_150910_225.png
+2025-09-08 15:09:10	66-N 580	results_anpr/vehicles/add_20250908_100911_63da50.jpg	results_anpr/crops/add_20250908_100911_68b6f4.png
+2025-09-08 15:09:12	15	results_anpr/vehicles/veh_20250908_150912_120.jpg	results_anpr/crops/plate_20250908_150912_120.png
+2025-09-08 15:09:12	15	results_anpr/vehicles/add_20250908_100913_5eed61.jpg	results_anpr/crops/add_20250908_100913_3e114f.png
+2025-09-08 15:09:14	61-X1 1501	results_anpr/vehicles/veh_20250908_150914_000.jpg	results_anpr/crops/plate_20250908_150914_000.png
+2025-09-08 15:09:14	61-X1 1501	results_anpr/vehicles/add_20250908_100915_b7debd.jpg	results_anpr/crops/add_20250908_100915_27a0e5.png
+2025-09-08 15:09:16	9P	results_anpr/vehicles/veh_20250908_150915_921.jpg	results_anpr/crops/plate_20250908_150915_921.png
+2025-09-08 15:09:16	9P	results_anpr/vehicles/add_20250908_100916_74fbaa.jpg	results_anpr/crops/add_20250908_100916_27832f.png
+2025-09-08 15:09:17	59-7X3 80208	results_anpr/vehicles/veh_20250908_150917_786.jpg	results_anpr/crops/plate_20250908_150917_786.png
+2025-09-08 15:09:17	59-7X3 80208	results_anpr/vehicles/add_20250908_100918_c6765c.jpg	results_anpr/crops/add_20250908_100918_cc4f82.png
+2025-09-08 15:09:20	54- 341	results_anpr/vehicles/veh_20250908_150919_625.jpg	results_anpr/crops/plate_20250908_150919_625.png
+2025-09-08 15:09:20	54- 341	results_anpr/vehicles/add_20250908_100921_b517b5.jpg	results_anpr/crops/add_20250908_100921_3ac45a.png
+2025-09-08 15:09:21	54-4 3414	results_anpr/vehicles/veh_20250908_150921_476.jpg	results_anpr/crops/plate_20250908_150921_476.png
+2025-09-08 15:09:21	54-4 3414	results_anpr/vehicles/add_20250908_100922_b4ebc2.jpg	results_anpr/crops/add_20250908_100922_413ea4.png
+2025-09-08 15:09:23	54-N4 3414	results_anpr/vehicles/veh_20250908_150923_307.jpg	results_anpr/crops/plate_20250908_150923_307.png
+2025-09-08 15:09:23	54-N4 3414	results_anpr/vehicles/add_20250908_100924_a8316c.jpg	results_anpr/crops/add_20250908_100924_72c920.png
+2025-09-08 15:09:23	54-N4 3414	results_anpr/vehicles/add_20250908_100952_56d515.jpg	results_anpr/crops/add_20250908_100952_97d68e.png
+2025-09-08 15:09:57	71-B3 2803	results_anpr/vehicles/veh_20250908_150956_822.jpg	results_anpr/crops/plate_20250908_150956_822.png
+2025-09-08 15:09:57	71-B3 2803	results_anpr/vehicles/add_20250908_100957_13624d.jpg	results_anpr/crops/add_20250908_100957_5315c3.png
+2025-09-08 15:09:59	7-8 28036	results_anpr/vehicles/veh_20250908_150958_677.jpg	results_anpr/crops/plate_20250908_150958_677.png
+2025-09-08 15:09:59	7-8 28036	results_anpr/vehicles/add_20250908_100959_2472eb.jpg	results_anpr/crops/add_20250908_100959_120325.png
+2025-09-08 15:10:00	UNKNOWN	results_anpr/vehicles/veh_20250908_151000_508.jpg	results_anpr/crops/plate_20250908_151000_508.jpg
+2025-09-08 15:10:00	UNKNOWN	results_anpr/vehicles/add_20250908_101001_dc5482.jpg	
+2025-09-08 15:10:08	66-C1 57813	results_anpr/vehicles/veh_20250908_151008_141.jpg	results_anpr/crops/plate_20250908_151008_141.png
+2025-09-08 15:10:08	66-C1 57813	results_anpr/vehicles/add_20250908_101008_e8bee7.jpg	results_anpr/crops/add_20250908_101008_17128f.png
+2025-09-08 15:10:10	UNKNOWN	results_anpr/vehicles/veh_20250908_151009_996.jpg	results_anpr/crops/plate_20250908_151009_996.jpg
+2025-09-08 15:10:10	UNKNOWN	results_anpr/vehicles/add_20250908_101010_e05bbb.jpg	
+2025-09-08 15:10:12	UNKNOWN	results_anpr/vehicles/veh_20250908_151012_211.jpg	results_anpr/crops/plate_20250908_151012_211.jpg
+2025-09-08 15:10:12	UNKNOWN	results_anpr/vehicles/add_20250908_101012_e1f8cf.jpg	
+2025-09-08 15:10:29	3381 20893	results_anpr/vehicles/veh_20250908_151029_171.jpg	results_anpr/crops/plate_20250908_151029_171.png
+2025-09-08 15:10:29	3381 20893	results_anpr/vehicles/add_20250908_101029_c55855.jpg	results_anpr/crops/add_20250908_101029_fac7be.png
+2025-09-08 15:10:31	UNKNOWN	results_anpr/vehicles/veh_20250908_151031_033.jpg	results_anpr/crops/plate_20250908_151031_033.jpg
+2025-09-08 15:10:31	UNKNOWN	results_anpr/vehicles/add_20250908_101031_cf66bd.jpg	
+2025-09-08 15:10:44	UNKNOWN	results_anpr/vehicles/veh_20250908_151044_088.jpg	results_anpr/crops/plate_20250908_151044_088.jpg
+2025-09-08 15:10:44	UNKNOWN	results_anpr/vehicles/add_20250908_101044_faa5bd.jpg	
+2025-09-08 15:10:46	K	results_anpr/vehicles/veh_20250908_151045_978.jpg	results_anpr/crops/plate_20250908_151045_978.png
+2025-09-08 15:10:46	K	results_anpr/vehicles/add_20250908_101046_47bf50.jpg	results_anpr/crops/add_20250908_101046_1036da.png
+2025-09-08 15:10:47	UNKNOWN	results_anpr/vehicles/veh_20250908_151047_828.jpg	results_anpr/crops/plate_20250908_151047_828.jpg
+2025-09-08 15:10:47	UNKNOWN	results_anpr/vehicles/add_20250908_101048_55efac.jpg	
+2025-09-08 15:10:47	UNKNOWN	results_anpr/vehicles/add_20250908_142104_249eed.jpg	
+2025-09-08 19:21:34	UNKNOWN	results_anpr/vehicles/veh_20250908_192133_283.jpg	results_anpr/crops/plate_20250908_192133_283.png
+2025-09-08 19:21:34	UNKNOWN	results_anpr/vehicles/add_20250908_142134_b30ae5.jpg	results_anpr/crops/add_20250908_142134_68c5bb.png
+2025-09-08 19:21:35	65-N2 4474	results_anpr/vehicles/veh_20250908_192135_087.jpg	results_anpr/crops/plate_20250908_192135_087.png
+2025-09-08 19:21:35	65-N2 4474	results_anpr/vehicles/add_20250908_142135_8d90ae.jpg	results_anpr/crops/add_20250908_142135_1258e8.png
+2025-09-08 19:21:40	7K4 44	results_anpr/vehicles/veh_20250908_192139_486.jpg	results_anpr/crops/plate_20250908_192139_486.png
+2025-09-08 19:21:40	7K4 44	results_anpr/vehicles/add_20250908_142140_d78678.jpg	results_anpr/crops/add_20250908_142140_612779.png
+2025-09-08 19:21:41	65-NK2 4474	results_anpr/vehicles/veh_20250908_192141_344.jpg	results_anpr/crops/plate_20250908_192141_344.png
+2025-09-08 19:21:41	65-NK2 4474	results_anpr/vehicles/add_20250908_142141_6b81c0.jpg	results_anpr/crops/add_20250908_142141_34dd7b.png
+2025-09-08 19:21:48	65-N42 4474	results_anpr/vehicles/veh_20250908_192147_965.jpg	results_anpr/crops/plate_20250908_192147_965.png
+2025-09-08 19:21:48	65-N42 4474	results_anpr/vehicles/add_20250908_142148_ef7115.jpg	results_anpr/crops/add_20250908_142148_d5dcd3.png
+2025-09-08 19:21:55	60-U1 4632	results_anpr/vehicles/veh_20250908_192155_436.jpg	results_anpr/crops/plate_20250908_192155_436.png
+2025-09-08 19:21:55	60-U1 4632	results_anpr/vehicles/add_20250908_142156_c012f8.jpg	results_anpr/crops/add_20250908_142156_b8d4c7.png
+2025-09-08 19:21:55	60-U1 4632	results_anpr/vehicles/add_20250908_142211_0166ac.jpg	results_anpr/crops/add_20250908_142211_f2bca8.png
+2025-09-08 19:22:20	3	results_anpr/vehicles/veh_20250908_192219_900.jpg	results_anpr/crops/plate_20250908_192219_900.png
+2025-09-08 19:22:20	3	results_anpr/vehicles/add_20250908_142220_686191.jpg	results_anpr/crops/add_20250908_142220_6636b5.png
+2025-09-08 19:22:21	66-L1 05273	results_anpr/vehicles/veh_20250908_192221_714.jpg	results_anpr/crops/plate_20250908_192221_714.png
+2025-09-08 19:22:21	66-L1 05273	results_anpr/vehicles/add_20250908_142222_510e76.jpg	results_anpr/crops/add_20250908_142222_cd496a.png
+2025-09-08 19:22:35	68- 88	results_anpr/vehicles/veh_20250908_192234_767.jpg	results_anpr/crops/plate_20250908_192234_767.png
+2025-09-08 19:22:35	68- 88	results_anpr/vehicles/add_20250908_142235_44341c.jpg	results_anpr/crops/add_20250908_142235_d8df53.png
+2025-09-08 19:22:43	65- 4-	results_anpr/vehicles/veh_20250908_192243_022.jpg	results_anpr/crops/plate_20250908_192243_022.png
+2025-09-08 19:22:43	65- 4-	results_anpr/vehicles/add_20250908_142243_fabbb7.jpg	results_anpr/crops/add_20250908_142243_0e1dc3.png
+2025-09-08 19:22:44	65-N2 4474	results_anpr/vehicles/veh_20250908_192244_858.jpg	results_anpr/crops/plate_20250908_192244_858.png
+2025-09-08 19:22:44	65-N2 4474	results_anpr/vehicles/add_20250908_142245_31a936.jpg	results_anpr/crops/add_20250908_142245_978a28.png
+2025-09-08 19:22:50	6641 0527	results_anpr/vehicles/veh_20250908_192250_685.jpg	results_anpr/crops/plate_20250908_192250_685.png
+2025-09-08 19:22:50	6641 0527	results_anpr/vehicles/add_20250908_142251_58f0c5.jpg	results_anpr/crops/add_20250908_142251_9bc72c.png
+2025-09-08 19:22:54	K	results_anpr/vehicles/veh_20250908_192254_416.jpg	results_anpr/crops/plate_20250908_192254_416.png
+2025-09-08 19:22:54	K	results_anpr/vehicles/add_20250908_142255_0f1bed.jpg	results_anpr/crops/add_20250908_142255_dd809a.png
+2025-09-08 19:22:56	UNKNOWN	results_anpr/vehicles/veh_20250908_192256_218.jpg	results_anpr/crops/plate_20250908_192256_218.jpg
+2025-09-08 19:22:56	UNKNOWN	results_anpr/vehicles/add_20250908_142256_6ef4fb.jpg	
+2025-09-08 19:23:00	66- 052-	results_anpr/vehicles/veh_20250908_192300_127.jpg	results_anpr/crops/plate_20250908_192300_127.png
+2025-09-08 19:23:00	66- 052-	results_anpr/vehicles/add_20250908_142300_02f1cf.jpg	results_anpr/crops/add_20250908_142300_c718d7.png
+2025-09-08 19:23:02	66-L1 05273	results_anpr/vehicles/veh_20250908_192302_009.jpg	results_anpr/crops/plate_20250908_192302_009.png
+2025-09-08 19:23:02	66-L1 05273	results_anpr/vehicles/add_20250908_142302_83dfa0.jpg	results_anpr/crops/add_20250908_142302_c59a15.png
+2025-09-08 19:23:08	UNKNOWN	results_anpr/vehicles/veh_20250908_192308_158.jpg	results_anpr/crops/plate_20250908_192308_158.png
+2025-09-08 19:23:08	UNKNOWN	results_anpr/vehicles/add_20250908_142308_7a69f5.jpg	results_anpr/crops/add_20250908_142308_67e1c0.png
+2025-09-08 19:23:10	64-H4 4807	results_anpr/vehicles/veh_20250908_192309_986.jpg	results_anpr/crops/plate_20250908_192309_986.png
+2025-09-08 19:23:10	64-H4 4807	results_anpr/vehicles/add_20250908_142310_a3e72a.jpg	results_anpr/crops/add_20250908_142310_fb93a4.png
+2025-09-08 19:23:20	53S-38195	results_anpr/vehicles/veh_20250908_192320_095.jpg	results_anpr/crops/plate_20250908_192320_095.png
+2025-09-08 19:23:20	53S-38195	results_anpr/vehicles/add_20250908_142320_642455.jpg	results_anpr/crops/add_20250908_142320_bfa229.png
+2025-09-08 19:23:30	62-D1 233	results_anpr/vehicles/veh_20250908_192329_332.jpg	results_anpr/crops/plate_20250908_192329_332.png
+2025-09-08 19:23:30	62-D1 233	results_anpr/vehicles/add_20250908_142330_b35e05.jpg	results_anpr/crops/add_20250908_142330_596767.png
+2025-09-08 19:23:31	62-D1 22862	results_anpr/vehicles/veh_20250908_192331_097.jpg	results_anpr/crops/plate_20250908_192331_097.png
+2025-09-08 19:23:31	62-D1 22862	results_anpr/vehicles/add_20250908_142331_1bb435.jpg	results_anpr/crops/add_20250908_142331_8732fe.png
+2025-09-08 19:23:46	30E5-43502	results_anpr/vehicles/veh_20250908_192346_253.jpg	results_anpr/crops/plate_20250908_192346_253.png
+2025-09-08 19:23:46	30E5-43502	results_anpr/vehicles/add_20250908_142347_600327.jpg	results_anpr/crops/add_20250908_142347_ffff5c.png
+2025-09-08 19:23:48	30EF-43502	results_anpr/vehicles/veh_20250908_192348_084.jpg	results_anpr/crops/plate_20250908_192348_084.png
+2025-09-08 19:23:48	30EF-43502	results_anpr/vehicles/add_20250908_142348_111e4c.jpg	results_anpr/crops/add_20250908_142348_4852e2.png
+2025-09-08 19:23:48	30EF-43502	results_anpr/vehicles/add_20250908_142419_a404c8.jpg	results_anpr/crops/add_20250908_142419_eeedce.png
+2025-09-08 19:24:23	71-B3 2803	results_anpr/vehicles/veh_20250908_192423_026.jpg	results_anpr/crops/plate_20250908_192423_026.png
+2025-09-08 19:24:23	71-B3 2803	results_anpr/vehicles/add_20250908_142424_1236dd.jpg	results_anpr/crops/add_20250908_142424_17407c.png
+2025-09-08 19:24:25	7-8 28036	results_anpr/vehicles/veh_20250908_192424_869.jpg	results_anpr/crops/plate_20250908_192424_869.png
+2025-09-08 19:24:25	7-8 28036	results_anpr/vehicles/add_20250908_142425_a652ab.jpg	results_anpr/crops/add_20250908_142425_6e7e8d.png
+2025-09-08 19:24:27	UNKNOWN	results_anpr/vehicles/veh_20250908_192426_737.jpg	results_anpr/crops/plate_20250908_192426_737.jpg
+2025-09-08 19:24:27	UNKNOWN	results_anpr/vehicles/add_20250908_142427_68d2e4.jpg	
+2025-09-08 19:36:28	59-V3 82374	results_anpr/vehicles/veh_20250908_193628_468.jpg	results_anpr/crops/plate_20250908_193628_468.png
+2025-09-08 19:36:28	59-V3 82374	results_anpr/vehicles/add_20250908_143628_9361bb.jpg	results_anpr/crops/add_20250908_143628_365066.png
+2025-09-08 19:36:30	59-V3 82374	results_anpr/vehicles/veh_20250908_193630_332.jpg	results_anpr/crops/plate_20250908_193630_332.png
+2025-09-08 19:36:30	59-V3 82374	results_anpr/vehicles/add_20250908_143630_f1f472.jpg	results_anpr/crops/add_20250908_143630_eb8e63.png
+2025-09-08 19:36:30	59-V3 82374	results_anpr/vehicles/add_20250908_143708_8b241f.jpg	results_anpr/crops/add_20250908_143708_7e263e.png
+2025-09-08 19:37:10	59-V3 82374	results_anpr/vehicles/veh_20250908_193710_516.jpg	results_anpr/crops/plate_20250908_193710_516.png
+2025-09-08 19:37:10	59-V3 82374	results_anpr/vehicles/add_20250908_143711_8814dc.jpg	results_anpr/crops/add_20250908_143711_5d2c33.png
+2025-09-08 19:37:12	59-V3 82374	results_anpr/vehicles/veh_20250908_193712_349.jpg	results_anpr/crops/plate_20250908_193712_349.png
+2025-09-08 19:37:12	59-V3 82374	results_anpr/vehicles/add_20250908_143712_4a1708.jpg	results_anpr/crops/add_20250908_143712_614e13.png
+2025-09-08 19:37:14	62-D1 228062	results_anpr/vehicles/veh_20250908_193714_236.jpg	results_anpr/crops/plate_20250908_193714_236.png
+2025-09-08 19:37:14	62-D1 228062	results_anpr/vehicles/add_20250908_143714_72eb5c.jpg	results_anpr/crops/add_20250908_143714_fa47eb.png
+2025-09-08 19:37:16	62-D1 22862	results_anpr/vehicles/veh_20250908_193716_073.jpg	results_anpr/crops/plate_20250908_193716_073.png
+2025-09-08 19:37:16	62-D1 22862	results_anpr/vehicles/add_20250908_143716_4de55c.jpg	results_anpr/crops/add_20250908_143716_c7fda8.png
+2025-09-08 19:37:17	67-41 31748	results_anpr/vehicles/veh_20250908_193717_894.jpg	results_anpr/crops/plate_20250908_193717_894.png
+2025-09-08 19:37:17	67-41 31748	results_anpr/vehicles/add_20250908_143718_21cecb.jpg	results_anpr/crops/add_20250908_143718_25a71e.png
+2025-09-08 19:37:20	717-4 231-07	results_anpr/vehicles/veh_20250908_193719_759.jpg	results_anpr/crops/plate_20250908_193719_759.png
+2025-09-08 19:37:20	717-4 231-07	results_anpr/vehicles/add_20250908_143720_3d354b.jpg	results_anpr/crops/add_20250908_143720_01a537.png
+2025-09-08 19:37:21	71-AA 23107	results_anpr/vehicles/veh_20250908_193721_594.jpg	results_anpr/crops/plate_20250908_193721_594.png
+2025-09-08 19:37:21	71-AA 23107	results_anpr/vehicles/add_20250908_143722_628cff.jpg	results_anpr/crops/add_20250908_143722_c0294c.png
+2025-09-08 19:37:24	66-9 586	results_anpr/vehicles/veh_20250908_193723_490.jpg	results_anpr/crops/plate_20250908_193723_490.png
+2025-09-08 19:37:24	66-9 586	results_anpr/vehicles/add_20250908_143724_581326.jpg	results_anpr/crops/add_20250908_143724_becc6a.png
+2025-09-08 19:37:25	169 8B	results_anpr/vehicles/veh_20250908_193725_324.jpg	results_anpr/crops/plate_20250908_193725_324.png
+2025-09-08 19:37:25	169 8B	results_anpr/vehicles/add_20250908_143725_c7d6e5.jpg	results_anpr/crops/add_20250908_143725_8c633b.png
+2025-09-08 19:37:28	59- 65	results_anpr/vehicles/veh_20250908_193727_861.jpg	results_anpr/crops/plate_20250908_193727_861.png
+2025-09-08 19:37:28	59- 65	results_anpr/vehicles/add_20250908_143728_4d5f4c.jpg	results_anpr/crops/add_20250908_143728_ed3e75.png
+2025-09-08 19:37:29	59-N2 65615	results_anpr/vehicles/veh_20250908_193729_618.jpg	results_anpr/crops/plate_20250908_193729_618.png
+2025-09-08 19:37:29	59-N2 65615	results_anpr/vehicles/add_20250908_143729_7564b8.jpg	results_anpr/crops/add_20250908_143729_cfd6bf.png
+2025-09-08 19:37:32	62 21	results_anpr/vehicles/veh_20250908_193731_718.jpg	results_anpr/crops/plate_20250908_193731_718.png
+2025-09-08 19:37:32	62 21	results_anpr/vehicles/add_20250908_150626_e9d2ff.jpg	results_anpr/crops/add_20250908_150626_e326d5.png
+2025-09-08 20:06:37	002	results_anpr/vehicles/veh_20250908_200636_687.jpg	results_anpr/crops/plate_20250908_200636_687.png
+2025-09-08 20:06:37	002	results_anpr/vehicles/add_20250908_150638_d34b30.jpg	results_anpr/crops/add_20250908_150638_910500.png
+2025-09-08 20:06:38	95-B1 00287	results_anpr/vehicles/veh_20250908_200638_546.jpg	results_anpr/crops/plate_20250908_200638_546.png
+2025-09-08 20:06:38	95-B1 00287	results_anpr/vehicles/add_20250908_150639_062f52.jpg	results_anpr/crops/add_20250908_150639_5667b3.png
+2025-09-08 20:06:40	95-B1 00287	results_anpr/vehicles/veh_20250908_200640_385.jpg	results_anpr/crops/plate_20250908_200640_385.png
+2025-09-08 20:06:40	95-B1 00287	results_anpr/vehicles/add_20250908_150640_377d2d.jpg	results_anpr/crops/add_20250908_150640_896341.png
+2025-09-08 20:06:42	95-B1 00287	results_anpr/vehicles/veh_20250908_200642_246.jpg	results_anpr/crops/plate_20250908_200642_246.png
+2025-09-08 20:06:42	95-B1 00287	results_anpr/vehicles/add_20250908_150642_cb2254.jpg	results_anpr/crops/add_20250908_150642_e8ccc0.png
+2025-09-08 20:06:59	59-V3 82374	results_anpr/vehicles/veh_20250908_200659_495.jpg	results_anpr/crops/plate_20250908_200659_495.png
+2025-09-08 20:06:59	59-V3 82374	results_anpr/vehicles/add_20250908_150700_ed0b52.jpg	results_anpr/crops/add_20250908_150700_2a6821.png
+2025-09-08 20:07:01	59-V3 82374	results_anpr/vehicles/veh_20250908_200701_328.jpg	results_anpr/crops/plate_20250908_200701_328.png
+2025-09-08 20:07:01	59-V3 82374	results_anpr/vehicles/add_20250908_150702_c1f17f.jpg	results_anpr/crops/add_20250908_150702_5cc4aa.png
+2025-09-08 20:07:03	62-D1 22862	results_anpr/vehicles/veh_20250908_200703_229.jpg	results_anpr/crops/plate_20250908_200703_229.png
+2025-09-08 20:07:03	62-D1 22862	results_anpr/vehicles/add_20250908_150704_893da2.jpg	results_anpr/crops/add_20250908_150704_dfc8c7.png
+2025-09-08 20:07:05	62-D1 22862	results_anpr/vehicles/veh_20250908_200705_052.jpg	results_anpr/crops/plate_20250908_200705_052.png
+2025-09-08 20:07:05	62-D1 22862	results_anpr/vehicles/add_20250908_150705_23c7b8.jpg	results_anpr/crops/add_20250908_150705_bd81a9.png
+2025-09-08 20:07:06	67-L1 31748	results_anpr/vehicles/veh_20250908_200706_927.jpg	results_anpr/crops/plate_20250908_200706_927.png
+2025-09-08 20:07:06	67-L1 31748	results_anpr/vehicles/add_20250908_150707_9b5206.jpg	results_anpr/crops/add_20250908_150707_50b660.png
+2025-09-08 20:07:09	71-AA 23107	results_anpr/vehicles/veh_20250908_200708_797.jpg	results_anpr/crops/plate_20250908_200708_797.png
+2025-09-08 20:07:09	71-AA 23107	results_anpr/vehicles/add_20250908_150709_1ba499.jpg	results_anpr/crops/add_20250908_150709_3a15f5.png
+2025-09-08 20:07:11	-AA 3107	results_anpr/vehicles/veh_20250908_200710_631.jpg	results_anpr/crops/plate_20250908_200710_631.png
+2025-09-08 20:07:11	-AA 3107	results_anpr/vehicles/add_20250908_150711_971a9f.jpg	results_anpr/crops/add_20250908_150711_07d6d5.png
+2025-09-08 20:07:12	6-1 50869	results_anpr/vehicles/veh_20250908_200712_463.jpg	results_anpr/crops/plate_20250908_200712_463.png
+2025-09-08 20:07:12	6-1 50869	results_anpr/vehicles/add_20250908_150713_08d5da.jpg	results_anpr/crops/add_20250908_150713_45d7fe.png
+2025-09-08 20:07:15	59- 65	results_anpr/vehicles/veh_20250908_200715_485.jpg	results_anpr/crops/plate_20250908_200715_485.png
+2025-09-08 20:07:15	59- 65	results_anpr/vehicles/add_20250908_150716_bfa01a.jpg	results_anpr/crops/add_20250908_150716_659f40.png
+2025-09-08 20:07:17	59-N2 65615	results_anpr/vehicles/veh_20250908_200717_046.jpg	results_anpr/crops/plate_20250908_200717_046.png
+2025-09-08 20:07:17	59-N2 65615	results_anpr/vehicles/add_20250908_150717_d4b0aa.jpg	results_anpr/crops/add_20250908_150717_5b0cc1.png
+2025-09-08 20:07:19	62- 211	results_anpr/vehicles/veh_20250908_200719_273.jpg	results_anpr/crops/plate_20250908_200719_273.png
+2025-09-08 20:07:19	62- 211	results_anpr/vehicles/add_20250908_150720_9cba89.jpg	results_anpr/crops/add_20250908_150720_c3dffd.png
+2025-09-08 20:07:21	62-1 21163	results_anpr/vehicles/veh_20250908_200721_127.jpg	results_anpr/crops/plate_20250908_200721_127.png
+2025-09-08 20:07:21	62-1 21163	results_anpr/vehicles/add_20250908_150721_01581d.jpg	results_anpr/crops/add_20250908_150721_8dea2a.png
+2025-09-08 20:07:23	66-N 580	results_anpr/vehicles/veh_20250908_200722_969.jpg	results_anpr/crops/plate_20250908_200722_969.png
+2025-09-08 20:07:23	66-N 580	results_anpr/vehicles/add_20250908_150724_3d9215.jpg	results_anpr/crops/add_20250908_150724_cbc357.png
+2025-09-08 20:07:24	66-N1 58005	results_anpr/vehicles/veh_20250908_200724_801.jpg	results_anpr/crops/plate_20250908_200724_801.png
+2025-09-08 20:07:24	66-N1 58005	results_anpr/vehicles/add_20250908_150725_45108a.jpg	results_anpr/crops/add_20250908_150725_190eff.png
+2025-09-08 20:07:27	61-XK 150	results_anpr/vehicles/veh_20250908_200726_649.jpg	results_anpr/crops/plate_20250908_200726_649.png
+2025-09-08 20:07:27	61-XK 150	results_anpr/vehicles/add_20250908_150727_6d1a1c.jpg	results_anpr/crops/add_20250908_150727_b6622f.png
+2025-09-08 20:07:28	21 71	results_anpr/vehicles/veh_20250908_200728_527.jpg	results_anpr/crops/plate_20250908_200728_527.png
+2025-09-08 20:07:28	21 71	results_anpr/vehicles/add_20250908_150729_a77a3c.jpg	results_anpr/crops/add_20250908_150729_a66e3c.png
+2025-09-08 20:07:30	59-KX3 80208	results_anpr/vehicles/veh_20250908_200730_270.jpg	results_anpr/crops/plate_20250908_200730_270.png
+2025-09-08 20:07:30	59-KX3 80208	results_anpr/vehicles/add_20250908_150731_d51726.jpg	results_anpr/crops/add_20250908_150731_3cdaa9.png
+2025-09-08 20:07:32	38	results_anpr/vehicles/veh_20250908_200732_167.jpg	results_anpr/crops/plate_20250908_200732_167.png
+2025-09-08 20:07:32	38	results_anpr/vehicles/add_20250908_150733_c6bee7.jpg	results_anpr/crops/add_20250908_150733_47b9b2.png
+2025-09-08 20:07:34	54-4 3414	results_anpr/vehicles/veh_20250908_200734_064.jpg	results_anpr/crops/plate_20250908_200734_064.png
+2025-09-08 20:07:34	54-4 3414	results_anpr/vehicles/add_20250908_150735_0f9da1.jpg	results_anpr/crops/add_20250908_150735_0f3b54.png
+2025-09-08 20:07:35	54-V4 3414	results_anpr/vehicles/veh_20250908_200735_928.jpg	results_anpr/crops/plate_20250908_200735_928.png
+2025-09-08 20:07:35	54-V4 3414	results_anpr/vehicles/add_20250908_150736_8f5746.jpg	results_anpr/crops/add_20250908_150736_0c7809.png
+2025-09-08 20:07:52	771-B38 28036	results_anpr/vehicles/veh_20250908_200751_981.jpg	results_anpr/crops/plate_20250908_200751_981.png
+2025-09-08 20:07:52	771-B38 28036	results_anpr/vehicles/add_20250908_150753_1b6b67.jpg	results_anpr/crops/add_20250908_150753_169224.png
+2025-09-08 20:07:53	7-B3 28036	results_anpr/vehicles/veh_20250908_200753_849.jpg	results_anpr/crops/plate_20250908_200753_849.png
+2025-09-08 20:07:53	7-B3 28036	results_anpr/vehicles/add_20250908_150754_d8bf23.jpg	results_anpr/crops/add_20250908_150754_74cc42.png
+2025-09-08 20:08:04	66C-17 57713	results_anpr/vehicles/veh_20250908_200804_316.jpg	results_anpr/crops/plate_20250908_200804_316.png
+2025-09-08 20:08:04	66C-17 57713	results_anpr/vehicles/add_20250908_150805_406b4a.jpg	results_anpr/crops/add_20250908_150805_4aa0c4.png
+2025-09-08 20:08:24	63S- 20893	results_anpr/vehicles/veh_20250908_200824_526.jpg	results_anpr/crops/plate_20250908_200824_526.png
+2025-09-08 20:08:24	63S- 20893	results_anpr/vehicles/add_20250908_150825_41c4bd.jpg	results_anpr/crops/add_20250908_150825_28b772.png
+2025-09-08 20:08:40	77 3337	results_anpr/vehicles/veh_20250908_200840_067.jpg	results_anpr/crops/plate_20250908_200840_067.png
+2025-09-08 20:08:40	77 3337	results_anpr/vehicles/add_20250908_150840_935219.jpg	results_anpr/crops/add_20250908_150840_576c6b.png
+2025-09-08 20:08:41	7B93 69B2	results_anpr/vehicles/veh_20250908_200841_888.jpg	results_anpr/crops/plate_20250908_200841_888.png
+2025-09-08 20:08:41	7B93 69B2	results_anpr/vehicles/add_20250908_150842_70417a.jpg	results_anpr/crops/add_20250908_150842_053c79.png
+2025-09-08 20:08:55	113	results_anpr/vehicles/veh_20250908_200855_340.jpg	results_anpr/crops/plate_20250908_200855_340.png
+2025-09-08 20:08:55	113	results_anpr/vehicles/add_20250908_150856_078777.jpg	results_anpr/crops/add_20250908_150856_98ef7e.png
+2025-09-08 20:08:57	3B8 0115	results_anpr/vehicles/veh_20250908_200857_217.jpg	results_anpr/crops/plate_20250908_200857_217.png
+2025-09-08 20:08:57	3B8 0115	results_anpr/vehicles/add_20250908_150858_9f2a1b.jpg	results_anpr/crops/add_20250908_150858_44db73.png
+2025-09-08 20:09:25	62-U1 06325	results_anpr/vehicles/veh_20250908_200925_090.jpg	results_anpr/crops/plate_20250908_200925_090.png
+2025-09-08 20:09:26	62-U1 06325	results_anpr/vehicles/veh_20250908_200926_897.jpg	results_anpr/crops/plate_20250908_200926_897.png
+2025-09-08 20:09:28	62-U1 06325	results_anpr/vehicles/veh_20250908_200928_721.jpg	results_anpr/crops/plate_20250908_200928_721.png
+2025-09-08 20:09:30	62-U1 06325	results_anpr/vehicles/veh_20250908_200930_558.jpg	results_anpr/crops/plate_20250908_200930_558.png
+2025-09-08 20:09:32	62-U1 06325	results_anpr/vehicles/veh_20250908_200932_383.jpg	results_anpr/crops/plate_20250908_200932_383.png
+2025-09-08 20:09:34	62-U1 06325	results_anpr/vehicles/veh_20250908_200934_084.jpg	results_anpr/crops/plate_20250908_200934_084.png
+2025-09-08 20:09:38	54-F1 8502	results_anpr/vehicles/veh_20250908_200938_467.jpg	results_anpr/crops/plate_20250908_200938_467.png
+2025-09-08 20:09:42	54-F1 8502	results_anpr/vehicles/veh_20250908_200942_502.jpg	results_anpr/crops/plate_20250908_200942_502.png
+2025-09-08 20:09:44	54-F1 8502	results_anpr/vehicles/veh_20250908_200944_330.jpg	results_anpr/crops/plate_20250908_200944_330.png
+2025-09-08 20:09:46	154-F1 8502	results_anpr/vehicles/veh_20250908_200946_141.jpg	results_anpr/crops/plate_20250908_200946_141.png
+2025-09-08 20:09:53	66-L1 05273	results_anpr/vehicles/veh_20250908_200953_280.jpg	results_anpr/crops/plate_20250908_200953_280.png
+2025-09-08 20:09:55	66-L1 05273	results_anpr/vehicles/veh_20250908_200955_090.jpg	results_anpr/crops/plate_20250908_200955_090.png
+2025-09-08 20:09:59	683-2 6087	results_anpr/vehicles/veh_20250908_200959_742.jpg	results_anpr/crops/plate_20250908_200959_742.png
+2025-09-08 20:10:03	66-2 6087	results_anpr/vehicles/veh_20250908_201003_231.jpg	results_anpr/crops/plate_20250908_201003_231.png
+2025-09-08 20:10:05	68-2 6087	results_anpr/vehicles/veh_20250908_201005_082.jpg	results_anpr/crops/plate_20250908_201005_082.png
+2025-09-08 20:10:09	65-X1 7953	results_anpr/vehicles/veh_20250908_201009_332.jpg	results_anpr/crops/plate_20250908_201009_332.png
+2025-09-08 20:10:14	64-U1 3872	results_anpr/vehicles/veh_20250908_201014_400.jpg	results_anpr/crops/plate_20250908_201014_400.png
+2025-09-08 20:10:19	60-U1 4632	results_anpr/vehicles/veh_20250908_201019_909.jpg	results_anpr/crops/plate_20250908_201019_909.png
+2025-09-08 20:10:29	67-AL 00787	results_anpr/vehicles/veh_20250908_201028_593.jpg	results_anpr/crops/plate_20250908_201028_593.png
+2025-09-08 20:10:35	35-B	results_anpr/vehicles/veh_20250908_201035_234.jpg	results_anpr/crops/plate_20250908_201035_234.png
+2025-09-08 20:10:39	65-B1 22893	results_anpr/vehicles/veh_20250908_201039_473.jpg	results_anpr/crops/plate_20250908_201039_473.png
+2025-09-08 20:10:46	50H-PN 57495	results_anpr/vehicles/veh_20250908_201046_207.jpg	results_anpr/crops/plate_20250908_201046_207.png
+2025-09-08 20:10:49	50D-H 57495	results_anpr/vehicles/veh_20250908_201049_569.jpg	results_anpr/crops/plate_20250908_201049_569.png
+2025-09-08 20:10:51	50H 57495	results_anpr/vehicles/veh_20250908_201051_377.jpg	results_anpr/crops/plate_20250908_201051_377.png
+2025-09-08 20:10:55	997 7069	results_anpr/vehicles/veh_20250908_201055_469.jpg	results_anpr/crops/plate_20250908_201055_469.png
+2025-09-08 20:10:57	99-H7 7060	results_anpr/vehicles/veh_20250908_201057_313.jpg	results_anpr/crops/plate_20250908_201057_313.png
+2025-09-08 20:11:04	51F 25451	results_anpr/vehicles/veh_20250908_201104_088.jpg	results_anpr/crops/plate_20250908_201104_088.png
+2025-09-08 20:11:10	18H 02319	results_anpr/vehicles/veh_20250908_201110_460.jpg	results_anpr/crops/plate_20250908_201110_460.png
+2025-09-08 20:26:48	61 312	results_anpr/vehicles/veh_20250908_202648_030.jpg	results_anpr/crops/plate_20250908_202648_030.png
+2025-09-08 20:26:58	65-B1 22893	results_anpr/vehicles/veh_20250908_202658_066.jpg	results_anpr/crops/plate_20250908_202658_066.png
+2025-09-08 20:26:59	65-B1 22893	results_anpr/vehicles/veh_20250908_202659_874.jpg	results_anpr/crops/plate_20250908_202659_874.png
+2025-09-08 20:27:01	65-B1 22893	results_anpr/vehicles/veh_20250908_202701_705.jpg	results_anpr/crops/plate_20250908_202701_705.png
+2025-09-08 20:28:20	93568 00287	results_anpr/vehicles/veh_20250908_202820_584.jpg	results_anpr/crops/plate_20250908_202820_584.png
+2025-09-08 20:28:22	95-B1 00287	results_anpr/vehicles/veh_20250908_202822_410.jpg	results_anpr/crops/plate_20250908_202822_410.png
+2025-09-08 20:08:57	3B8 0115	results_anpr/vehicles/add_20250908_181641_1b9932.jpg	results_anpr/crops/add_20250908_181641_98e126.png
+2025-09-08 23:17:02	66-L1 05273	results_anpr/vehicles/veh_20250908_231701_735.jpg	results_anpr/crops/plate_20250908_231701_735.png
+2025-09-08 23:17:02	66-L1 05273	results_anpr/vehicles/add_20250908_181703_835966.jpg	results_anpr/crops/add_20250908_181703_8c4dfd.png
+2025-09-08 23:17:03	66-L1 05273	results_anpr/vehicles/veh_20250908_231703_464.jpg	results_anpr/crops/plate_20250908_231703_464.png
+2025-09-08 23:17:03	66-L1 05273	results_anpr/vehicles/add_20250908_181704_ac430e.jpg	results_anpr/crops/add_20250908_181704_46a44d.png
+2025-09-12 17:39:05	62-U1 06325	results_anpr/vehicles/veh_20250912_173904_616.jpg	results_anpr/crops/plate_20250912_173904_616.png
+2025-09-12 17:39:06	62-U1 06325	results_anpr/vehicles/veh_20250912_173906_438.jpg	results_anpr/crops/plate_20250912_173906_438.png
+2025-09-12 17:39:08	62-U1 06325	results_anpr/vehicles/veh_20250912_173908_268.jpg	results_anpr/crops/plate_20250912_173908_268.png
+2025-09-12 17:39:10	62-U1 06325	results_anpr/vehicles/veh_20250912_173910_105.jpg	results_anpr/crops/plate_20250912_173910_105.png
+2025-09-12 17:39:12	62-U1 0632	results_anpr/vehicles/veh_20250912_173911_740.jpg	results_anpr/crops/plate_20250912_173911_740.png
+2025-09-12 17:39:18	54 35	results_anpr/vehicles/veh_20250912_173917_987.jpg	results_anpr/crops/plate_20250912_173917_987.png
+2025-09-12 17:39:19	54-F1 8502	results_anpr/vehicles/veh_20250912_173919_654.jpg	results_anpr/crops/plate_20250912_173919_654.png
+2025-09-08 23:17:03	66-L1 05273	results_anpr/vehicles/add_20250912_124437_9cd081.jpg	results_anpr/crops/add_20250912_124437_ee4217.png
+2025-09-12 17:46:18	59-V3 82374	results_anpr/vehicles/veh_20250912_174618_151.jpg	results_anpr/crops/plate_20250912_174618_151.png
+2025-09-12 17:46:18	59-V3 82374	results_anpr/vehicles/add_20250912_124619_d13871.jpg	results_anpr/crops/add_20250912_124619_dfd15a.png
+2025-09-12 17:46:20	59-V3 82374	results_anpr/vehicles/veh_20250912_174620_012.jpg	results_anpr/crops/plate_20250912_174620_012.png
+2025-09-12 17:46:20	59-V3 82374	results_anpr/vehicles/add_20250912_124621_e238d0.jpg	results_anpr/crops/add_20250912_124621_a40824.png
+2025-09-12 17:46:22	62-D1 22862	results_anpr/vehicles/veh_20250912_174621_844.jpg	results_anpr/crops/plate_20250912_174621_844.png
+2025-09-12 17:46:22	62-D1 22862	results_anpr/vehicles/add_20250912_124622_f19c5d.jpg	results_anpr/crops/add_20250912_124622_b4d18d.png
+2025-09-12 17:46:23	62-D1 22862	results_anpr/vehicles/veh_20250912_174623_744.jpg	results_anpr/crops/plate_20250912_174623_744.png
+2025-09-12 17:46:23	62-D1 22862	results_anpr/vehicles/add_20250912_124624_39727e.jpg	results_anpr/crops/add_20250912_124624_aa6508.png
+2025-09-12 17:46:25	67-L1 31748	results_anpr/vehicles/veh_20250912_174625_565.jpg	results_anpr/crops/plate_20250912_174625_565.png
+2025-09-12 17:46:25	67-L1 31748	results_anpr/vehicles/add_20250912_124626_a7b3d4.jpg	results_anpr/crops/add_20250912_124626_7a7952.png
+2025-09-12 17:46:27	71-AA 23107	results_anpr/vehicles/veh_20250912_174627_439.jpg	results_anpr/crops/plate_20250912_174627_439.png
+2025-09-12 17:46:27	71-AA 23107	results_anpr/vehicles/add_20250912_124628_8f80a7.jpg	results_anpr/crops/add_20250912_124628_d173f8.png
+2025-09-12 17:46:29	C- 508	results_anpr/vehicles/veh_20250912_174629_326.jpg	results_anpr/crops/plate_20250912_174629_326.png
+2025-09-12 17:46:29	C- 508	results_anpr/vehicles/add_20250912_124630_37e669.jpg	results_anpr/crops/add_20250912_124630_325565.png
+2025-09-12 17:46:31	65-1 50869	results_anpr/vehicles/veh_20250912_174631_179.jpg	results_anpr/crops/plate_20250912_174631_179.png
+2025-09-12 17:46:31	65-1 50869	results_anpr/vehicles/add_20250912_124632_d9e4bb.jpg	results_anpr/crops/add_20250912_124632_75495c.png
+2025-09-12 17:46:34	59- 65	results_anpr/vehicles/veh_20250912_174634_072.jpg	results_anpr/crops/plate_20250912_174634_072.png
+2025-09-12 17:46:34	59- 65	results_anpr/vehicles/add_20250912_124635_25c666.jpg	results_anpr/crops/add_20250912_124635_f762c5.png
+2025-09-12 17:46:35	59-N2 65615	results_anpr/vehicles/veh_20250912_174635_741.jpg	results_anpr/crops/plate_20250912_174635_741.png
+2025-09-12 17:46:35	59-N2 65615	results_anpr/vehicles/add_20250912_124636_3538b4.jpg	results_anpr/crops/add_20250912_124636_127daf.png
+2025-09-12 17:46:38	62- 211	results_anpr/vehicles/veh_20250912_174637_913.jpg	results_anpr/crops/plate_20250912_174637_913.png
+2025-09-12 17:46:38	62- 211	results_anpr/vehicles/add_20250912_124639_14096d.jpg	results_anpr/crops/add_20250912_124639_a7ce96.png
+2025-09-12 17:46:39	62-1 21163	results_anpr/vehicles/veh_20250912_174639_776.jpg	results_anpr/crops/plate_20250912_174639_776.png
+2025-09-12 17:46:39	62-1 21163	results_anpr/vehicles/add_20250912_124640_7419fc.jpg	results_anpr/crops/add_20250912_124640_a2481a.png
+2025-09-12 17:46:42	66-N 580	results_anpr/vehicles/veh_20250912_174641_625.jpg	results_anpr/crops/plate_20250912_174641_625.png
+2025-09-12 17:46:42	66-N 580	results_anpr/vehicles/add_20250912_124643_dd5694.jpg	results_anpr/crops/add_20250912_124643_a1f73b.png
+2025-09-12 17:46:43	66-N1 58005	results_anpr/vehicles/veh_20250912_174643_488.jpg	results_anpr/crops/plate_20250912_174643_488.png
+2025-09-12 17:46:43	66-N1 58005	results_anpr/vehicles/add_20250912_124644_ed747f.jpg	results_anpr/crops/add_20250912_124644_fe09cc.png
+2025-09-12 17:46:45	61-XK 150	results_anpr/vehicles/veh_20250912_174645_338.jpg	results_anpr/crops/plate_20250912_174645_338.png
+2025-09-12 17:46:45	61-XK 150	results_anpr/vehicles/add_20250912_124646_32321c.jpg	results_anpr/crops/add_20250912_124646_a9368d.png
+2025-09-12 17:46:47	X1 D1	results_anpr/vehicles/veh_20250912_174647_169.jpg	results_anpr/crops/plate_20250912_174647_169.png
+2025-09-12 17:46:47	X1 D1	results_anpr/vehicles/add_20250912_124648_47a8d4.jpg	results_anpr/crops/add_20250912_124648_604c50.png
+2025-09-12 17:46:49	59-X73 80208	results_anpr/vehicles/veh_20250912_174649_047.jpg	results_anpr/crops/plate_20250912_174649_047.png
+2025-09-12 17:46:49	59-X73 80208	results_anpr/vehicles/add_20250912_124649_ca1699.jpg	results_anpr/crops/add_20250912_124649_fb849c.png
+2025-09-12 17:46:50	5	results_anpr/vehicles/veh_20250912_174650_883.jpg	results_anpr/crops/plate_20250912_174650_883.png
+2025-09-12 17:46:50	5	results_anpr/vehicles/add_20250912_124651_733d4f.jpg	results_anpr/crops/add_20250912_124651_d1e40b.png
+2025-09-12 17:46:52	54-V4 3414	results_anpr/vehicles/veh_20250912_174652_760.jpg	results_anpr/crops/plate_20250912_174652_760.png
+2025-09-12 17:46:52	54-V4 3414	results_anpr/vehicles/add_20250912_124653_7efa71.jpg	results_anpr/crops/add_20250912_124653_258f6f.png
+2025-09-12 17:46:54	54-4 3414	results_anpr/vehicles/veh_20250912_174654_626.jpg	results_anpr/crops/plate_20250912_174654_626.png
+2025-09-12 17:46:54	54-4 3414	results_anpr/vehicles/add_20250912_124655_ab4492.jpg	results_anpr/crops/add_20250912_124655_90cdc3.png
+2025-09-12 20:51:00	62-U1 22222	results_anpr/vehicles/manual_20250912_155123_68c4255b86bff.jpg	results_anpr/crops/manual_20250912_155123_68c4255b86aca.jpg
+2025-09-12 17:46:54	54-4 3414	results_anpr/vehicles/add_20250912_170608_d5eda0.jpg	results_anpr/crops/add_20250912_170608_13d840.png
+2025-09-12 17:46:54	54-4 3414	results_anpr/vehicles/add_20250912_170619_35d1b1.jpg	results_anpr/crops/add_20250912_170619_41d916.png
+2025-09-12 22:06:31	431 3133	results_anpr/vehicles/veh_20250912_220630_902.jpg	results_anpr/crops/plate_20250912_220630_902.png
+2025-09-12 22:06:31	431 3133	results_anpr/vehicles/add_20250912_170631_78a5df.jpg	results_anpr/crops/add_20250912_170631_f0285c.png
+2025-09-12 22:06:33	49-C1 53133	results_anpr/vehicles/veh_20250912_220632_707.jpg	results_anpr/crops/plate_20250912_220632_707.png
+2025-09-12 22:06:33	49-C1 53133	results_anpr/vehicles/add_20250912_170633_5de877.jpg	results_anpr/crops/add_20250912_170633_1a424d.png
+2025-09-12 22:06:34	49-61 33133	results_anpr/vehicles/veh_20250912_220634_306.jpg	results_anpr/crops/plate_20250912_220634_306.png
+2025-09-12 22:06:34	49-61 33133	results_anpr/vehicles/add_20250912_170634_156f52.jpg	results_anpr/crops/add_20250912_170634_521a9d.png
+2025-09-12 22:06:34	49-61 33133	results_anpr/vehicles/add_20250912_170710_027320.jpg	results_anpr/crops/add_20250912_170710_6a933f.png
+2025-09-12 22:07:23	65-KX4 7589	results_anpr/vehicles/veh_20250912_220722_770.jpg	results_anpr/crops/plate_20250912_220722_770.png
+2025-09-12 22:07:23	65-KX4 7589	results_anpr/vehicles/add_20250912_170723_f86ce9.jpg	results_anpr/crops/add_20250912_170723_f59400.png
+2025-09-12 22:07:25	65-X4 7589	results_anpr/vehicles/veh_20250912_220724_602.jpg	results_anpr/crops/plate_20250912_220724_602.png
+2025-09-12 22:07:25	65-X4 7589	results_anpr/vehicles/add_20250912_170725_47af49.jpg	results_anpr/crops/add_20250912_170725_1d9f67.png
+2025-09-12 22:07:25	65-X4 7589	results_anpr/vehicles/add_20250912_170824_88dd38.jpg	results_anpr/crops/add_20250912_170824_312292.png
+2025-09-12 22:08:45	54-F1 8502	results_anpr/vehicles/veh_20250912_220844_626.jpg	results_anpr/crops/plate_20250912_220844_626.png
+2025-09-12 22:08:45	54-F1 8502	results_anpr/vehicles/add_20250912_170845_a9d9bd.jpg	results_anpr/crops/add_20250912_170845_fb0f9a.png
+2025-09-12 22:08:45	54-F1 8502	results_anpr/vehicles/add_20250912_171010_bebafc.jpg	results_anpr/crops/add_20250912_171010_8f6726.png
+2025-09-12 22:10:21	5	results_anpr/vehicles/veh_20250912_221020_702.jpg	results_anpr/crops/plate_20250912_221020_702.png
+2025-09-12 22:10:21	5	results_anpr/vehicles/add_20250912_171022_81092c.jpg	results_anpr/crops/add_20250912_171022_7f4354.png
+2025-09-12 22:10:22	54-F1 8502	results_anpr/vehicles/veh_20250912_221022_556.jpg	results_anpr/crops/plate_20250912_221022_556.png
+2025-09-12 22:10:22	54-F1 8502	results_anpr/vehicles/add_20250912_171023_3fbaae.jpg	results_anpr/crops/add_20250912_171023_3790ee.png
+2025-09-12 22:10:31	59-32 93474	results_anpr/vehicles/veh_20250912_221030_923.jpg	results_anpr/crops/plate_20250912_221030_923.png
+2025-09-12 22:10:31	59-32 93474	results_anpr/vehicles/add_20250912_171031_8fd216.jpg	results_anpr/crops/add_20250912_171031_6ca805.png
+2025-09-12 22:10:33	59-0C2 93474	results_anpr/vehicles/veh_20250912_221032_762.jpg	results_anpr/crops/plate_20250912_221032_762.png
+2025-09-12 22:10:33	59-0C2 93474	results_anpr/vehicles/add_20250912_171033_bcc2fb.jpg	results_anpr/crops/add_20250912_171033_9d3177.png
+2025-09-12 22:10:39	50H 57495	results_anpr/vehicles/veh_20250912_221039_260.jpg	results_anpr/crops/plate_20250912_221039_260.png
+2025-09-12 22:10:39	50H 57495	results_anpr/vehicles/add_20250912_171040_abfb2f.jpg	results_anpr/crops/add_20250912_171040_70dbaa.png
+2025-09-12 22:10:41	5D0H 57495	results_anpr/vehicles/veh_20250912_221041_021.jpg	results_anpr/crops/plate_20250912_221041_021.png
+2025-09-12 22:10:41	5D0H 57495	results_anpr/vehicles/add_20250912_171041_cb82b2.jpg	results_anpr/crops/add_20250912_171041_260628.png
+2025-09-12 22:10:52	6-AL4 00787	results_anpr/vehicles/veh_20250912_221052_683.jpg	results_anpr/crops/plate_20250912_221052_683.png
+2025-09-12 22:10:52	6-AL4 00787	results_anpr/vehicles/add_20250912_171053_88987b.jpg	results_anpr/crops/add_20250912_171053_da5f88.png
+2025-09-12 22:10:57	3AL 00787	results_anpr/vehicles/veh_20250912_221056_880.jpg	results_anpr/crops/plate_20250912_221056_880.png
+2025-09-12 22:10:57	3AL 00787	results_anpr/vehicles/add_20250912_171057_df8c7e.jpg	results_anpr/crops/add_20250912_171057_ec2c24.png
+2025-09-12 22:11:05	65-P1 8611	results_anpr/vehicles/veh_20250912_221104_785.jpg	results_anpr/crops/plate_20250912_221104_785.png
+2025-09-12 22:11:05	65-P1 8611	results_anpr/vehicles/add_20250912_171105_7bde72.jpg	results_anpr/crops/add_20250912_171105_e6c6e1.png
+2025-09-12 22:11:10	65-B1 223893	results_anpr/vehicles/veh_20250912_221110_667.jpg	results_anpr/crops/plate_20250912_221110_667.png
+2025-09-12 22:11:10	65-B1 223893	results_anpr/vehicles/add_20250912_171111_96faab.jpg	results_anpr/crops/add_20250912_171111_3cddf1.png
+2025-09-12 22:11:16	64E-8 11	results_anpr/vehicles/veh_20250912_221116_729.jpg	results_anpr/crops/plate_20250912_221116_729.png
+2025-09-12 22:11:16	64E-8 11	results_anpr/vehicles/add_20250912_171117_0d8942.jpg	results_anpr/crops/add_20250912_171117_c63775.png
+2025-09-12 22:11:19	64-F8 1149	results_anpr/vehicles/veh_20250912_221118_569.jpg	results_anpr/crops/plate_20250912_221118_569.png
+2025-09-12 22:11:19	64-F8 1149	results_anpr/vehicles/add_20250912_171119_7737e3.jpg	results_anpr/crops/add_20250912_171119_8553a0.png
+2025-09-12 22:11:20	38	results_anpr/vehicles/veh_20250912_221120_425.jpg	results_anpr/crops/plate_20250912_221120_425.png
+2025-09-12 22:11:20	38	results_anpr/vehicles/add_20250912_171121_0f76f7.jpg	results_anpr/crops/add_20250912_171121_938a36.png
+2025-09-12 22:11:22	64-F8 1149	results_anpr/vehicles/veh_20250912_221122_060.jpg	results_anpr/crops/plate_20250912_221122_060.png
+2025-09-12 22:11:22	64-F8 1149	results_anpr/vehicles/add_20250912_171122_2805ec.jpg	results_anpr/crops/add_20250912_171122_2fb925.png
+2025-09-12 22:11:24	648 11	results_anpr/vehicles/veh_20250912_221124_244.jpg	results_anpr/crops/plate_20250912_221124_244.png
+2025-09-12 22:11:24	648 11	results_anpr/vehicles/add_20250912_171124_945e13.jpg	results_anpr/crops/add_20250912_171124_689e34.png
+2025-09-12 22:11:26	64-F8 1149	results_anpr/vehicles/veh_20250912_221126_090.jpg	results_anpr/crops/plate_20250912_221126_090.png
+2025-09-12 22:11:26	64-F8 1149	results_anpr/vehicles/add_20250912_171126_2f2a18.jpg	results_anpr/crops/add_20250912_171126_059354.png
+2025-09-12 22:11:27	64-F8 1149	results_anpr/vehicles/veh_20250912_221127_908.jpg	results_anpr/crops/plate_20250912_221127_908.png
+2025-09-12 22:11:27	64-F8 1149	results_anpr/vehicles/add_20250912_171128_ab7231.jpg	results_anpr/crops/add_20250912_171128_8f2011.png
+2025-09-12 22:11:29	64-F8 1149	results_anpr/vehicles/veh_20250912_221129_763.jpg	results_anpr/crops/plate_20250912_221129_763.png
+2025-09-12 22:11:29	64-F8 1149	results_anpr/vehicles/add_20250912_171130_89a06e.jpg	results_anpr/crops/add_20250912_171130_7d0b7e.png
+2025-09-12 22:11:40	68-P6 6755	results_anpr/vehicles/veh_20250912_221140_364.jpg	results_anpr/crops/plate_20250912_221140_364.png
+2025-09-12 22:11:40	68-P6 6755	results_anpr/vehicles/add_20250912_171141_f882ff.jpg	results_anpr/crops/add_20250912_171141_0f4042.png
+2025-09-12 22:11:47	65-P1 8611	results_anpr/vehicles/veh_20250912_221147_529.jpg	results_anpr/crops/plate_20250912_221147_529.png
+2025-09-12 22:11:47	65-P1 8611	results_anpr/vehicles/add_20250912_171148_0e2050.jpg	results_anpr/crops/add_20250912_171148_85c7f6.png
+2025-09-12 22:11:47	65-P1 8611	results_anpr/vehicles/add_20250912_171322_7c7577.jpg	results_anpr/crops/add_20250912_171322_b2297b.png
+2025-09-12 22:11:47	65-P1 8611	results_anpr/vehicles/add_20250912_171838_cef735.jpg	results_anpr/crops/add_20250912_171838_ed0be5.png
+2025-09-12 17:23:00	62-U1 22222	results_anpr/vehicles/manual_20250912_172330_68c43af2d03f3.png	results_anpr/crops/manual_20250912_172330_68c43af2d02cb.png
+2025-09-12 17:25:00	62-U1 22222	results_anpr/vehicles/manual_20250912_172549_68c43b7d3ee55.jpg	results_anpr/crops/manual_20250912_172549_68c43b7d3ecc6.jpg
+2025-09-12 17:26:00	62-U1 22222	results_anpr/vehicles/manual_20250912_172613_68c43b95b9f2a.jpg	results_anpr/crops/manual_20250912_172613_68c43b95b9d65.jpg
+2025-09-12 22:11:47	65-P1 8611	results_anpr/vehicles/add_20250912_173518_eaf1c8.jpg	results_anpr/crops/add_20250912_173518_973aca.png
+2025-09-12 17:35:00	2116	results_anpr/vehicles/manual_20250912_173538_68c43dcada558.png	results_anpr/crops/manual_20250912_173538_68c43dcada3a4.png
+2025-09-12 17:57:00	62-U1 22222		results_anpr/crops/manual_20250912_175809_68c4431171d95.jpg
+2025-09-12 18:12:00	62-U1 22222		results_anpr/crops/manual_20250912_181245_68c4467ddbd5e.jpg
+2025-09-12 22:11:47	65-P1 8611	results_anpr/vehicles/add_20250912_181639_5f58d1.jpg	results_anpr/crops/add_20250912_181639_b05d11.png
+2025-09-12 23:17:03	62-U1 06325	results_anpr/vehicles/veh_20250912_231703_073.jpg	results_anpr/crops/plate_20250912_231703_073.png
+2025-09-12 23:17:03	62-U1 06325	results_anpr/vehicles/add_20250912_181704_2bff00.jpg	results_anpr/crops/add_20250912_181704_1a82d7.png
+2025-09-12 23:17:04	62-U1 06325	results_anpr/vehicles/veh_20250912_231704_814.jpg	results_anpr/crops/plate_20250912_231704_814.png
+2025-09-12 23:17:04	62-U1 06325	results_anpr/vehicles/add_20250912_181705_05c6db.jpg	results_anpr/crops/add_20250912_181705_3b4e36.png
+2025-09-12 18:17:00	62-U1 22222	results_anpr/vehicles/manual_20250912_181749_68c447ad66993.jpg	results_anpr/crops/manual_20250912_181749_68c447ad6682f.jpg
+2025-09-12 18:21:41	62-U1 22222	results_anpr/vehicles/manual_20250912_182141_68c448952ca99.jpg	results_anpr/crops/manual_20250912_182141_68c448952c95d.jpg
+2025-09-12 18:28:11	62-U1 22222		results_anpr/crops/manual_20250912_182811_68c44a1b1dc9b.jpg
+2025-09-12 18:29:18	62-U1 22222		results_anpr/crops/manual_20250912_182918_68c44a5e2269c.jpg
+2025-09-12 18:30:01	62-U1 22222		results_anpr/crops/manual_20250912_183001_68c44a89d8655.jpg
+2025-09-12 23:35:05	62-U1 22222		results_anpr/crops/manual_20250912_233505_68c44bb930c63.jpg
+2025-09-12 23:35:51	62-U1 22222		results_anpr/crops/manual_20250912_233551_68c44be71613c.jpg
+2025-09-12 23:37:02	62-U1 22222		results_anpr/crops/manual_20250912_233702_68c44c2ec9102.jpg
+2025-09-12 23:52:54	62-U1 22222		results_anpr/crops/manual_20250912_235254_68c44fe6b9113.jpg
+2025-09-12 23:17:04	62-U1 06325	results_anpr/vehicles/add_20250913_013027_4db545.jpg	results_anpr/crops/add_20250913_013027_6b964b.png
+2025-09-13 01:30:29	59-V3 82374	results_anpr/vehicles/veh_20250913_013029_392.jpg	results_anpr/crops/plate_20250913_013029_392.png
+2025-09-13 01:30:29	59-V3 82374	results_anpr/vehicles/add_20250913_013030_20ab8b.jpg	results_anpr/crops/add_20250913_013030_d54575.png
+2025-09-13 01:30:31	59-V3 82374	results_anpr/vehicles/veh_20250913_013031_224.jpg	results_anpr/crops/plate_20250913_013031_224.png
+2025-09-13 01:30:31	59-V3 82374	results_anpr/vehicles/add_20250913_013032_236926.jpg	results_anpr/crops/add_20250913_013032_ee2a86.png
+2025-09-13 01:30:33	62-D1 22862	results_anpr/vehicles/veh_20250913_013033_052.jpg	results_anpr/crops/plate_20250913_013033_052.png
+2025-09-13 01:30:33	62-D1 22862	results_anpr/vehicles/add_20250913_013034_937c48.jpg	results_anpr/crops/add_20250913_013034_1f06b6.png
+2025-09-13 01:30:34	62-D1 22862	results_anpr/vehicles/veh_20250913_013034_896.jpg	results_anpr/crops/plate_20250913_013034_896.png
+2025-09-13 01:30:34	62-D1 22862	results_anpr/vehicles/add_20250913_013035_4ba8fe.jpg	results_anpr/crops/add_20250913_013035_f29a8f.png
+2025-09-13 01:30:36	67-L1 31748	results_anpr/vehicles/veh_20250913_013036_787.jpg	results_anpr/crops/plate_20250913_013036_787.png
+2025-09-13 01:30:36	67-L1 31748	results_anpr/vehicles/add_20250913_013037_43911a.jpg	results_anpr/crops/add_20250913_013037_035d45.png
+2025-09-13 01:30:39	71-AA 23107	results_anpr/vehicles/veh_20250913_013038_650.jpg	results_anpr/crops/plate_20250913_013038_650.png
+2025-09-13 01:30:39	71-AA 23107	results_anpr/vehicles/add_20250913_013039_5e0b8a.jpg	results_anpr/crops/add_20250913_013039_0cbf39.png
+2025-09-13 01:30:40	AA 07	results_anpr/vehicles/veh_20250913_013040_546.jpg	results_anpr/crops/plate_20250913_013040_546.png
+2025-09-13 01:30:40	AA 07	results_anpr/vehicles/add_20250913_013041_ed4a27.jpg	results_anpr/crops/add_20250913_013041_dc7ae3.png
+2025-09-13 01:30:42	6-1 5089	results_anpr/vehicles/veh_20250913_013042_401.jpg	results_anpr/crops/plate_20250913_013042_401.png
+2025-09-13 01:30:42	6-1 5089	results_anpr/vehicles/add_20250913_013043_e8f9a4.jpg	results_anpr/crops/add_20250913_013043_193eb9.png
+2025-09-13 01:30:46	59- 65	results_anpr/vehicles/veh_20250913_013045_454.jpg	results_anpr/crops/plate_20250913_013045_454.png
+2025-09-13 01:30:46	59- 65	results_anpr/vehicles/add_20250913_013047_c3fc9f.jpg	results_anpr/crops/add_20250913_013047_fed0e7.png
+2025-09-13 01:30:47	59-N2 65615	results_anpr/vehicles/veh_20250913_013047_299.jpg	results_anpr/crops/plate_20250913_013047_299.png
+2025-09-13 01:30:47	59-N2 65615	results_anpr/vehicles/add_20250913_013048_cbf9fe.jpg	results_anpr/crops/add_20250913_013048_57c593.png
+2025-09-13 01:30:50	62- 211	results_anpr/vehicles/veh_20250913_013049_810.jpg	results_anpr/crops/plate_20250913_013049_810.png
+2025-09-13 01:30:50	62- 211	results_anpr/vehicles/add_20250913_013051_1b5ab8.jpg	results_anpr/crops/add_20250913_013051_974b24.png
+2025-09-13 01:30:51	62-1 21163	results_anpr/vehicles/veh_20250913_013051_663.jpg	results_anpr/crops/plate_20250913_013051_663.png
+2025-09-13 01:30:51	62-1 21163	results_anpr/vehicles/add_20250913_013052_ad1d58.jpg	results_anpr/crops/add_20250913_013052_af3158.png
+2025-09-13 01:30:54	66-N 580	results_anpr/vehicles/veh_20250913_013053_531.jpg	results_anpr/crops/plate_20250913_013053_531.png
+2025-09-13 01:30:54	66-N 580	results_anpr/vehicles/add_20250913_013054_ce719e.jpg	results_anpr/crops/add_20250913_013054_e94620.png
+2025-09-13 01:30:55	66-N1 58005	results_anpr/vehicles/veh_20250913_013055_386.jpg	results_anpr/crops/plate_20250913_013055_386.png
+2025-09-13 01:30:55	66-N1 58005	results_anpr/vehicles/add_20250913_013056_200520.jpg	results_anpr/crops/add_20250913_013056_a7ab98.png
+2025-09-13 01:30:57	61-XK 150	results_anpr/vehicles/veh_20250913_013057_231.jpg	results_anpr/crops/plate_20250913_013057_231.png
+2025-09-13 01:30:57	61-XK 150	results_anpr/vehicles/add_20250913_013058_f054dd.jpg	results_anpr/crops/add_20250913_013058_3cc5eb.png
+2025-09-13 01:30:59	X1 D1	results_anpr/vehicles/veh_20250913_013059_076.jpg	results_anpr/crops/plate_20250913_013059_076.png
+2025-09-13 01:30:59	X1 D1	results_anpr/vehicles/add_20250913_013059_fcc9f9.jpg	results_anpr/crops/add_20250913_013059_d9939e.png
+2025-09-13 01:31:00	59-X73 80208	results_anpr/vehicles/veh_20250913_013100_911.jpg	results_anpr/crops/plate_20250913_013100_911.png
+2025-09-13 01:31:00	59-X73 80208	results_anpr/vehicles/add_20250913_013101_2b978c.jpg	results_anpr/crops/add_20250913_013101_006a14.png
+2025-09-13 01:31:02	5	results_anpr/vehicles/veh_20250913_013102_794.jpg	results_anpr/crops/plate_20250913_013102_794.png
+2025-09-13 01:31:02	5	results_anpr/vehicles/add_20250913_013103_8e3543.jpg	results_anpr/crops/add_20250913_013103_1f9686.png
+2025-09-13 01:31:04	54-V4 3414	results_anpr/vehicles/veh_20250913_013104_678.jpg	results_anpr/crops/plate_20250913_013104_678.png
+2025-09-13 01:31:04	54-V4 3414	results_anpr/vehicles/add_20250913_013105_fa9aea.jpg	results_anpr/crops/add_20250913_013105_464ba9.png
+2025-09-13 01:31:06	54-4 3414	results_anpr/vehicles/veh_20250913_013106_556.jpg	results_anpr/crops/plate_20250913_013106_556.png
+2025-09-13 01:31:06	54-4 3414	results_anpr/vehicles/add_20250913_013107_06cf6f.jpg	results_anpr/crops/add_20250913_013107_6f8945.png
+2025-09-13 01:31:06	54-4 3414	results_anpr/vehicles/add_20250913_014045_142740.jpg	results_anpr/crops/add_20250913_014045_030de5.png
+2025-09-13 01:40:47	59-V3 82374	results_anpr/vehicles/veh_20250913_014047_564.jpg	results_anpr/crops/plate_20250913_014047_564.png
+2025-09-13 01:40:47	59-V3 82374	results_anpr/vehicles/add_20250913_014048_e226d8.jpg	results_anpr/crops/add_20250913_014048_162609.png
+2025-09-13 01:40:49	59-V3 82374	results_anpr/vehicles/veh_20250913_014049_390.jpg	results_anpr/crops/plate_20250913_014049_390.png
+2025-09-13 01:40:49	59-V3 82374	results_anpr/vehicles/add_20250913_014050_414b1e.jpg	results_anpr/crops/add_20250913_014050_b7553a.png
+2025-09-13 01:40:51	62-D1 22862	results_anpr/vehicles/veh_20250913_014051_225.jpg	results_anpr/crops/plate_20250913_014051_225.png
+2025-09-13 01:40:51	62-D1 22862	results_anpr/vehicles/add_20250913_014052_36b183.jpg	results_anpr/crops/add_20250913_014052_9a3a2c.png
+2025-09-13 01:40:53	62-D1 22862	results_anpr/vehicles/veh_20250913_014053_064.jpg	results_anpr/crops/plate_20250913_014053_064.png
+2025-09-13 01:40:53	62-D1 22862	results_anpr/vehicles/add_20250913_014053_43d256.jpg	results_anpr/crops/add_20250913_014053_62c97f.png
+2025-09-13 01:40:55	67-L1 31748	results_anpr/vehicles/veh_20250913_014054_995.jpg	results_anpr/crops/plate_20250913_014054_995.png
+2025-09-13 01:40:55	67-L1 31748	results_anpr/vehicles/add_20250913_014055_75cb1e.jpg	results_anpr/crops/add_20250913_014055_4a445c.png
+2025-09-13 01:40:57	71-AA 23107	results_anpr/vehicles/veh_20250913_014056_875.jpg	results_anpr/crops/plate_20250913_014056_875.png
+2025-09-13 01:40:57	71-AA 23107	results_anpr/vehicles/add_20250913_014057_e28d24.jpg	results_anpr/crops/add_20250913_014057_8cb0d3.png
+2025-09-13 01:41:00	65-1 50869	results_anpr/vehicles/veh_20250913_014100_606.jpg	results_anpr/crops/plate_20250913_014100_606.png
+2025-09-13 01:41:00	65-1 50869	results_anpr/vehicles/add_20250913_014101_6e23f7.jpg	results_anpr/crops/add_20250913_014101_b11b22.png
+2025-09-13 01:41:05	59-N2 65615	results_anpr/vehicles/veh_20250913_014105_359.jpg	results_anpr/crops/plate_20250913_014105_359.png
+2025-09-13 01:41:05	59-N2 65615	results_anpr/vehicles/add_20250913_014105_f5f3c7.jpg	results_anpr/crops/add_20250913_014105_303457.png
+2025-09-13 01:41:08	62- 211	results_anpr/vehicles/veh_20250913_014107_893.jpg	results_anpr/crops/plate_20250913_014107_893.png
+2025-09-13 01:41:08	62- 211	results_anpr/vehicles/add_20250913_014108_030fa0.jpg	results_anpr/crops/add_20250913_014108_308f9b.png
+2025-09-13 01:41:09	62-U1 21163	results_anpr/vehicles/veh_20250913_014109_782.jpg	results_anpr/crops/plate_20250913_014109_782.png
+2025-09-13 01:41:09	62-U1 21163	results_anpr/vehicles/add_20250913_014110_c9a16f.jpg	results_anpr/crops/add_20250913_014110_7213bd.png
+2025-09-13 01:41:12	66-N1 5800	results_anpr/vehicles/veh_20250913_014111_626.jpg	results_anpr/crops/plate_20250913_014111_626.png
+2025-09-13 01:41:12	66-N1 5800	results_anpr/vehicles/add_20250913_014112_748427.jpg	results_anpr/crops/add_20250913_014112_eb33f2.png
+2025-09-13 01:41:13	66-N1 58005	results_anpr/vehicles/veh_20250913_014113_493.jpg	results_anpr/crops/plate_20250913_014113_493.png
+2025-09-13 01:41:13	66-N1 58005	results_anpr/vehicles/add_20250913_014114_a1ca16.jpg	results_anpr/crops/add_20250913_014114_23ce27.png
+2025-09-13 01:41:15	61-X1 1501	results_anpr/vehicles/veh_20250913_014115_344.jpg	results_anpr/crops/plate_20250913_014115_344.png
+2025-09-13 01:41:15	61-X1 1501	results_anpr/vehicles/add_20250913_014116_6954b2.jpg	results_anpr/crops/add_20250913_014116_851520.png
+2025-09-13 01:41:19	59-KX3 80208	results_anpr/vehicles/veh_20250913_014119_068.jpg	results_anpr/crops/plate_20250913_014119_068.png
+2025-09-13 01:41:19	59-KX3 80208	results_anpr/vehicles/add_20250913_014119_cc0ec1.jpg	results_anpr/crops/add_20250913_014119_051a1b.png
+2025-09-13 01:41:22	54-4 3414	results_anpr/vehicles/veh_20250913_014122_803.jpg	results_anpr/crops/plate_20250913_014122_803.png
+2025-09-13 01:41:22	54-4 3414	results_anpr/vehicles/add_20250913_014123_dc22fb.jpg	results_anpr/crops/add_20250913_014123_0c9cbf.png
+2025-09-13 01:41:25	54-N4 3414	results_anpr/vehicles/veh_20250913_014124_643.jpg	results_anpr/crops/plate_20250913_014124_643.png
+2025-09-13 01:41:25	54-N4 3414	results_anpr/vehicles/add_20250913_014125_4806d7.jpg	results_anpr/crops/add_20250913_014125_9105b4.png
+2025-09-13 01:41:25	54-N4 3414	results_anpr/vehicles/add_20250913_103506_9005c5.jpg	results_anpr/crops/add_20250913_103506_14bf7d.png
+2025-09-13 01:41:25	54-N4 3414	results_anpr/vehicles/add_20250913_103524_be7755.jpg	results_anpr/crops/add_20250913_103524_eda839.png
+2025-09-13 01:41:25	54-N4 3414	results_anpr/vehicles/add_20250913_104826_f773f3.jpg	results_anpr/crops/add_20250913_104826_2e4f73.png
+2025-09-13 01:41:25	54-N4 3414	results_anpr/vehicles/add_20250913_104834_602d7e.jpg	results_anpr/crops/add_20250913_104834_43f03b.png
+2025-09-13 10:49:04	65-NK2 4474	results_anpr/vehicles/veh_20250913_104903_943.jpg	results_anpr/crops/plate_20250913_104903_943.png
+2025-09-13 10:49:04	65-NK2 4474	results_anpr/vehicles/add_20250913_104904_ef70c8.jpg	results_anpr/crops/add_20250913_104904_53924f.png
+2025-09-13 10:49:14	67-H9 6618	results_anpr/vehicles/veh_20250913_104913_541.jpg	results_anpr/crops/plate_20250913_104913_541.png
+2025-09-13 10:49:14	67-H9 6618	results_anpr/vehicles/add_20250913_104914_aed48f.jpg	results_anpr/crops/add_20250913_104914_d0a05f.png
+2025-09-13 10:49:29	59-V3 82374	results_anpr/vehicles/veh_20250913_104928_987.jpg	results_anpr/crops/plate_20250913_104928_987.png
+2025-09-13 10:49:29	59-V3 82374	results_anpr/vehicles/add_20250913_104929_e33971.jpg	results_anpr/crops/add_20250913_104929_3b76ff.png
+2025-09-13 10:49:31	59-V3 82374	results_anpr/vehicles/veh_20250913_104930_882.jpg	results_anpr/crops/plate_20250913_104930_882.png
+2025-09-13 11:11:47	62-U1 22222	results_anpr/vehicles/manual_20250913_111147_68c4ef039bf3a.jpg	results_anpr/crops/manual_20250913_111147_68c4ef039bdcd.jpg
+2025-09-13 10:49:31	59-V3 82374	results_anpr/vehicles/add_20250913_120508_71ad73.jpg	results_anpr/crops/add_20250913_120508_a46397.png
+2025-09-13 12:08:21	717-B93 28036	results_anpr/vehicles/veh_20250913_120821_322.jpg	results_anpr/crops/plate_20250913_120821_322.png
+2025-09-13 12:08:21	717-B93 28036	results_anpr/vehicles/add_20250913_120822_d67a5b.jpg	results_anpr/crops/add_20250913_120822_e1b8b0.png
+2025-09-13 12:08:23	7-B3 28036	results_anpr/vehicles/veh_20250913_120823_209.jpg	results_anpr/crops/plate_20250913_120823_209.png
+2025-09-13 12:08:23	7-B3 28036	results_anpr/vehicles/add_20250913_120824_73e3b3.jpg	results_anpr/crops/add_20250913_120824_a771e2.png
+2025-09-13 12:08:34	66C-17 57713	results_anpr/vehicles/veh_20250913_120833_943.jpg	results_anpr/crops/plate_20250913_120833_943.png
+2025-09-13 12:08:34	66C-17 57713	results_anpr/vehicles/add_20250913_120834_313069.jpg	results_anpr/crops/add_20250913_120834_a4bfa1.png
+2025-09-13 12:08:53	63- 2S098	results_anpr/vehicles/veh_20250913_120853_781.jpg	results_anpr/crops/plate_20250913_120853_781.png
+2025-09-13 12:08:53	63- 2S098	results_anpr/vehicles/add_20250913_120854_87519d.jpg	results_anpr/crops/add_20250913_120854_2a063a.png
+2025-09-13 12:09:09	77 3337	results_anpr/vehicles/veh_20250913_120909_222.jpg	results_anpr/crops/plate_20250913_120909_222.png
+2025-09-13 12:09:09	77 3337	results_anpr/vehicles/add_20250913_120909_fcea11.jpg	results_anpr/crops/add_20250913_120909_443006.png
+2025-09-13 12:09:11	7B93 69B2	results_anpr/vehicles/veh_20250913_120911_107.jpg	results_anpr/crops/plate_20250913_120911_107.png
+2025-09-13 12:09:11	7B93 69B2	results_anpr/vehicles/add_20250913_120911_c19c17.jpg	results_anpr/crops/add_20250913_120911_41fe61.png
+2025-09-13 12:09:23	59-V3 82374	results_anpr/vehicles/veh_20250913_120922_714.jpg	results_anpr/crops/plate_20250913_120922_714.png
+2025-09-13 12:09:23	59-V3 82374	results_anpr/vehicles/add_20250913_120923_2037fd.jpg	results_anpr/crops/add_20250913_120923_33ce3c.png
+2025-09-13 12:09:24	59-V3 82374	results_anpr/vehicles/veh_20250913_120924_608.jpg	results_anpr/crops/plate_20250913_120924_608.png
+2025-09-13 12:09:24	59-V3 82374	results_anpr/vehicles/add_20250913_120925_a80307.jpg	results_anpr/crops/add_20250913_120925_06c392.png
+2025-09-13 12:09:26	62-D1 228062	results_anpr/vehicles/veh_20250913_120926_422.jpg	results_anpr/crops/plate_20250913_120926_422.png
+2025-09-13 12:09:26	62-D1 228062	results_anpr/vehicles/add_20250913_120927_36530f.jpg	results_anpr/crops/add_20250913_120927_83d249.png
+2025-09-13 12:09:28	62-D1 22862	results_anpr/vehicles/veh_20250913_120928_266.jpg	results_anpr/crops/plate_20250913_120928_266.png
+2025-09-13 12:09:28	62-D1 22862	results_anpr/vehicles/add_20250913_120928_7a4ee4.jpg	results_anpr/crops/add_20250913_120928_e9ed0f.png
+2025-09-13 12:09:30	67-L1 31748	results_anpr/vehicles/veh_20250913_120930_171.jpg	results_anpr/crops/plate_20250913_120930_171.png
+2025-09-13 12:09:30	67-L1 31748	results_anpr/vehicles/add_20250913_120930_13c712.jpg	results_anpr/crops/add_20250913_120930_f8616d.png
+2025-09-13 12:09:32	71-AA 23107	results_anpr/vehicles/veh_20250913_120932_025.jpg	results_anpr/crops/plate_20250913_120932_025.png
+2025-09-13 12:09:32	71-AA 23107	results_anpr/vehicles/add_20250913_120933_646d87.jpg	results_anpr/crops/add_20250913_120933_ae4325.png
+2025-09-13 12:09:34	-AA 107	results_anpr/vehicles/veh_20250913_120933_898.jpg	results_anpr/crops/plate_20250913_120933_898.png
+2025-09-13 12:09:34	-AA 107	results_anpr/vehicles/add_20250913_120934_88d5e5.jpg	results_anpr/crops/add_20250913_120934_497627.png
+2025-09-13 12:09:35	6-1 5089	results_anpr/vehicles/veh_20250913_120935_798.jpg	results_anpr/crops/plate_20250913_120935_798.png
+2025-09-13 12:09:35	6-1 5089	results_anpr/vehicles/add_20250913_120936_cf924e.jpg	results_anpr/crops/add_20250913_120936_9966a2.png
+2025-09-13 12:09:40	9-N2 5615	results_anpr/vehicles/veh_20250913_120940_601.jpg	results_anpr/crops/plate_20250913_120940_601.png
+2025-09-13 12:09:40	9-N2 5615	results_anpr/vehicles/add_20250913_120941_a7e24e.jpg	results_anpr/crops/add_20250913_120941_a00535.png
+2025-09-13 12:09:40	9-N2 5615	results_anpr/vehicles/add_20250913_133330_169d9c.jpg	results_anpr/crops/add_20250913_133330_921a5c.png
+2025-09-13 12:09:40	9-N2 5615	results_anpr/vehicles/add_20250913_133407_de777f.jpg	results_anpr/crops/add_20250913_133407_2b2a10.png
+2025-09-13 13:34:31	64-F8 1149	results_anpr/vehicles/veh_20250913_133430_822.jpg	results_anpr/crops/plate_20250913_133430_822.png
+2025-09-13 13:34:31	64-F8 1149	results_anpr/vehicles/add_20250913_133431_59e335.jpg	results_anpr/crops/add_20250913_133431_fe8a6a.png
+2025-09-13 13:34:32	64-F8 1149	results_anpr/vehicles/veh_20250913_133432_424.jpg	results_anpr/crops/plate_20250913_133432_424.png
+2025-09-13 13:34:32	64-F8 1149	results_anpr/vehicles/add_20250913_133432_715673.jpg	results_anpr/crops/add_20250913_133432_4b8941.png
+2025-09-13 13:34:35	64-FB8 1149	results_anpr/vehicles/veh_20250913_133435_605.jpg	results_anpr/crops/plate_20250913_133435_605.png
+2025-09-13 13:34:35	64-FB8 1149	results_anpr/vehicles/add_20250913_133435_7989de.jpg	results_anpr/crops/add_20250913_133435_184244.png
+2025-09-13 13:34:35	64-FB8 1149	results_anpr/vehicles/add_20250913_135307_7f57a5.jpg	results_anpr/crops/add_20250913_135307_591ec2.png
+2025-09-13 13:34:35	64-FB8 1149	results_anpr/vehicles/add_20250913_141913_78449f.jpg	results_anpr/crops/add_20250913_141913_62530c.png
+2025-09-14 18:39:23	65-P1 8611	results_anpr/vehicles/veh_20250914_183922_312.jpg	results_anpr/crops/plate_20250914_183922_312.png
+2025-09-14 18:40:23	65-B1 22893	results_anpr/vehicles/veh_20250914_184023_946.jpg	results_anpr/crops/plate_20250914_184023_946.png
+2025-09-13 13:34:35	64-FB8 1149	results_anpr/vehicles/add_20250914_184140_c5c574.jpg	results_anpr/crops/add_20250914_184140_655318.png
+2025-09-13 13:34:35	64-FB8 1149	results_anpr/vehicles/add_20250914_184149_1bedee.jpg	results_anpr/crops/add_20250914_184149_331e93.png
+2025-09-14 18:42:02	95-P2 0790	results_anpr/vehicles/veh_20250914_184201_696.jpg	results_anpr/crops/plate_20250914_184201_696.png
+2025-09-14 18:42:02	95-P2 0790	results_anpr/vehicles/add_20250914_184202_463282.jpg	results_anpr/crops/add_20250914_184202_96a00f.png
+2025-09-14 18:42:03	95-P2 0790	results_anpr/vehicles/veh_20250914_184203_319.jpg	results_anpr/crops/plate_20250914_184203_319.png
+2025-09-14 18:42:03	95-P2 0790	results_anpr/vehicles/add_20250914_184203_65d2b5.jpg	results_anpr/crops/add_20250914_184203_392295.png
+2025-09-14 18:42:03	95-P2 0790	results_anpr/vehicles/add_20250914_184222_52c0da.jpg	results_anpr/crops/add_20250914_184222_b5b742.png
+2025-09-14 18:42:27	771-B38 28036	results_anpr/vehicles/veh_20250914_184227_391.jpg	results_anpr/crops/plate_20250914_184227_391.png
+2025-09-14 18:42:27	771-B38 28036	results_anpr/vehicles/add_20250914_184227_6557e5.jpg	results_anpr/crops/add_20250914_184227_f85269.png
+2025-09-14 18:42:29	7-B3 28036	results_anpr/vehicles/veh_20250914_184229_253.jpg	results_anpr/crops/plate_20250914_184229_253.png
+2025-09-14 18:42:29	7-B3 28036	results_anpr/vehicles/add_20250914_184229_c8738d.jpg	results_anpr/crops/add_20250914_184229_c4e693.png
+2025-09-14 18:42:38	66-C17 57813	results_anpr/vehicles/veh_20250914_184238_216.jpg	results_anpr/crops/plate_20250914_184238_216.png
+2025-09-14 18:42:38	66-C17 57813	results_anpr/vehicles/add_20250914_184239_b7fd71.jpg	results_anpr/crops/add_20250914_184239_b8defd.png
+2025-09-14 18:42:40	63517 513	results_anpr/vehicles/veh_20250914_184240_099.jpg	results_anpr/crops/plate_20250914_184240_099.png
+2025-09-14 18:42:40	63517 513	results_anpr/vehicles/add_20250914_184240_3bcfd0.jpg	results_anpr/crops/add_20250914_184240_7eb7b8.png
+2025-09-14 18:43:00	63- 2S098	results_anpr/vehicles/veh_20250914_184259_576.jpg	results_anpr/crops/plate_20250914_184259_576.png
+2025-09-14 18:43:00	63- 2S098	results_anpr/vehicles/add_20250914_184300_9feb22.jpg	results_anpr/crops/add_20250914_184300_28c07c.png
+2025-09-14 18:43:16	13 993	results_anpr/vehicles/veh_20250914_184315_455.jpg	results_anpr/crops/plate_20250914_184315_455.png
+2025-09-14 18:43:16	13 993	results_anpr/vehicles/add_20250914_184317_0ffa70.jpg	results_anpr/crops/add_20250914_184317_ec15ca.png
+2025-09-14 18:43:53	K-4KAF 86378	results_anpr/vehicles/veh_20250914_184352_902.jpg	results_anpr/crops/plate_20250914_184352_902.png
+2025-09-14 18:43:53	K-4KAF 86378	results_anpr/vehicles/add_20250914_184353_3b8159.jpg	results_anpr/crops/add_20250914_184353_937f1d.png
+2025-09-14 18:43:53	K-4KAF 86378		
+2025-09-14 19:35:05	95-P2 0790	results_anpr/vehicles/veh_20250914_193504_961.jpg	results_anpr/crops/plate_20250914_193504_961.png
+2025-09-14 19:35:05	95-P2 0790	results_anpr/vehicles/add_20250914_193506_dc43c2.jpg	results_anpr/crops/add_20250914_193506_5da036.png
+2025-09-14 19:36:54	00787	results_anpr/vehicles/veh_20250914_193654_039.jpg	results_anpr/crops/plate_20250914_193654_039.png
+2025-09-14 19:36:55	67-L 00787	results_anpr/vehicles/veh_20250914_193655_846.jpg	results_anpr/crops/plate_20250914_193655_846.png
+2025-09-14 19:36:57	67-L 00787	results_anpr/vehicles/veh_20250914_193657_705.jpg	results_anpr/crops/plate_20250914_193657_705.png
+2025-09-14 19:37:18	64K-F8 1149	results_anpr/vehicles/veh_20250914_193717_771.jpg	results_anpr/crops/plate_20250914_193717_771.png
+2025-09-14 19:37:19	64-KF8 1149	results_anpr/vehicles/veh_20250914_193719_590.jpg	results_anpr/crops/plate_20250914_193719_590.png
+2025-09-14 19:37:37	51F 25451	results_anpr/vehicles/veh_20250914_193737_854.jpg	results_anpr/crops/plate_20250914_193737_854.png
+2025-09-14 19:37:39	51F 25451	results_anpr/vehicles/veh_20250914_193739_683.jpg	results_anpr/crops/plate_20250914_193739_683.png
+2025-09-14 19:37:50	59-A 7222	results_anpr/vehicles/veh_20250914_193750_217.jpg	results_anpr/crops/plate_20250914_193750_217.png
+2025-09-14 19:37:52	59-4A 07383	results_anpr/vehicles/veh_20250914_193752_046.jpg	results_anpr/crops/plate_20250914_193752_046.png
+2025-09-14 19:38:21	62-1 06325	results_anpr/vehicles/veh_20250914_193821_527.jpg	results_anpr/crops/plate_20250914_193821_527.png
+2025-09-14 19:38:23	62-117 06325	results_anpr/vehicles/veh_20250914_193823_175.jpg	results_anpr/crops/plate_20250914_193823_175.png
+2025-09-14 19:38:29	54- 8502	results_anpr/vehicles/veh_20250914_193829_863.jpg	results_anpr/crops/plate_20250914_193829_863.png
+2025-09-14 19:38:31	154-F1 8502	results_anpr/vehicles/veh_20250914_193831_688.jpg	results_anpr/crops/plate_20250914_193831_688.png
+2025-09-14 19:38:33	54-F 8502	results_anpr/vehicles/veh_20250914_193833_784.jpg	results_anpr/crops/plate_20250914_193833_784.png
+2025-09-14 19:38:35	54-F1 8502	results_anpr/vehicles/veh_20250914_193835_624.jpg	results_anpr/crops/plate_20250914_193835_624.png
+2025-09-14 19:39:22	54-F1 8502	results_anpr/vehicles/veh_20250914_193922_331.jpg	results_anpr/crops/plate_20250914_193922_331.png
+2025-09-14 19:39:24	54-F51 98502	results_anpr/vehicles/veh_20250914_193923_967.jpg	results_anpr/crops/plate_20250914_193923_967.png
+2025-09-14 19:39:27	54-FM1 385	results_anpr/vehicles/veh_20250914_193927_835.jpg	results_anpr/crops/plate_20250914_193927_835.png
+2025-09-14 19:39:29	54-F1 98502	results_anpr/vehicles/veh_20250914_193929_690.jpg	results_anpr/crops/plate_20250914_193929_690.png
+2025-09-14 19:39:54	83-C01 03243	results_anpr/vehicles/veh_20250914_193953_917.jpg	results_anpr/crops/plate_20250914_193953_917.png
+2025-09-14 19:39:55	83-C1 03243	results_anpr/vehicles/veh_20250914_193955_723.jpg	results_anpr/crops/plate_20250914_193955_723.png
+2025-09-14 19:40:02	65-82 2520	results_anpr/vehicles/veh_20250914_194002_813.jpg	results_anpr/crops/plate_20250914_194002_813.png
+2025-09-14 19:40:04	65-BR2 2520	results_anpr/vehicles/veh_20250914_194004_654.jpg	results_anpr/crops/plate_20250914_194004_654.png
+2025-09-14 19:40:09	65-RB2 2520	results_anpr/vehicles/veh_20250914_194009_451.jpg	results_anpr/crops/plate_20250914_194009_451.png
+2025-09-14 19:40:11	65-RB2 2520	results_anpr/vehicles/veh_20250914_194011_277.jpg	results_anpr/crops/plate_20250914_194011_277.png
+2025-09-14 19:40:13	65-R2 2520	results_anpr/vehicles/veh_20250914_194013_084.jpg	results_anpr/crops/plate_20250914_194013_084.png
+2025-09-14 19:40:21	68-P6 6755	results_anpr/vehicles/veh_20250914_194021_194.jpg	results_anpr/crops/plate_20250914_194021_194.png
+2025-09-14 19:40:27	65-X4 4424	results_anpr/vehicles/veh_20250914_194027_308.jpg	results_anpr/crops/plate_20250914_194027_308.png
+2025-09-14 19:40:29	65-X4 4424	results_anpr/vehicles/veh_20250914_194029_131.jpg	results_anpr/crops/plate_20250914_194029_131.png
+2025-09-14 19:40:36	65-P7 9679	results_anpr/vehicles/veh_20250914_194036_561.jpg	results_anpr/crops/plate_20250914_194036_561.png
+2025-09-14 19:40:44	65-P1 8611	results_anpr/vehicles/veh_20250914_194044_220.jpg	results_anpr/crops/plate_20250914_194044_220.png
+2025-09-14 19:35:05	95-P2 0790	results_anpr/vehicles/add_20250914_195233_9228e0.jpg	results_anpr/crops/add_20250914_195233_3f140a.png
+2025-09-14 19:52:35	59-V3 82374	results_anpr/vehicles/veh_20250914_195235_304.jpg	results_anpr/crops/plate_20250914_195235_304.png
+2025-09-14 19:52:35	59-V3 82374	results_anpr/vehicles/add_20250914_195236_e81eff.jpg	results_anpr/crops/add_20250914_195236_a5b246.png
+2025-09-14 19:52:37	59-V3 82374	results_anpr/vehicles/veh_20250914_195237_154.jpg	results_anpr/crops/plate_20250914_195237_154.png
+2025-09-14 19:52:37	59-V3 82374	results_anpr/vehicles/add_20250914_195238_2ecbda.jpg	results_anpr/crops/add_20250914_195238_8cf4c9.png
+2025-09-14 19:52:39	62-D1 228062	results_anpr/vehicles/veh_20250914_195238_995.jpg	results_anpr/crops/plate_20250914_195238_995.png
+2025-09-14 19:52:39	62-D1 228062	results_anpr/vehicles/add_20250914_195240_b57e85.jpg	results_anpr/crops/add_20250914_195240_469516.png
+2025-09-14 19:52:40	62-D1 22862	results_anpr/vehicles/veh_20250914_195240_832.jpg	results_anpr/crops/plate_20250914_195240_832.png
+2025-09-14 19:52:40	62-D1 22862	results_anpr/vehicles/add_20250914_195241_b66cf9.jpg	results_anpr/crops/add_20250914_195241_3b724a.png
+2025-09-14 19:52:42	67-C1 31748	results_anpr/vehicles/veh_20250914_195242_697.jpg	results_anpr/crops/plate_20250914_195242_697.png
+2025-09-14 19:52:42	67-C1 31748	results_anpr/vehicles/add_20250914_195243_028099.jpg	results_anpr/crops/add_20250914_195243_989034.png
+2025-09-14 19:52:45	71-AA 23107	results_anpr/vehicles/veh_20250914_195244_563.jpg	results_anpr/crops/plate_20250914_195244_563.png
+2025-09-14 19:52:45	71-AA 23107	results_anpr/vehicles/add_20250914_195245_885f99.jpg	results_anpr/crops/add_20250914_195245_885345.png
+2025-09-14 19:52:47	-AA 3107	results_anpr/vehicles/veh_20250914_195246_410.jpg	results_anpr/crops/plate_20250914_195246_410.png
+2025-09-14 19:52:47	-AA 3107	results_anpr/vehicles/add_20250914_195247_2feca0.jpg	results_anpr/crops/add_20250914_195247_f739ab.png
+2025-09-14 19:52:48	6-1 50869	results_anpr/vehicles/veh_20250914_195248_282.jpg	results_anpr/crops/plate_20250914_195248_282.png
+2025-09-14 19:52:48	6-1 50869	results_anpr/vehicles/add_20250914_195249_0d6b47.jpg	results_anpr/crops/add_20250914_195249_7ed7f7.png
+2025-09-14 19:52:52	59-N2 65615	results_anpr/vehicles/veh_20250914_195252_928.jpg	results_anpr/crops/plate_20250914_195252_928.png
+2025-09-14 19:52:52	59-N2 65615	results_anpr/vehicles/add_20250914_195253_46a8a6.jpg	results_anpr/crops/add_20250914_195253_a6d0d1.png
+2025-09-14 19:52:55	62- 211	results_anpr/vehicles/veh_20250914_195255_106.jpg	results_anpr/crops/plate_20250914_195255_106.png
+2025-09-14 19:52:55	62- 211	results_anpr/vehicles/add_20250914_195256_04dc84.jpg	results_anpr/crops/add_20250914_195256_37c233.png
+2025-09-14 19:52:56	62-U1 21163	results_anpr/vehicles/veh_20250914_195256_940.jpg	results_anpr/crops/plate_20250914_195256_940.png
+2025-09-14 19:52:56	62-U1 21163	results_anpr/vehicles/add_20250914_195257_fa8e10.jpg	results_anpr/crops/add_20250914_195257_e68d0d.png
+2025-09-14 19:52:59	66-N1 5800	results_anpr/vehicles/veh_20250914_195258_800.jpg	results_anpr/crops/plate_20250914_195258_800.png
+2025-09-14 19:52:59	66-N1 5800	results_anpr/vehicles/add_20250914_195300_8d3d44.jpg	results_anpr/crops/add_20250914_195300_1ccfeb.png
+2025-09-14 19:53:01	66-N1 58005	results_anpr/vehicles/veh_20250914_195300_667.jpg	results_anpr/crops/plate_20250914_195300_667.png
+2025-09-14 19:53:01	66-N1 58005	results_anpr/vehicles/add_20250914_195301_d3193a.jpg	results_anpr/crops/add_20250914_195301_624e67.png
+2025-09-14 19:53:02	61-2K 150D	results_anpr/vehicles/veh_20250914_195302_633.jpg	results_anpr/crops/plate_20250914_195302_633.png
+2025-09-14 19:53:02	61-2K 150D	results_anpr/vehicles/add_20250914_195303_d24c87.jpg	results_anpr/crops/add_20250914_195303_95e18d.png
+2025-09-14 19:53:06	59-7X3 80208	results_anpr/vehicles/veh_20250914_195306_501.jpg	results_anpr/crops/plate_20250914_195306_501.png
+2025-09-14 19:53:06	59-7X3 80208	results_anpr/vehicles/add_20250914_195307_f55cd9.jpg	results_anpr/crops/add_20250914_195307_6df4a4.png
+2025-09-14 19:53:08	54-V 341	results_anpr/vehicles/veh_20250914_195308_325.jpg	results_anpr/crops/plate_20250914_195308_325.png
+2025-09-14 19:53:08	54-V 341	results_anpr/vehicles/add_20250914_195309_75a341.jpg	results_anpr/crops/add_20250914_195309_1c03d3.png
+2025-09-14 19:53:10	54-V4 3414	results_anpr/vehicles/veh_20250914_195310_185.jpg	results_anpr/crops/plate_20250914_195310_185.png
+2025-09-14 19:53:10	54-V4 3414	results_anpr/vehicles/add_20250914_195311_ce222d.jpg	results_anpr/crops/add_20250914_195311_159228.png
+2025-09-14 19:53:12	54-V4 3414	results_anpr/vehicles/veh_20250914_195312_061.jpg	results_anpr/crops/plate_20250914_195312_061.png
+2025-09-14 19:53:12	54-V4 3414	results_anpr/vehicles/add_20250914_195313_f34bca.jpg	results_anpr/crops/add_20250914_195313_b9745c.png
+2025-09-14 19:53:12	54-V4 3414	results_anpr/vehicles/add_20250914_200327_41917c.jpg	results_anpr/crops/add_20250914_200327_883d11.png
+2025-09-14 20:03:29	59V-3 82374	results_anpr/vehicles/veh_20250914_200329_472.jpg	results_anpr/crops/plate_20250914_200329_472.png
+2025-09-14 20:03:29	59V-3 82374	results_anpr/vehicles/add_20250914_200330_19af65.jpg	results_anpr/crops/add_20250914_200330_011572.png
+2025-09-14 20:03:31	59-V3 82374	results_anpr/vehicles/veh_20250914_200331_309.jpg	results_anpr/crops/plate_20250914_200331_309.png
+2025-09-14 20:03:31	59-V3 82374	results_anpr/vehicles/add_20250914_200332_76e519.jpg	results_anpr/crops/add_20250914_200332_590478.png
+2025-09-14 20:03:33	62-D1 228062	results_anpr/vehicles/veh_20250914_200333_132.jpg	results_anpr/crops/plate_20250914_200333_132.png
+2025-09-14 20:03:33	62-D1 228062	results_anpr/vehicles/add_20250914_200334_f1ca5a.jpg	results_anpr/crops/add_20250914_200334_3e0c4c.png
+2025-09-14 20:03:35	62-D1 22862	results_anpr/vehicles/veh_20250914_200335_015.jpg	results_anpr/crops/plate_20250914_200335_015.png
+2025-09-14 20:03:35	62-D1 22862	results_anpr/vehicles/add_20250914_200335_9e9dd3.jpg	results_anpr/crops/add_20250914_200335_b8ac9c.png
+2025-09-14 20:03:36	67-L1 31748	results_anpr/vehicles/veh_20250914_200336_852.jpg	results_anpr/crops/plate_20250914_200336_852.png
+2025-09-14 20:03:36	67-L1 31748	results_anpr/vehicles/add_20250914_200337_a0b315.jpg	results_anpr/crops/add_20250914_200337_e55b37.png
+2025-09-14 20:03:39	71-AA 23107	results_anpr/vehicles/veh_20250914_200338_700.jpg	results_anpr/crops/plate_20250914_200338_700.png
+2025-09-14 20:03:39	71-AA 23107	results_anpr/vehicles/add_20250914_200339_b42a3a.jpg	results_anpr/crops/add_20250914_200339_8c05a1.png
+2025-09-14 20:03:42	6-1 50869	results_anpr/vehicles/veh_20250914_200342_461.jpg	results_anpr/crops/plate_20250914_200342_461.png
+2025-09-14 20:03:42	6-1 50869	results_anpr/vehicles/add_20250914_200343_fe0fb9.jpg	results_anpr/crops/add_20250914_200343_ba42d9.png
+2025-09-14 20:03:47	59-N2 65615	results_anpr/vehicles/veh_20250914_200347_165.jpg	results_anpr/crops/plate_20250914_200347_165.png
+2025-09-14 20:03:47	59-N2 65615	results_anpr/vehicles/add_20250914_200347_2e72f2.jpg	results_anpr/crops/add_20250914_200347_3531bd.png
+2025-09-14 20:03:49	62- 211	results_anpr/vehicles/veh_20250914_200349_325.jpg	results_anpr/crops/plate_20250914_200349_325.png
+2025-09-14 20:03:49	62- 211	results_anpr/vehicles/add_20250914_200350_87ed6f.jpg	results_anpr/crops/add_20250914_200350_8c1cf5.png
+2025-09-14 20:03:51	62-1 21163	results_anpr/vehicles/veh_20250914_200351_151.jpg	results_anpr/crops/plate_20250914_200351_151.png
+2025-09-14 20:03:51	62-1 21163	results_anpr/vehicles/add_20250914_200351_96b09a.jpg	results_anpr/crops/add_20250914_200351_1e5140.png
+2025-09-14 20:03:53	66-N1 5800	results_anpr/vehicles/veh_20250914_200352_987.jpg	results_anpr/crops/plate_20250914_200352_987.png
+2025-09-14 20:03:53	66-N1 5800	results_anpr/vehicles/add_20250914_200354_6b9f6c.jpg	results_anpr/crops/add_20250914_200354_6d843a.png
+2025-09-14 20:03:55	66-N1 58005	results_anpr/vehicles/veh_20250914_200354_861.jpg	results_anpr/crops/plate_20250914_200354_861.png
+2025-09-14 20:03:55	66-N1 58005	results_anpr/vehicles/add_20250914_200355_304afe.jpg	results_anpr/crops/add_20250914_200355_e4a364.png
+2025-09-14 20:03:56	61-2K 150D	results_anpr/vehicles/veh_20250914_200356_812.jpg	results_anpr/crops/plate_20250914_200356_812.png
+2025-09-14 20:03:56	61-2K 150D	results_anpr/vehicles/add_20250914_200357_218585.jpg	results_anpr/crops/add_20250914_200357_acebc2.png
+2025-09-14 20:04:00	59-X3 80208	results_anpr/vehicles/veh_20250914_200400_636.jpg	results_anpr/crops/plate_20250914_200400_636.png
+2025-09-14 20:04:00	59-X3 80208	results_anpr/vehicles/add_20250914_200401_d085ca.jpg	results_anpr/crops/add_20250914_200401_515102.png
+2025-09-14 20:04:02	54- 341	results_anpr/vehicles/veh_20250914_200402_509.jpg	results_anpr/crops/plate_20250914_200402_509.png
+2025-09-14 20:04:02	54- 341	results_anpr/vehicles/add_20250914_200403_9c1599.jpg	results_anpr/crops/add_20250914_200403_4ff304.png
+2025-09-14 20:04:04	54-4 3414	results_anpr/vehicles/veh_20250914_200404_349.jpg	results_anpr/crops/plate_20250914_200404_349.png
+2025-09-14 20:04:04	54-4 3414	results_anpr/vehicles/add_20250914_200405_7b2f28.jpg	results_anpr/crops/add_20250914_200405_baadc1.png
+2025-09-14 20:04:06	54-4 3414	results_anpr/vehicles/veh_20250914_200406_211.jpg	results_anpr/crops/plate_20250914_200406_211.png
+2025-09-14 20:04:06	54-4 3414	results_anpr/vehicles/add_20250914_200407_fab88b.jpg	results_anpr/crops/add_20250914_200407_ec6b71.png
+2025-09-14 20:04:06	54-4 3414	results_anpr/vehicles/add_20250914_200502_3e13e1.jpg	results_anpr/crops/add_20250914_200502_a1ccd7.png
+2025-09-14 20:05:05	59V-3 82374	results_anpr/vehicles/veh_20250914_200505_172.jpg	results_anpr/crops/plate_20250914_200505_172.png
+2025-09-14 20:05:05	59V-3 82374	results_anpr/vehicles/add_20250914_200505_90e581.jpg	results_anpr/crops/add_20250914_200505_f0ee49.png
+2025-09-14 20:05:07	59-V3 82374	results_anpr/vehicles/veh_20250914_200507_075.jpg	results_anpr/crops/plate_20250914_200507_075.png
+2025-09-14 20:05:07	59-V3 82374	results_anpr/vehicles/add_20250914_200507_e7a48a.jpg	results_anpr/crops/add_20250914_200507_d9c28c.png
+2025-09-14 20:05:09	62-D1 22862	results_anpr/vehicles/veh_20250914_200508_928.jpg	results_anpr/crops/plate_20250914_200508_928.png
+2025-09-14 20:05:09	62-D1 22862	results_anpr/vehicles/add_20250914_200509_d02446.jpg	results_anpr/crops/add_20250914_200509_b903dc.png
+2025-09-14 20:05:10	62-D1 22862	results_anpr/vehicles/veh_20250914_200510_749.jpg	results_anpr/crops/plate_20250914_200510_749.png
+2025-09-14 20:05:10	62-D1 22862	results_anpr/vehicles/add_20250914_200510_1ac838.jpg	results_anpr/crops/add_20250914_200510_337e99.png
+2025-09-14 20:05:12	67-L1 31748	results_anpr/vehicles/veh_20250914_200512_639.jpg	results_anpr/crops/plate_20250914_200512_639.png
+2025-09-14 20:05:12	67-L1 31748	results_anpr/vehicles/add_20250914_200512_4cf4b0.jpg	results_anpr/crops/add_20250914_200512_ed0c59.png
+2025-09-14 20:05:14	71-AA 23107	results_anpr/vehicles/veh_20250914_200514_499.jpg	results_anpr/crops/plate_20250914_200514_499.png
+2025-09-14 20:05:14	71-AA 23107	results_anpr/vehicles/add_20250914_200515_063634.jpg	results_anpr/crops/add_20250914_200515_b428b0.png
+2025-09-14 20:05:18	665-1 50869	results_anpr/vehicles/veh_20250914_200518_251.jpg	results_anpr/crops/plate_20250914_200518_251.png
+2025-09-14 20:05:18	665-1 50869	results_anpr/vehicles/add_20250914_200518_7e1b9a.jpg	results_anpr/crops/add_20250914_200518_523531.png
+2025-09-14 20:05:21	59-N 6561	results_anpr/vehicles/veh_20250914_200521_379.jpg	results_anpr/crops/plate_20250914_200521_379.png
+2025-09-14 20:05:21	59-N 6561	results_anpr/vehicles/add_20250914_200522_bbe647.jpg	results_anpr/crops/add_20250914_200522_9771f9.png
+2025-09-14 20:05:23	59-N2 65615	results_anpr/vehicles/veh_20250914_200523_010.jpg	results_anpr/crops/plate_20250914_200523_010.png
+2025-09-14 20:05:23	59-N2 65615	results_anpr/vehicles/add_20250914_200523_a04088.jpg	results_anpr/crops/add_20250914_200523_007c48.png
+2025-09-14 20:05:25	62- 211	results_anpr/vehicles/veh_20250914_200525_183.jpg	results_anpr/crops/plate_20250914_200525_183.png
+2025-09-14 20:05:25	62- 211	results_anpr/vehicles/add_20250914_200525_893d5f.jpg	results_anpr/crops/add_20250914_200525_30bd15.png
+2025-09-14 20:05:27	62-1 21163	results_anpr/vehicles/veh_20250914_200527_009.jpg	results_anpr/crops/plate_20250914_200527_009.png
+2025-09-14 20:05:27	62-1 21163	results_anpr/vehicles/add_20250914_200527_f8c744.jpg	results_anpr/crops/add_20250914_200527_3687c2.png
+2025-09-14 20:05:29	66-N1 5800	results_anpr/vehicles/veh_20250914_200528_836.jpg	results_anpr/crops/plate_20250914_200528_836.png
+2025-09-14 20:05:29	66-N1 5800	results_anpr/vehicles/add_20250914_200529_1862c5.jpg	results_anpr/crops/add_20250914_200529_4863a5.png
+2025-09-14 20:05:30	66-N1 58005	results_anpr/vehicles/veh_20250914_200530_712.jpg	results_anpr/crops/plate_20250914_200530_712.png
+2025-09-14 20:05:30	66-N1 58005	results_anpr/vehicles/add_20250914_200530_0018c4.jpg	results_anpr/crops/add_20250914_200530_92de63.png
+2025-09-14 20:05:32	61-XK1 1501	results_anpr/vehicles/veh_20250914_200532_565.jpg	results_anpr/crops/plate_20250914_200532_565.png
+2025-09-14 20:05:32	61-XK1 1501	results_anpr/vehicles/add_20250914_200532_dd5e92.jpg	results_anpr/crops/add_20250914_200532_e4eb89.png
+2025-09-14 20:05:34	59 8902	results_anpr/vehicles/veh_20250914_200534_487.jpg	results_anpr/crops/plate_20250914_200534_487.png
+2025-09-14 20:05:34	59 8902	results_anpr/vehicles/add_20250914_200535_1fd386.jpg	results_anpr/crops/add_20250914_200535_244b0f.png
+2025-09-14 20:05:36	59-X73 80208	results_anpr/vehicles/veh_20250914_200536_347.jpg	results_anpr/crops/plate_20250914_200536_347.png
+2025-09-14 20:05:36	59-X73 80208	results_anpr/vehicles/add_20250914_200536_98e28d.jpg	results_anpr/crops/add_20250914_200536_d4e5b4.png
+2025-09-14 20:05:38	54-V 341	results_anpr/vehicles/veh_20250914_200538_233.jpg	results_anpr/crops/plate_20250914_200538_233.png
+2025-09-14 20:05:38	54-V 341	results_anpr/vehicles/add_20250914_200538_d1262b.jpg	results_anpr/crops/add_20250914_200538_63602d.png
+2025-09-14 20:05:40	54-V4 3414	results_anpr/vehicles/veh_20250914_200540_099.jpg	results_anpr/crops/plate_20250914_200540_099.png
+2025-09-14 20:05:40	54-V4 3414	results_anpr/vehicles/add_20250914_200540_de16c0.jpg	results_anpr/crops/add_20250914_200540_f2766b.png
+2025-09-14 20:05:42	54-4 3414	results_anpr/vehicles/veh_20250914_200541_963.jpg	results_anpr/crops/plate_20250914_200541_963.png
+2025-09-14 20:05:42	54-4 3414	results_anpr/vehicles/add_20250914_200542_14e6f5.jpg	results_anpr/crops/add_20250914_200542_caf05f.png
+2025-09-14 20:05:42	54-4 3414	results_anpr/vehicles/add_20250914_200708_e008ae.jpg	results_anpr/crops/add_20250914_200708_6aabd9.png
+2025-09-14 20:07:11	59V-3 82374	results_anpr/vehicles/veh_20250914_200711_066.jpg	results_anpr/crops/plate_20250914_200711_066.png
+2025-09-14 20:07:11	59V-3 82374	results_anpr/vehicles/add_20250914_200711_fdbee1.jpg	results_anpr/crops/add_20250914_200711_55804f.png
+2025-09-14 20:07:13	59-V3 82374	results_anpr/vehicles/veh_20250914_200712_936.jpg	results_anpr/crops/plate_20250914_200712_936.png
+2025-09-14 20:07:13	59-V3 82374	results_anpr/vehicles/add_20250914_200713_f69b1a.jpg	results_anpr/crops/add_20250914_200713_ccb003.png
+2025-09-14 20:07:15	62-D1 22862	results_anpr/vehicles/veh_20250914_200714_777.jpg	results_anpr/crops/plate_20250914_200714_777.png
+2025-09-14 20:07:15	62-D1 22862	results_anpr/vehicles/add_20250914_200715_c64f00.jpg	results_anpr/crops/add_20250914_200715_685c34.png
+2025-09-14 20:07:16	62-D1 22862	results_anpr/vehicles/veh_20250914_200716_659.jpg	results_anpr/crops/plate_20250914_200716_659.png
+2025-09-14 20:07:16	62-D1 22862	results_anpr/vehicles/add_20250914_200717_ee4df1.jpg	results_anpr/crops/add_20250914_200717_4f7c0c.png
+2025-09-14 20:07:18	67-C1 31748	results_anpr/vehicles/veh_20250914_200718_554.jpg	results_anpr/crops/plate_20250914_200718_554.png
+2025-09-14 20:07:18	67-C1 31748	results_anpr/vehicles/add_20250914_200718_179c2e.jpg	results_anpr/crops/add_20250914_200718_8dd9c7.png
+2025-09-14 20:07:20	71-AA 23107	results_anpr/vehicles/veh_20250914_200720_393.jpg	results_anpr/crops/plate_20250914_200720_393.png
+2025-09-14 20:07:20	71-AA 23107	results_anpr/vehicles/add_20250914_200721_58d701.jpg	results_anpr/crops/add_20250914_200721_2c5e55.png
+2025-09-14 20:07:22	-AA 107	results_anpr/vehicles/veh_20250914_200722_231.jpg	results_anpr/crops/plate_20250914_200722_231.png
+2025-09-14 20:07:22	-AA 107	results_anpr/vehicles/add_20250914_200723_e63001.jpg	results_anpr/crops/add_20250914_200723_901b6d.png
+2025-09-14 20:07:24	6-1 508B9	results_anpr/vehicles/veh_20250914_200724_085.jpg	results_anpr/crops/plate_20250914_200724_085.png
+2025-09-14 20:07:24	6-1 508B9	results_anpr/vehicles/add_20250914_200724_584bad.jpg	results_anpr/crops/add_20250914_200724_7b628c.png
+2025-09-14 20:07:27	59-N 6561	results_anpr/vehicles/veh_20250914_200727_174.jpg	results_anpr/crops/plate_20250914_200727_174.png
+2025-09-14 20:07:27	59-N 6561	results_anpr/vehicles/add_20250914_200728_609320.jpg	results_anpr/crops/add_20250914_200728_00ef9b.png
+2025-09-14 20:07:28	59-N2 65615	results_anpr/vehicles/veh_20250914_200728_890.jpg	results_anpr/crops/plate_20250914_200728_890.png
+2025-09-14 20:07:28	59-N2 65615	results_anpr/vehicles/add_20250914_200729_381fef.jpg	results_anpr/crops/add_20250914_200729_8fa600.png
+2025-09-14 20:07:31	62-U 211	results_anpr/vehicles/veh_20250914_200731_132.jpg	results_anpr/crops/plate_20250914_200731_132.png
+2025-09-14 20:07:31	62-U 211	results_anpr/vehicles/add_20250914_200732_95eb3c.jpg	results_anpr/crops/add_20250914_200732_4fda89.png
+2025-09-14 20:07:33	62-U1 21163	results_anpr/vehicles/veh_20250914_200732_964.jpg	results_anpr/crops/plate_20250914_200732_964.png
+2025-09-14 20:07:33	62-U1 21163	results_anpr/vehicles/add_20250914_200733_360364.jpg	results_anpr/crops/add_20250914_200733_cf16c0.png
+2025-09-14 20:07:34	66 580	results_anpr/vehicles/veh_20250914_200734_805.jpg	results_anpr/crops/plate_20250914_200734_805.png
+2025-09-14 20:07:34	66 580	results_anpr/vehicles/add_20250914_200735_7a14e0.jpg	results_anpr/crops/add_20250914_200735_d403da.png
+2025-09-14 20:07:37	566-N1 8005	results_anpr/vehicles/veh_20250914_200736_649.jpg	results_anpr/crops/plate_20250914_200736_649.png
+2025-09-14 20:07:37	566-N1 8005	results_anpr/vehicles/add_20250914_200737_c9f98c.jpg	results_anpr/crops/add_20250914_200737_78c620.png
+2025-09-14 20:07:38	61-XK 150	results_anpr/vehicles/veh_20250914_200738_520.jpg	results_anpr/crops/plate_20250914_200738_520.png
+2025-09-14 20:07:38	61-XK 150	results_anpr/vehicles/add_20250914_200739_fcc30e.jpg	results_anpr/crops/add_20250914_200739_5c8d0c.png
+2025-09-14 20:07:41	59 980	results_anpr/vehicles/veh_20250914_200740_786.jpg	results_anpr/crops/plate_20250914_200740_786.png
+2025-09-14 20:07:41	59 980	results_anpr/vehicles/add_20250914_200741_b9043d.jpg	results_anpr/crops/add_20250914_200741_a50778.png
+2025-09-14 20:07:42	59-X3 80208	results_anpr/vehicles/veh_20250914_200742_662.jpg	results_anpr/crops/plate_20250914_200742_662.png
+2025-09-14 20:07:42	59-X3 80208	results_anpr/vehicles/add_20250914_200743_8403d6.jpg	results_anpr/crops/add_20250914_200743_4a6904.png
+2025-09-14 20:07:45	54- 341	results_anpr/vehicles/veh_20250914_200744_540.jpg	results_anpr/crops/plate_20250914_200744_540.png
+2025-09-14 20:07:45	54- 341	results_anpr/vehicles/add_20250914_200745_50f36a.jpg	results_anpr/crops/add_20250914_200745_18ae8d.png
+2025-09-14 20:07:46	54-4 3414	results_anpr/vehicles/veh_20250914_200746_418.jpg	results_anpr/crops/plate_20250914_200746_418.png
+2025-09-14 20:07:46	54-4 3414	results_anpr/vehicles/add_20250914_200746_40c8fe.jpg	results_anpr/crops/add_20250914_200746_b9f386.png
+2025-09-14 20:07:48	54-4 3414	results_anpr/vehicles/veh_20250914_200748_290.jpg	results_anpr/crops/plate_20250914_200748_290.png
+2025-09-14 20:07:48	54-4 3414	results_anpr/vehicles/add_20250914_200748_6ea089.jpg	results_anpr/crops/add_20250914_200748_e2b453.png
+2025-09-14 20:08:08	B1- 02DB	results_anpr/vehicles/veh_20250914_200808_038.jpg	results_anpr/crops/plate_20250914_200808_038.png
+2025-09-14 20:08:08	B1- 02DB	results_anpr/vehicles/add_20250914_200809_eca8e8.jpg	results_anpr/crops/add_20250914_200809_75a754.png
+2025-09-14 20:08:13	72F 22519	results_anpr/vehicles/veh_20250914_200813_264.jpg	results_anpr/crops/plate_20250914_200813_264.png
+2025-09-14 20:08:13	72F 22519	results_anpr/vehicles/add_20250914_200814_35bda1.jpg	results_anpr/crops/add_20250914_200814_401d7d.png
+2025-09-14 20:08:15	72-F1 22519	results_anpr/vehicles/veh_20250914_200815_077.jpg	results_anpr/crops/plate_20250914_200815_077.png
+2025-09-14 20:08:15	72-F1 22519	results_anpr/vehicles/add_20250914_200816_9368a2.jpg	results_anpr/crops/add_20250914_200816_92d346.png
+2025-09-14 20:08:17	59-62 934	results_anpr/vehicles/veh_20250914_200817_151.jpg	results_anpr/crops/plate_20250914_200817_151.png
+2025-09-14 20:08:17	59-62 934	results_anpr/vehicles/add_20250914_200818_79e344.jpg	results_anpr/crops/add_20250914_200818_06dff4.png
+2025-09-14 20:08:19	59-C2 93474	results_anpr/vehicles/veh_20250914_200819_103.jpg	results_anpr/crops/plate_20250914_200819_103.png
+2025-09-14 20:08:19	59-C2 93474	results_anpr/vehicles/add_20250914_200820_04e0fd.jpg	results_anpr/crops/add_20250914_200820_8f9d1d.png
+2025-09-14 20:08:23	69-B1 17251	results_anpr/vehicles/veh_20250914_200823_909.jpg	results_anpr/crops/plate_20250914_200823_909.png
+2025-09-14 20:08:23	69-B1 17251	results_anpr/vehicles/add_20250914_200824_081b7d.jpg	results_anpr/crops/add_20250914_200824_5543aa.png
+2025-09-14 20:08:25	69-B1 1251	results_anpr/vehicles/veh_20250914_200825_792.jpg	results_anpr/crops/plate_20250914_200825_792.png
+2025-09-14 20:08:25	69-B1 1251	results_anpr/vehicles/add_20250914_200826_e6f413.jpg	results_anpr/crops/add_20250914_200826_c7bb50.png
+2025-09-14 20:08:28	75-5F1 40526	results_anpr/vehicles/veh_20250914_200827_638.jpg	results_anpr/crops/plate_20250914_200827_638.png
+2025-09-14 20:08:28	75-5F1 40526	results_anpr/vehicles/add_20250914_200828_c35b74.jpg	results_anpr/crops/add_20250914_200828_508730.png
+2025-09-14 20:08:29	75-FE1 40526	results_anpr/vehicles/veh_20250914_200829_478.jpg	results_anpr/crops/plate_20250914_200829_478.png
+2025-09-14 20:08:29	75-FE1 40526	results_anpr/vehicles/add_20250914_200830_4bd2cf.jpg	results_anpr/crops/add_20250914_200830_2fbd63.png
+2025-09-14 20:08:31	59D-2 971	results_anpr/vehicles/veh_20250914_200831_632.jpg	results_anpr/crops/plate_20250914_200831_632.png
+2025-09-14 20:08:31	59D-2 971	results_anpr/vehicles/add_20250914_200832_d904ae.jpg	results_anpr/crops/add_20250914_200832_3ecc4e.png
+2025-09-14 20:08:33	59 971333	results_anpr/vehicles/veh_20250914_200833_349.jpg	results_anpr/crops/plate_20250914_200833_349.png
+2025-09-14 20:08:33	59 971333	results_anpr/vehicles/add_20250914_200834_312f15.jpg	results_anpr/crops/add_20250914_200834_952e7c.png
+2025-09-14 20:08:35	594LL 97133	results_anpr/vehicles/veh_20250914_200835_170.jpg	results_anpr/crops/plate_20250914_200835_170.png
+2025-09-14 20:08:35	594LL 97133	results_anpr/vehicles/add_20250914_200836_327cb4.jpg	results_anpr/crops/add_20250914_200836_fc074a.png
+2025-09-14 20:08:42	59-C2 97133	results_anpr/vehicles/veh_20250914_200842_047.jpg	results_anpr/crops/plate_20250914_200842_047.png
+2025-09-14 20:08:42	59-C2 97133	results_anpr/vehicles/add_20250914_200843_66d8a6.jpg	results_anpr/crops/add_20250914_200843_cc2153.png
+2025-09-14 20:08:45	50-1 46960	results_anpr/vehicles/veh_20250914_200845_483.jpg	results_anpr/crops/plate_20250914_200845_483.png
+2025-09-14 20:08:45	50-1 46960	results_anpr/vehicles/add_20250914_200846_595fa1.jpg	results_anpr/crops/add_20250914_200846_41d519.png
+2025-09-14 20:08:45	50-1 46960	results_anpr/vehicles/add_20250914_200955_44c173.jpg	results_anpr/crops/add_20250914_200955_a92230.png
+2025-09-14 20:09:59	71-B93 28036	results_anpr/vehicles/veh_20250914_200959_430.jpg	results_anpr/crops/plate_20250914_200959_430.png
+2025-09-14 20:09:59	71-B93 28036	results_anpr/vehicles/add_20250914_201000_985f3b.jpg	results_anpr/crops/add_20250914_201000_cfad3b.png
+2025-09-14 20:10:01	7-B3 28036	results_anpr/vehicles/veh_20250914_201001_277.jpg	results_anpr/crops/plate_20250914_201001_277.png
+2025-09-14 20:10:01	7-B3 28036	results_anpr/vehicles/add_20250914_201002_18024b.jpg	results_anpr/crops/add_20250914_201002_efc576.png
+2025-09-14 20:10:12	66-1 57B8713	results_anpr/vehicles/veh_20250914_201012_094.jpg	results_anpr/crops/plate_20250914_201012_094.png
+2025-09-14 20:10:12	66-1 57B8713	results_anpr/vehicles/add_20250914_201012_afe8b0.jpg	results_anpr/crops/add_20250914_201012_4ea81e.png
+2025-09-14 20:14:05	62-X1 55555	results_anpr/vehicles/manual_20250914_201405_68c6bf9d0135b.jpg	results_anpr/crops/manual_20250914_201405_68c6bf9d01221.jpg
+2025-09-14 20:10:12	66-1 57B8713		
+2025-09-14 20:24:54	59V-3 82374	results_anpr/vehicles/veh_20250914_202454_157.jpg	results_anpr/crops/plate_20250914_202454_157.png
+2025-09-14 20:24:54	59V-3 82374	results_anpr/vehicles/add_20250914_202455_8ccbe4.jpg	results_anpr/crops/add_20250914_202455_9cc5d0.png
+2025-09-14 20:24:54	59V-3 82374	results_anpr/vehicles/add_20250914_202504_6f01d1.jpg	results_anpr/crops/add_20250914_202504_f396aa.png
+2026-04-06 20:47:13	29-C1 99999	results_anpr/vehicles/veh_20260406_204712_721.jpg	results_anpr/crops/plate_20260406_204712_721.png
+2026-04-06 20:47:14	29-C1 99999	results_anpr/vehicles/veh_20260406_204714_379.jpg	results_anpr/crops/plate_20260406_204714_379.png
+2026-04-06 20:49:34	90-2 4230	results_anpr/vehicles/veh_20260406_204933_606.jpg	results_anpr/crops/plate_20260406_204933_606.png
+2026-04-06 20:49:35	90-B2 45230	results_anpr/vehicles/veh_20260406_204935_453.jpg	results_anpr/crops/plate_20260406_204935_453.png
+2025-09-14 20:24:54	59V-3 82374	results_anpr/vehicles/add_20260406_205411_f8ecc9.jpg	results_anpr/crops/add_20260406_205411_45207e.png
+2026-04-06 20:54:15	77-B38 28036	results_anpr/vehicles/veh_20260406_205415_485.jpg	results_anpr/crops/plate_20260406_205415_485.png
+2026-04-06 20:54:15	77-B38 28036	results_anpr/vehicles/add_20260406_205416_96002c.jpg	results_anpr/crops/add_20260406_205416_6bc92c.png
+2026-04-06 20:54:17	7-B3 28036	results_anpr/vehicles/veh_20260406_205417_335.jpg	results_anpr/crops/plate_20260406_205417_335.png
+2026-04-06 20:54:17	7-B3 28036	results_anpr/vehicles/add_20260406_205418_878d39.jpg	results_anpr/crops/add_20260406_205418_cf8bc2.png
+2026-04-06 20:54:26	66-C17 57813	results_anpr/vehicles/veh_20260406_205426_343.jpg	results_anpr/crops/plate_20260406_205426_343.png
+2026-04-06 20:54:26	66-C17 57813	results_anpr/vehicles/add_20260406_205427_6d2c7c.jpg	results_anpr/crops/add_20260406_205427_330c73.png
+2026-04-06 20:54:28	63517 513	results_anpr/vehicles/veh_20260406_205428_209.jpg	results_anpr/crops/plate_20260406_205428_209.png
+2026-04-06 20:54:28	63517 513	results_anpr/vehicles/add_20260406_205429_138d0a.jpg	results_anpr/crops/add_20260406_205429_433042.png
+2026-04-06 20:54:47	633 2083	results_anpr/vehicles/veh_20260406_205447_339.jpg	results_anpr/crops/plate_20260406_205447_339.png
+2026-04-06 20:54:47	633 2083	results_anpr/vehicles/add_20260406_205448_696a54.jpg	results_anpr/crops/add_20260406_205448_828e48.png
+2026-04-11 10:19:59	12-B1 16888	results_anpr/vehicles/veh_20260411_101958_890.jpg	results_anpr/crops/plate_20260411_101958_890.png
+2026-04-11 10:20:01	12-B1 16888	results_anpr/vehicles/veh_20260411_102000_926.jpg	results_anpr/crops/plate_20260411_102000_926.png
+2026-04-06 20:54:47	633 2083	results_anpr/vehicles/add_20260413_200927_6c0478.jpg	results_anpr/crops/add_20260413_200927_067240.png
