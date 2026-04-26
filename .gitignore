@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datasets and Model Weights (Do not push large files to GitHub)
+data/
+datasets/
+*.pt
+*.pth
+*.onnx
+*.engine
+weights/
+checkpoints/
+
+# Logs and outputs
+runs/
+logs/
+tensorboard/
+results/
+outputs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
