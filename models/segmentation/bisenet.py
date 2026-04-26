@@ -1,149 +1,282 @@
+#!/usr/bin/python
+# -*- encoding: utf-8 -*-
+
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import torchvision
 
-# Định nghĩa khối ConvBlock cơ bản
-class ConvBlock(nn.Module):
-    def __init__(self, in_channels, out_channels, kernel_size=3, stride=2, padding=1):
-        super(ConvBlock, self).__init__()
-        self.conv = nn.Conv2d(in_channels, out_channels, kernel_size=kernel_size, stride=stride, padding=padding, bias=False)
-        self.bn = nn.BatchNorm2d(out_channels)
-        self.relu = nn.ReLU(inplace=True)
+from .resnet import Resnet18
 
-    def forward(self, x):
-        return self.relu(self.bn(self.conv(x)))
 
-# Spatial Path (Đường dẫn Không gian) - Giữ lại độ phân giải cao
-class SpatialPath(nn.Module):
-    def __init__(self):
-        super(SpatialPath, self).__init__()
-        self.conv1 = ConvBlock(3, 64, kernel_size=7, stride=2, padding=3)
-        self.conv2 = ConvBlock(64, 64, kernel_size=3, stride=2, padding=1)
-        self.conv3 = ConvBlock(64, 64, kernel_size=3, stride=2, padding=1)
-
-    def forward(self, x):
-        x = self.conv1(x)
-        x = self.conv2(x)
-        x = self.conv3(x)
-        return x
-
-# Chú ý Attention Refinement Module (ARM)
-class AttentionRefinementModule(nn.Module):
-    def __init__(self, in_channels, out_channels):
-        super(AttentionRefinementModule, self).__init__()
-        self.conv = ConvBlock(in_channels, out_channels, kernel_size=3, stride=1, padding=1)
-        self.attention = nn.Sequential(
-            nn.AdaptiveAvgPool2d(1),
-            nn.Conv2d(out_channels, out_channels, kernel_size=1, bias=False),
-            nn.BatchNorm2d(out_channels),
-            nn.Sigmoid()
-        )
+class ConvBNReLU(nn.Module):
+    def __init__(self, in_chan, out_chan, ks=3, stride=1, padding=1, *args, **kwargs):
+        super(ConvBNReLU, self).__init__()
+        self.conv = nn.Conv2d(in_chan,
+                out_chan,
+                kernel_size = ks,
+                stride = stride,
+                padding = padding,
+                bias = False)
+        self.bn = nn.BatchNorm2d(out_chan)
+        self.init_weight()
 
     def forward(self, x):
         x = self.conv(x)
-        attn = self.attention(x)
-        return x * attn
+        x = F.relu(self.bn(x))
+        return x
 
-# Context Path (Đường dẫn Ngữ cảnh) - Tương tự ResNet18 đơn giản hóa
+    def init_weight(self):
+        for ly in self.children():
+            if isinstance(ly, nn.Conv2d):
+                nn.init.kaiming_normal_(ly.weight, a=1)
+                if not ly.bias is None: nn.init.constant_(ly.bias, 0)
+
+class BiSeNetOutput(nn.Module):
+    def __init__(self, in_chan, mid_chan, n_classes, *args, **kwargs):
+        super(BiSeNetOutput, self).__init__()
+        self.conv = ConvBNReLU(in_chan, mid_chan, ks=3, stride=1, padding=1)
+        self.conv_out = nn.Conv2d(mid_chan, n_classes, kernel_size=1, bias=False)
+        self.init_weight()
+
+    def forward(self, x):
+        x = self.conv(x)
+        x = self.conv_out(x)
+        return x
+
+    def init_weight(self):
+        for ly in self.children():
+            if isinstance(ly, nn.Conv2d):
+                nn.init.kaiming_normal_(ly.weight, a=1)
+                if not ly.bias is None: nn.init.constant_(ly.bias, 0)
+
+    def get_params(self):
+        wd_params, nowd_params = [], []
+        for name, module in self.named_modules():
+            if isinstance(module, nn.Linear) or isinstance(module, nn.Conv2d):
+                wd_params.append(module.weight)
+                if not module.bias is None:
+                    nowd_params.append(module.bias)
+            elif isinstance(module, nn.BatchNorm2d):
+                nowd_params += list(module.parameters())
+        return wd_params, nowd_params
+
+
+class AttentionRefinementModule(nn.Module):
+    def __init__(self, in_chan, out_chan, *args, **kwargs):
+        super(AttentionRefinementModule, self).__init__()
+        self.conv = ConvBNReLU(in_chan, out_chan, ks=3, stride=1, padding=1)
+        self.conv_atten = nn.Conv2d(out_chan, out_chan, kernel_size= 1, bias=False)
+        self.bn_atten = nn.BatchNorm2d(out_chan)
+        self.sigmoid_atten = nn.Sigmoid()
+        self.init_weight()
+
+    def forward(self, x):
+        feat = self.conv(x)
+        atten = F.avg_pool2d(feat, feat.size()[2:])
+        atten = self.conv_atten(atten)
+        atten = self.bn_atten(atten)
+        atten = self.sigmoid_atten(atten)
+        out = torch.mul(feat, atten)
+        return out
+
+    def init_weight(self):
+        for ly in self.children():
+            if isinstance(ly, nn.Conv2d):
+                nn.init.kaiming_normal_(ly.weight, a=1)
+                if not ly.bias is None: nn.init.constant_(ly.bias, 0)
+
+
 class ContextPath(nn.Module):
-    def __init__(self):
+    def __init__(self, *args, **kwargs):
         super(ContextPath, self).__init__()
-        # Để đơn giản, ta dùng các ConvBlock thay vì ResNet nguyên bản để có thể load weights tùy chỉnh
-        # Lưu ý: Cấu trúc này cần tương thích với file weights 79999_iter.pth
-        # Đây là cấu trúc mô phỏng ResNet18 backbone thường dùng cho BiSeNet
-        self.conv1 = ConvBlock(3, 64, kernel_size=7, stride=2, padding=3)
-        self.maxpool = nn.MaxPool2d(kernel_size=3, stride=2, padding=1)
-        
-        self.layer1 = self._make_layer(64, 64, 2)
-        self.layer2 = self._make_layer(64, 128, 2, stride=2)
-        self.layer3 = self._make_layer(128, 256, 2, stride=2)
-        self.layer4 = self._make_layer(256, 512, 2, stride=2)
-
+        self.resnet = Resnet18()
         self.arm16 = AttentionRefinementModule(256, 128)
         self.arm32 = AttentionRefinementModule(512, 128)
-        
-        self.global_context = nn.Sequential(
-            nn.AdaptiveAvgPool2d(1),
-            ConvBlock(512, 128, kernel_size=1, stride=1, padding=0)
-        )
+        self.conv_head32 = ConvBNReLU(128, 128, ks=3, stride=1, padding=1)
+        self.conv_head16 = ConvBNReLU(128, 128, ks=3, stride=1, padding=1)
+        self.conv_avg = ConvBNReLU(512, 128, ks=1, stride=1, padding=0)
 
-    def _make_layer(self, in_channels, out_channels, blocks, stride=1):
-        layers = []
-        layers.append(ConvBlock(in_channels, out_channels, stride=stride))
-        for _ in range(1, blocks):
-            layers.append(ConvBlock(out_channels, out_channels, stride=1))
-        return nn.Sequential(*layers)
+        self.init_weight()
 
     def forward(self, x):
-        x = self.conv1(x)
-        x = self.maxpool(x)
-        
-        feat4 = self.layer1(x)
-        feat8 = self.layer2(feat4)
-        feat16 = self.layer3(feat8)
-        feat32 = self.layer4(feat16)
+        H0, W0 = x.size()[2:]
+        feat8, feat16, feat32 = self.resnet(x)
+        H8, W8 = feat8.size()[2:]
+        H16, W16 = feat16.size()[2:]
+        H32, W32 = feat32.size()[2:]
 
-        arm16 = self.arm16(feat16)
-        arm32 = self.arm32(feat32)
-        
-        global_ctx = self.global_context(feat32)
-        global_ctx = F.interpolate(global_ctx, size=arm32.size()[2:], mode='bilinear', align_corners=True)
-        
-        arm32 = arm32 + global_ctx
-        arm32 = F.interpolate(arm32, size=arm16.size()[2:], mode='bilinear', align_corners=True)
-        
-        context_out = arm16 + arm32
-        return context_out, feat32
+        avg = F.avg_pool2d(feat32, feat32.size()[2:])
+        avg = self.conv_avg(avg)
+        avg_up = F.interpolate(avg, (H32, W32), mode='nearest')
 
-# Feature Fusion Module (Mô-đun Kết hợp Đặc trưng)
+        feat32_arm = self.arm32(feat32)
+        feat32_sum = feat32_arm + avg_up
+        feat32_up = F.interpolate(feat32_sum, (H16, W16), mode='nearest')
+        feat32_up = self.conv_head32(feat32_up)
+
+        feat16_arm = self.arm16(feat16)
+        feat16_sum = feat16_arm + feat32_up
+        feat16_up = F.interpolate(feat16_sum, (H8, W8), mode='nearest')
+        feat16_up = self.conv_head16(feat16_up)
+
+        return feat8, feat16_up, feat32_up  # x8, x8, x16
+
+    def init_weight(self):
+        for ly in self.children():
+            if isinstance(ly, nn.Conv2d):
+                nn.init.kaiming_normal_(ly.weight, a=1)
+                if not ly.bias is None: nn.init.constant_(ly.bias, 0)
+
+    def get_params(self):
+        wd_params, nowd_params = [], []
+        for name, module in self.named_modules():
+            if isinstance(module, (nn.Linear, nn.Conv2d)):
+                wd_params.append(module.weight)
+                if not module.bias is None:
+                    nowd_params.append(module.bias)
+            elif isinstance(module, nn.BatchNorm2d):
+                nowd_params += list(module.parameters())
+        return wd_params, nowd_params
+
+
+### This is not used, since I replace this with the resnet feature with the same size
+class SpatialPath(nn.Module):
+    def __init__(self, *args, **kwargs):
+        super(SpatialPath, self).__init__()
+        self.conv1 = ConvBNReLU(3, 64, ks=7, stride=2, padding=3)
+        self.conv2 = ConvBNReLU(64, 64, ks=3, stride=2, padding=1)
+        self.conv3 = ConvBNReLU(64, 64, ks=3, stride=2, padding=1)
+        self.conv_out = ConvBNReLU(64, 128, ks=1, stride=1, padding=0)
+        self.init_weight()
+
+    def forward(self, x):
+        feat = self.conv1(x)
+        feat = self.conv2(feat)
+        feat = self.conv3(feat)
+        feat = self.conv_out(feat)
+        return feat
+
+    def init_weight(self):
+        for ly in self.children():
+            if isinstance(ly, nn.Conv2d):
+                nn.init.kaiming_normal_(ly.weight, a=1)
+                if not ly.bias is None: nn.init.constant_(ly.bias, 0)
+
+    def get_params(self):
+        wd_params, nowd_params = [], []
+        for name, module in self.named_modules():
+            if isinstance(module, nn.Linear) or isinstance(module, nn.Conv2d):
+                wd_params.append(module.weight)
+                if not module.bias is None:
+                    nowd_params.append(module.bias)
+            elif isinstance(module, nn.BatchNorm2d):
+                nowd_params += list(module.parameters())
+        return wd_params, nowd_params
+
+
 class FeatureFusionModule(nn.Module):
-    def __init__(self, in_channels, out_channels):
+    def __init__(self, in_chan, out_chan, *args, **kwargs):
         super(FeatureFusionModule, self).__init__()
-        self.convblock = ConvBlock(in_channels, out_channels, kernel_size=1, stride=1, padding=0)
-        self.attention = nn.Sequential(
-            nn.AdaptiveAvgPool2d(1),
-            nn.Conv2d(out_channels, out_channels // 4, kernel_size=1, bias=False),
-            nn.ReLU(inplace=True),
-            nn.Conv2d(out_channels // 4, out_channels, kernel_size=1, bias=False),
-            nn.Sigmoid()
-        )
+        self.convblk = ConvBNReLU(in_chan, out_chan, ks=1, stride=1, padding=0)
+        self.conv1 = nn.Conv2d(out_chan,
+                out_chan//4,
+                kernel_size = 1,
+                stride = 1,
+                padding = 0,
+                bias = False)
+        self.conv2 = nn.Conv2d(out_chan//4,
+                out_chan,
+                kernel_size = 1,
+                stride = 1,
+                padding = 0,
+                bias = False)
+        self.relu = nn.ReLU(inplace=True)
+        self.sigmoid = nn.Sigmoid()
+        self.init_weight()
 
-    def forward(self, f_sp, f_cp):
-        # f_sp: spatial path feature, f_cp: context path feature
-        # Upsample f_cp cho khớp kích thước với f_sp
-        if f_cp.size()[2:] != f_sp.size()[2:]:
-            f_cp = F.interpolate(f_cp, size=f_sp.size()[2:], mode='bilinear', align_corners=True)
-        feat = torch.cat([f_sp, f_cp], dim=1)
-        feat = self.convblock(feat)
-        attn = self.attention(feat)
-        return feat + feat * attn
+    def forward(self, fsp, fcp):
+        fcat = torch.cat([fsp, fcp], dim=1)
+        feat = self.convblk(fcat)
+        atten = F.avg_pool2d(feat, feat.size()[2:])
+        atten = self.conv1(atten)
+        atten = self.relu(atten)
+        atten = self.conv2(atten)
+        atten = self.sigmoid(atten)
+        feat_atten = torch.mul(feat, atten)
+        feat_out = feat_atten + feat
+        return feat_out
 
-# Mô hình BiSeNet hoàn chỉnh
+    def init_weight(self):
+        for ly in self.children():
+            if isinstance(ly, nn.Conv2d):
+                nn.init.kaiming_normal_(ly.weight, a=1)
+                if not ly.bias is None: nn.init.constant_(ly.bias, 0)
+
+    def get_params(self):
+        wd_params, nowd_params = [], []
+        for name, module in self.named_modules():
+            if isinstance(module, nn.Linear) or isinstance(module, nn.Conv2d):
+                wd_params.append(module.weight)
+                if not module.bias is None:
+                    nowd_params.append(module.bias)
+            elif isinstance(module, nn.BatchNorm2d):
+                nowd_params += list(module.parameters())
+        return wd_params, nowd_params
+
+
 class BiSeNet(nn.Module):
-    def __init__(self, num_classes=19):
+    def __init__(self, n_classes, *args, **kwargs):
         super(BiSeNet, self).__init__()
-        self.spatial_path = SpatialPath()
-        self.context_path = ContextPath()
-        
-        # In channels của Fusion Module sẽ phụ thuộc vào output của Spatial (64) + Context (128)
-        self.ffm = FeatureFusionModule(64 + 128, 256)
-        
-        # Lớp phân loại cuối cùng
-        self.conv_out = nn.Conv2d(256, num_classes, kernel_size=1)
+        self.cp = ContextPath()
+        ## here self.sp is deleted
+        self.ffm = FeatureFusionModule(256, 256)
+        self.conv_out = BiSeNetOutput(256, 256, n_classes)
+        self.conv_out16 = BiSeNetOutput(128, 64, n_classes)
+        self.conv_out32 = BiSeNetOutput(128, 64, n_classes)
+        self.init_weight()
 
     def forward(self, x):
-        h, w = x.size()[2:]
-        
-        # Rút trích đặc trưng
-        f_sp = self.spatial_path(x)
-        f_cp, _ = self.context_path(x)
-        
-        # Kết hợp
-        feat_fuse = self.ffm(f_sp, f_cp)
-        
-        # Dự đoán phân vùng
-        out = self.conv_out(feat_fuse)
-        
-        # Resize lại kích thước ảnh đầu vào
-        out = F.interpolate(out, size=(h, w), mode='bilinear', align_corners=True)
-        return out
+        H, W = x.size()[2:]
+        feat_res8, feat_cp8, feat_cp16 = self.cp(x)  # here return res3b1 feature
+        feat_sp = feat_res8  # use res3b1 feature to replace spatial path feature
+        feat_fuse = self.ffm(feat_sp, feat_cp8)
+
+        feat_out = self.conv_out(feat_fuse)
+        feat_out16 = self.conv_out16(feat_cp8)
+        feat_out32 = self.conv_out32(feat_cp16)
+
+        feat_out = F.interpolate(feat_out, (H, W), mode='bilinear', align_corners=True)
+        feat_out16 = F.interpolate(feat_out16, (H, W), mode='bilinear', align_corners=True)
+        feat_out32 = F.interpolate(feat_out32, (H, W), mode='bilinear', align_corners=True)
+        return feat_out, feat_out16, feat_out32
+
+    def init_weight(self):
+        for ly in self.children():
+            if isinstance(ly, nn.Conv2d):
+                nn.init.kaiming_normal_(ly.weight, a=1)
+                if not ly.bias is None: nn.init.constant_(ly.bias, 0)
+
+    def get_params(self):
+        wd_params, nowd_params, lr_mul_wd_params, lr_mul_nowd_params = [], [], [], []
+        for name, child in self.named_children():
+            child_wd_params, child_nowd_params = child.get_params()
+            if isinstance(child, FeatureFusionModule) or isinstance(child, BiSeNetOutput):
+                lr_mul_wd_params += child_wd_params
+                lr_mul_nowd_params += child_nowd_params
+            else:
+                wd_params += child_wd_params
+                nowd_params += child_nowd_params
+        return wd_params, nowd_params, lr_mul_wd_params, lr_mul_nowd_params
+
+
+if __name__ == "__main__":
+    net = BiSeNet(19)
+    net.cuda()
+    net.eval()
+    in_ten = torch.randn(16, 3, 640, 480).cuda()
+    out, out16, out32 = net(in_ten)
+    print(out.shape)
+
+    net.get_params()
