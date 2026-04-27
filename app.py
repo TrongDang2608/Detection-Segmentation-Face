@@ -26,17 +26,28 @@ tab1, tab2 = st.tabs(["Nhận diện khuôn mặt (Detection)", "Phân vùng khu
 with tab1:
     st.header("Chức năng Nhận diện (Face Detection)")
     st.write("Sử dụng RetinaFace để tìm kiếm và đóng khung khuôn mặt.")
+    # Tùy chọn chế độ nhận diện
+    col_opt1, col_opt2 = st.columns(2)
+    with col_opt1:
+        use_hard_mode = st.checkbox("Bật chế độ HARD (Tiling)", value=False, 
+                                    help="Dùng cho ảnh đám đông có hàng trăm khuôn mặt siêu nhỏ. Xử lý sẽ chậm hơn.")
+    
     upload_det = st.file_uploader("Tải lên ảnh để Nhận diện", type=["jpg", "jpeg", "png"], key="upload_det")
     
     if upload_det is not None:
         image = Image.open(upload_det).convert('RGB')
         img_rgb = np.array(image)
         
-        st.write("Đang xử lý nhận diện...")
-        faces = detector.detect(img_rgb)
+        with st.spinner("Đang xử lý nhận diện..."):
+            if use_hard_mode:
+                st.warning("Đang chạy chế độ HARD (Tiling) tối ưu. Vui lòng đợi...")
+                faces = detector.detect_hard_mode(img_rgb, grid_size=(4, 4))
+            else:
+                faces = detector.detect(img_rgb)
+        
         img_det = detector.draw_faces(img_rgb, faces)
         
-        st.write(f"Đã phát hiện **{len(faces)}** khuôn mặt trong ảnh.")
+        st.success(f"Đã hoàn thành! Phát hiện **{len(faces)}** khuôn mặt.")
         
         col1, col2 = st.columns(2)
         with col1:
