@@ -22,7 +22,7 @@ def test_segmentor_segment(dummy_image):
     """
     segmentor = FaceSegmentor(weight_path='weights/79999_iter.pth')
     try:
-        mask = segmentor.segment(dummy_image)
+        mask, _ = segmentor.segment(dummy_image)
         assert isinstance(mask, np.ndarray)
         assert mask.shape == dummy_image.shape[:2]  # Kích thước chiều cao và rộng khớp
         print("\nPass: Hàm segment() trả về mask đúng định dạng và kích thước")
